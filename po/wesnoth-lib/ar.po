@@ -1,0 +1,4306 @@
+# #-#-#-#-#  wesnoth-lib.cpp1.po (Battle for Wesnoth VERSION)  #-#-#-#-#
+# Arabic translations for Battle for Wesnoth package.
+# Copyright (C) 2008 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Automatically generated, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth 1.4.2+svn\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-01-03 10:40+0100\n"
+"PO-Revision-Date: 2008-07-01 17:35-0000\n"
+"Last-Translator: amnay <amnay@operamail.com>\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [terrain_type]: id=deep_water_gray
+#. [terrain_type]: id=deep_water
+#. [terrain_type]: id=deep_water_tropical
+#: data/core/terrain.cfg:18 data/core/terrain.cfg:29 data/core/terrain.cfg:39
+#, fuzzy
+msgid "Deep Water"
+msgstr "مياه عميقة"
+
+#. [terrain_type]: id=deep_water_gray
+#: data/core/terrain.cfg:19
+#, fuzzy
+msgid "Gray Deep Water"
+msgstr "مياه عميقة"
+
+#. [terrain_type]: id=deep_water
+#: data/core/terrain.cfg:30
+#, fuzzy
+msgid "Medium Deep Water"
+msgstr "مياه عميقة"
+
+#. [terrain_type]: id=deep_water_tropical
+#: data/core/terrain.cfg:40
+#, fuzzy
+msgid "Tropical Deep Water"
+msgstr "غابة مدارية"
+
+#. [terrain_type]: id=gray_tropical_water
+#. [terrain_type]: id=shallow_water
+#. [terrain_type]: id=tropical_water
+#: data/core/terrain.cfg:50 data/core/terrain.cfg:61 data/core/terrain.cfg:71
+msgid "Shallow Water"
+msgstr "مياه ضحلة"
+
+#. [terrain_type]: id=gray_tropical_water
+#: data/core/terrain.cfg:51
+#, fuzzy
+msgid "Gray Shallow Water"
+msgstr "مياه ضحلة"
+
+#. [terrain_type]: id=shallow_water
+#: data/core/terrain.cfg:62
+#, fuzzy
+msgid "Medium Shallow Water"
+msgstr "مياه ضحلة"
+
+#. [terrain_type]: id=tropical_water
+#: data/core/terrain.cfg:72
+#, fuzzy
+msgid "Tropical Shallow Water"
+msgstr "مياه ضحلة"
+
+#. [terrain_type]: id=ford
+#: data/core/terrain.cfg:82
+msgid "Ford"
+msgstr ""
+
+#. [terrain_type]: id=gray_reef
+#. [terrain_type]: id=reef
+#. [terrain_type]: id=tropical_reef
+#: data/core/terrain.cfg:92 data/core/terrain.cfg:103
+#: data/core/terrain.cfg:112
+#, fuzzy
+msgid "Coastal Reef"
+msgstr "ساحلي"
+
+#. [terrain_type]: id=gray_reef
+#: data/core/terrain.cfg:93
+#, fuzzy
+msgid "Gray Coastal Reef"
+msgstr "ساحلي"
+
+#. [terrain_type]: id=tropical_reef
+#: data/core/terrain.cfg:113
+#, fuzzy
+msgid "Tropical Coastal Reef"
+msgstr "ساحلي"
+
+#. [terrain_type]: id=swamp_water
+#. [terrain_type]: id=quagmire
+#: data/core/terrain.cfg:125 data/core/terrain.cfg:134
+msgid "Swamp"
+msgstr "مستنقع"
+
+#. [terrain_type]: id=quagmire
+#: data/core/terrain.cfg:135
+msgid "Muddy Quagmire"
+msgstr ""
+
+#. [terrain_type]: id=grassland
+#. [terrain_type]: id=savanna
+#. [terrain_type]: id=grass_dry
+#. [terrain_type]: id=leaf_litter
+#: data/core/terrain.cfg:152 data/core/terrain.cfg:163
+#: data/core/terrain.cfg:174 data/core/terrain.cfg:184
+msgid "Grassland"
+msgstr "مَرْج"
+
+#. [terrain_type]: id=grassland
+#: data/core/terrain.cfg:153
+msgid "Green Grass"
+msgstr ""
+
+#. [terrain_type]: id=savanna
+#: data/core/terrain.cfg:164
+msgid "Semi-dry Grass"
+msgstr ""
+
+#. [terrain_type]: id=grass_dry
+#: data/core/terrain.cfg:175
+msgid "Dry Grass"
+msgstr ""
+
+#. [terrain_type]: id=leaf_litter
+#: data/core/terrain.cfg:185
+msgid "Leaf Litter"
+msgstr ""
+
+#. [terrain_type]: id=dirt_dark
+#. [terrain_type]: id=dirt
+#. [terrain_type]: id=road
+#: data/core/terrain.cfg:196 data/core/terrain.cfg:206
+#: data/core/terrain.cfg:216
+#, fuzzy
+msgid "Dirt"
+msgstr "تُرَاب"
+
+#. [terrain_type]: id=dirt_dark
+#: data/core/terrain.cfg:197
+#, fuzzy
+msgid "Dark Dirt"
+msgstr "تُرَاب"
+
+#. [terrain_type]: id=dirt
+#: data/core/terrain.cfg:207
+msgid "Regular Dirt"
+msgstr ""
+
+#. [terrain_type]: id=road
+#: data/core/terrain.cfg:217
+#, fuzzy
+msgid "Dry Dirt"
+msgstr "تُرَاب"
+
+#. [terrain_type]: id=road
+#. [terrain_type]: id=road_clean
+#. [terrain_type]: id=stone_path
+#. [terrain_type]: id=flagstones_dark
+#. [terrain_type]: id=cave_path
+#: data/core/terrain.cfg:226 data/core/terrain.cfg:236
+#: data/core/terrain.cfg:246 data/core/terrain.cfg:845
+#: data/core/terrain.cfg:855
+msgid "Road"
+msgstr "طريق"
+
+#. [terrain_type]: id=road
+#: data/core/terrain.cfg:227
+msgid "Regular Cobbles"
+msgstr ""
+
+#. [terrain_type]: id=road_clean
+#: data/core/terrain.cfg:237
+#, fuzzy
+msgid "Clean Gray Cobbles"
+msgstr "محو اللصائق"
+
+#. [terrain_type]: id=stone_path
+#: data/core/terrain.cfg:247
+msgid "Overgrown Cobbles"
+msgstr ""
+
+#. [terrain_type]: id=ice
+#: data/core/terrain.cfg:260
+msgid "Ice"
+msgstr "جليد"
+
+#. [terrain_type]: id=snow
+#: data/core/terrain.cfg:269
+msgid "Snow"
+msgstr "ثلج"
+
+#. [terrain_type]: id=desert
+#: data/core/terrain.cfg:282
+#, fuzzy
+msgid "Desert"
+msgstr "صحراء"
+
+#. [terrain_type]: id=desert
+#: data/core/terrain.cfg:283
+#, fuzzy
+msgid "Desert Sands"
+msgstr "جبال صحراوية منيعة"
+
+#. [terrain_type]: id=sand
+#: data/core/terrain.cfg:292
+msgid "Sand"
+msgstr "رمال"
+
+#. [terrain_type]: id=sand
+#: data/core/terrain.cfg:293
+msgid "Beach Sands"
+msgstr ""
+
+#. [terrain_type]: id=oasis
+#: data/core/terrain.cfg:301
+msgid "Oasis"
+msgstr "واحة"
+
+#. [terrain_type]: id=sand_rubble
+#: data/core/terrain.cfg:313
+msgid "Rubble"
+msgstr "أنقاض"
+
+#. [terrain_type]: id=crater
+#: data/core/terrain.cfg:323
+msgid "Crater"
+msgstr "حفرة"
+
+#. [terrain_type]: id=flowers_mixed
+#: data/core/terrain.cfg:337
+#, fuzzy
+msgid "Mixed Flowers"
+msgstr "غابة مكسوة بالثلج"
+
+#. [terrain_type]: id=farm
+#: data/core/terrain.cfg:346
+msgid "Farmland"
+msgstr "مزرعة"
+
+#. [terrain_type]: id=stones_small
+#: data/core/terrain.cfg:355
+msgid "Stones"
+msgstr ""
+
+#. [terrain_type]: id=mushrooms_small
+#: data/core/terrain.cfg:364
+#, fuzzy
+msgid "Small Mushrooms"
+msgstr "بُسْتان الفُطر"
+
+#. [terrain_type]: id=mushrooms_farm
+#: data/core/terrain.cfg:373
+#, fuzzy
+msgid "Mushroom Farm"
+msgstr "بُسْتان الفُطر"
+
+#. [terrain_type]: id=desert_plants
+#: data/core/terrain.cfg:382
+#, fuzzy
+msgid "Desert Plants"
+msgstr "جبال صحراوية منيعة"
+
+#. [terrain_type]: id=desert_plants_sans_bones
+#: data/core/terrain.cfg:391
+#, fuzzy
+msgid "Desert Plants without Bones"
+msgstr "جبال صحراوية منيعة"
+
+#. [terrain_type]: id=windmill
+#: data/core/terrain.cfg:400
+msgid "Windmill"
+msgstr ""
+
+#. [terrain_type]: id=fence
+#: data/core/terrain.cfg:409
+msgid "Fence"
+msgstr ""
+
+#. [terrain_type]: id=sand_drifts
+#: data/core/terrain.cfg:418
+msgid "Stones with Sand Drifts"
+msgstr ""
+
+#. [terrain_type]: id=water-lilies
+#: data/core/terrain.cfg:427
+msgid "Water Lilies"
+msgstr ""
+
+#. [terrain_type]: id=water-lilies-flower
+#: data/core/terrain.cfg:437
+msgid "Flowering Water Lilies"
+msgstr ""
+
+#. [terrain_type]: id=great_tree
+#. [terrain_type]: id=great_tree_dead
+#: data/core/terrain.cfg:451 data/core/terrain.cfg:452
+#: data/core/terrain.cfg:463
+msgid "Great Tree"
+msgstr "شجرة شامخة"
+
+#. [terrain_type]: id=great_tree_dead
+#: data/core/terrain.cfg:464
+#, fuzzy
+#| msgid "Great Tree"
+msgid "Dead Great Tree"
+msgstr "شجرة شامخة"
+
+#. [terrain_type]: id=tropical_forest
+#. [terrain_type]: id=pine_forest
+#. [terrain_type]: id=snow_forest
+#. [terrain_type]: id=deciduous_forest_summer
+#. [terrain_type]: id=deciduous_forest_fall
+#. [terrain_type]: id=deciduous_forest_winter
+#. [terrain_type]: id=deciduous_forest_winter_snow
+#. [terrain_type]: id=mixed_forest_summer
+#. [terrain_type]: id=mixed_forest_fall
+#. [terrain_type]: id=mixed_forest_winter
+#. [terrain_type]: id=mixed_forest_winter_snow
+#. [terrain_type]: id=forest
+#: data/core/terrain.cfg:475 data/core/terrain.cfg:487
+#: data/core/terrain.cfg:499 data/core/terrain.cfg:511
+#: data/core/terrain.cfg:523 data/core/terrain.cfg:535
+#: data/core/terrain.cfg:547 data/core/terrain.cfg:559
+#: data/core/terrain.cfg:571 data/core/terrain.cfg:583
+#: data/core/terrain.cfg:595 data/core/terrain.cfg:2123
+msgid "Forest"
+msgstr "غابة"
+
+#. [terrain_type]: id=tropical_forest
+#: data/core/terrain.cfg:476
+msgid "Tropical Forest"
+msgstr "غابة مدارية"
+
+#. [terrain_type]: id=pine_forest
+#: data/core/terrain.cfg:488
+#, fuzzy
+msgid "Pine Forest"
+msgstr "غابة مكسوة بالثلج"
+
+#. [terrain_type]: id=snow_forest
+#: data/core/terrain.cfg:500
+#, fuzzy
+msgid "Snowy Pine Forest"
+msgstr "غابة مكسوة بالثلج"
+
+#. [terrain_type]: id=deciduous_forest_summer
+#: data/core/terrain.cfg:512
+#, fuzzy
+msgid "Summer Deciduous Forest"
+msgstr "غابة"
+
+#. [terrain_type]: id=deciduous_forest_fall
+#: data/core/terrain.cfg:524
+#, fuzzy
+msgid "Fall Deciduous Forest"
+msgstr "غابة"
+
+#. [terrain_type]: id=deciduous_forest_winter
+#: data/core/terrain.cfg:536
+#, fuzzy
+msgid "Winter Deciduous Forest"
+msgstr "غابة"
+
+#. [terrain_type]: id=deciduous_forest_winter_snow
+#: data/core/terrain.cfg:548
+#, fuzzy
+msgid "Snowy Deciduous Forest"
+msgstr "غابة مكسوة بالثلج"
+
+#. [terrain_type]: id=mixed_forest_summer
+#: data/core/terrain.cfg:560
+#, fuzzy
+msgid "Summer Mixed Forest"
+msgstr "غابة"
+
+#. [terrain_type]: id=mixed_forest_fall
+#: data/core/terrain.cfg:572
+#, fuzzy
+msgid "Fall Mixed Forest"
+msgstr "غابة مكسوة بالثلج"
+
+#. [terrain_type]: id=mixed_forest_winter
+#: data/core/terrain.cfg:584
+#, fuzzy
+msgid "Winter Mixed Forest"
+msgstr "غابة"
+
+#. [terrain_type]: id=mixed_forest_winter_snow
+#: data/core/terrain.cfg:596
+#, fuzzy
+msgid "Snowy Mixed Forest"
+msgstr "غابة مكسوة بالثلج"
+
+#. [terrain_type]: id=hills
+#. [terrain_type]: id=hills_dry
+#. [terrain_type]: id=snow_hills
+#. [terrain_type]: id=forested_hills
+#. [terrain_type]: id=forested_snow_hills
+#. [terrain_type]: id=deciduous_forest_summer_hills
+#. [terrain_type]: id=deciduous_forest_fall_hills
+#. [terrain_type]: id=deciduous_forest_winter_hills
+#. [terrain_type]: id=deciduous_forest_winter_snow_hills
+#. [terrain_type]: id=mixed_forest_summer_hills
+#. [terrain_type]: id=mixed_forest_fall_hills
+#. [terrain_type]: id=mixed_forest_winter_hills
+#. [terrain_type]: id=mixed_forest_winter_snow_hills
+#: data/core/terrain.cfg:611 data/core/terrain.cfg:620
+#: data/core/terrain.cfg:640 data/core/terrain.cfg:688
+#: data/core/terrain.cfg:699 data/core/terrain.cfg:710
+#: data/core/terrain.cfg:721 data/core/terrain.cfg:732
+#: data/core/terrain.cfg:743 data/core/terrain.cfg:754
+#: data/core/terrain.cfg:765 data/core/terrain.cfg:776
+#: data/core/terrain.cfg:787
+msgid "Hills"
+msgstr "تلال"
+
+#. [terrain_type]: id=hills
+#: data/core/terrain.cfg:612
+#, fuzzy
+msgid "Regular Hills"
+msgstr "تلال"
+
+#. [terrain_type]: id=hills_dry
+#: data/core/terrain.cfg:621
+#, fuzzy
+msgid "Dry Hills"
+msgstr "تلال"
+
+#. [terrain_type]: id=desert_hills
+#: data/core/terrain.cfg:630
+msgid "Dunes"
+msgstr "كثبان"
+
+#. [terrain_type]: id=snow_hills
+#: data/core/terrain.cfg:641
+msgid "Snow Hills"
+msgstr "تلال مكسوة بالثلج"
+
+#. [terrain_type]: id=mountains
+#. [terrain_type]: id=desert_mountains
+#. [terrain_type]: id=snow_mountains
+#. [terrain_type]: id=cloud
+#. [terrain_type]: id=clouddesert
+#. [terrain_type]: id=cloud_snow
+#: data/core/terrain.cfg:655 data/core/terrain.cfg:663
+#: data/core/terrain.cfg:673 data/core/terrain.cfg:1008
+#: data/core/terrain.cfg:1018 data/core/terrain.cfg:1028
+msgid "Mountains"
+msgstr "جبال"
+
+#. [terrain_type]: id=desert_mountains
+#: data/core/terrain.cfg:664
+#, fuzzy
+msgid "Dry Mountains"
+msgstr "جبال"
+
+#. [terrain_type]: id=snow_mountains
+#: data/core/terrain.cfg:674
+#, fuzzy
+msgid "Snowy Mountains"
+msgstr "جبال"
+
+#. [terrain_type]: id=forested_hills
+#: data/core/terrain.cfg:689
+#, fuzzy
+msgid "Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=forested_snow_hills
+#: data/core/terrain.cfg:700
+#, fuzzy
+msgid "Forested Snow Hills"
+msgstr "تلال مكسوة بالثلج"
+
+#. [terrain_type]: id=deciduous_forest_summer_hills
+#: data/core/terrain.cfg:711
+#, fuzzy
+msgid "Summer Deciduous Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=deciduous_forest_fall_hills
+#: data/core/terrain.cfg:722
+#, fuzzy
+msgid "Fall Deciduous Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=deciduous_forest_winter_hills
+#: data/core/terrain.cfg:733
+#, fuzzy
+msgid "Winter Deciduous Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=deciduous_forest_winter_snow_hills
+#: data/core/terrain.cfg:744
+#, fuzzy
+msgid "Snowy Deciduous Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=mixed_forest_summer_hills
+#: data/core/terrain.cfg:755
+#, fuzzy
+msgid "Summer Mixed Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=mixed_forest_fall_hills
+#: data/core/terrain.cfg:766
+#, fuzzy
+msgid "Fall Mixed Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=mixed_forest_winter_hills
+#: data/core/terrain.cfg:777
+#, fuzzy
+msgid "Winter Mixed Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]: id=mixed_forest_winter_snow_hills
+#: data/core/terrain.cfg:788
+#, fuzzy
+msgid "Snowy Mixed Forested Hills"
+msgstr "غابة"
+
+#. [terrain_type]
+#: data/core/terrain.cfg:800
+#, fuzzy
+msgid "Wooden Floor"
+msgstr "جسر"
+
+#. [terrain_type]
+#: data/core/terrain.cfg:802
+msgid "Basic Wooden Floor"
+msgstr ""
+
+#. [terrain_type]: id=lit
+#: data/core/terrain.cfg:815
+msgid "Lit"
+msgstr ""
+
+#. [terrain_type]: id=lit
+#: data/core/terrain.cfg:816
+msgid "Beam of Light"
+msgstr ""
+
+#. [terrain_type]: id=cave
+#. [terrain_type]: id=cave_earthy
+#: data/core/terrain.cfg:826 data/core/terrain.cfg:835
+msgid "Cave"
+msgstr "كهف"
+
+#. [terrain_type]: id=cave
+#: data/core/terrain.cfg:827
+#, fuzzy
+msgid "Cave Floor"
+msgstr "حائط كهف"
+
+#. [terrain_type]: id=cave_earthy
+#: data/core/terrain.cfg:836
+msgid "Earthy Cave Floor"
+msgstr ""
+
+#. [terrain_type]: id=flagstones_dark
+#: data/core/terrain.cfg:846
+msgid "Dark Flagstones"
+msgstr ""
+
+#. [terrain_type]: id=cave_path
+#: data/core/terrain.cfg:856
+#, fuzzy
+msgid "Cave Path"
+msgstr "كهف مضاء"
+
+#. [terrain_type]: id=fungus
+#. [terrain_type]: id=fungus_beam
+#: data/core/terrain.cfg:865 data/core/terrain.cfg:874
+msgid "Mushroom Grove"
+msgstr "بُسْتان الفُطر"
+
+#. [terrain_type]: id=fungus_beam
+#: data/core/terrain.cfg:875
+#, fuzzy
+msgid "Lit Mushroom Grove"
+msgstr "بُسْتان الفُطر"
+
+#. [terrain_type]: id=rocky_cave
+#: data/core/terrain.cfg:886
+msgid "Rockbound Cave"
+msgstr "كهف صخري"
+
+#. [terrain_type]: id=rails
+#. [terrain_type]: id=railsdiag1
+#. [terrain_type]: id=railsdiag2
+#: data/core/terrain.cfg:898 data/core/terrain.cfg:910
+#: data/core/terrain.cfg:922
+msgid "Mine Rail"
+msgstr ""
+
+#. [terrain_type]: id=canyon
+#. [terrain_type]: id=chasm_earthy
+#. [terrain_type]: id=abyss
+#. [terrain_type]: id=lava_chasm
+#: data/core/terrain.cfg:939 data/core/terrain.cfg:950
+#: data/core/terrain.cfg:961 data/core/terrain.cfg:972
+msgid "Chasm"
+msgstr "هاوِيَة"
+
+#. [terrain_type]: id=canyon
+#: data/core/terrain.cfg:940
+msgid "Regular Chasm"
+msgstr ""
+
+#. [terrain_type]: id=chasm_earthy
+#: data/core/terrain.cfg:951
+msgid "Earthy Chasm"
+msgstr ""
+
+#. [terrain_type]: id=abyss
+#: data/core/terrain.cfg:962
+msgid "Ethereal Abyss"
+msgstr ""
+
+#. [terrain_type]: id=lava_chasm
+#: data/core/terrain.cfg:973
+msgid "Lava Chasm"
+msgstr "هاوية لافا"
+
+#. [terrain_type]: id=lava
+#: data/core/terrain.cfg:983
+msgid "Lava"
+msgstr "لافا"
+
+#. [terrain_type]: id=volcano
+#: data/core/terrain.cfg:994
+msgid "Volcano"
+msgstr ""
+
+#. [terrain_type]: id=cloud
+#: data/core/terrain.cfg:1009
+#, fuzzy
+msgid "Regular Impassable Mountains"
+msgstr "جبال منيعة"
+
+#. [terrain_type]: id=clouddesert
+#: data/core/terrain.cfg:1019
+#, fuzzy
+msgid "Desert Impassable Mountains"
+msgstr "جبال منيعة"
+
+#. [terrain_type]: id=cloud_snow
+#: data/core/terrain.cfg:1029
+#, fuzzy
+msgid "Snowy Impassable Mountains"
+msgstr "جبال منيعة"
+
+#. [terrain_type]: id=cavewall
+#. [terrain_type]: id=cavewall_hewn
+#. [terrain_type]: id=cavewall_earthy
+#. [terrain_type]: id=cavewall_earthy_hewn
+#: data/core/terrain.cfg:1039 data/core/terrain.cfg:1050
+#: data/core/terrain.cfg:1061 data/core/terrain.cfg:1072
+#, fuzzy
+msgid "Cave Wall"
+msgstr "حائط كهف"
+
+#. [terrain_type]: id=cavewall
+#: data/core/terrain.cfg:1040
+#, fuzzy
+msgid "Natural Cave Wall"
+msgstr "حائط كهف"
+
+#. [terrain_type]: id=cavewall_hewn
+#: data/core/terrain.cfg:1051
+#, fuzzy
+msgid "Hewn Cave Wall"
+msgstr "حائط كهف"
+
+#. [terrain_type]: id=cavewall_earthy
+#: data/core/terrain.cfg:1062
+msgid "Natural Earthy Cave Wall"
+msgstr ""
+
+#. [terrain_type]: id=cavewall_earthy_hewn
+#: data/core/terrain.cfg:1073
+msgid "Reinforced Earthy Cave Wall"
+msgstr ""
+
+#. [terrain_type]: id=wall_stone
+#. [terrain_type]: id=wall_stone_lit
+#: data/core/terrain.cfg:1083 data/core/terrain.cfg:1093
+#, fuzzy
+msgid "Stone Wall"
+msgstr "حائط كهف"
+
+#. [terrain_type]: id=wall_stone_lit
+#: data/core/terrain.cfg:1094
+msgid "Lit Stone Wall"
+msgstr ""
+
+#. [terrain_type]: id=impassable_overlay
+#: data/core/terrain.cfg:1104
+#, fuzzy
+msgid "Impassable Overlay"
+msgstr "جبال منيعة"
+
+#. [terrain_type]: id=void
+#. [terrain_type]: id=off_map
+#. [terrain_type]: id=off_map2
+#: data/core/terrain.cfg:1115 data/core/terrain.cfg:2046
+#: data/core/terrain.cfg:2056
+msgid "Void"
+msgstr "فراغ"
+
+#. [terrain_type]: id=desert_village
+#. [terrain_type]: id=camp_village
+#. [terrain_type]: id=orcish_village
+#. [terrain_type]: id=orcish_snow_village
+#. [terrain_type]: id=elven_snow_village
+#. [terrain_type]: id=elven_village
+#. [terrain_type]: id=human_village
+#. [terrain_type]: id=snow_village
+#. [terrain_type]: id=human_village_ruin
+#. [terrain_type]: id=city_village
+#. [terrain_type]: id=windmill_village
+#. [terrain_type]: id=city_village_wno
+#. [terrain_type]: id=hill_village
+#. [terrain_type]: id=snow-hill_village
+#. [terrain_type]: id=hill_village_ruin
+#. [terrain_type]: id=tropical_forest_village
+#. [terrain_type]: id=drake_village
+#. [terrain_type]: id=underground_village
+#. [terrain_type]: id=dwarven_village
+#. [terrain_type]: id=hut_village
+#. [terrain_type]: id=hut_snow_village
+#. [terrain_type]: id=logcabin_village
+#. [terrain_type]: id=logcabin_snow_village
+#. [terrain_type]: id=igloo
+#. [terrain_type]: id=swamp_village
+#. [terrain_type]: id=mermen-village
+#. [terrain_type]: id=village_overlay
+#. [terrain_type]: id=village
+#: data/core/terrain.cfg:1130 data/core/terrain.cfg:1143
+#: data/core/terrain.cfg:1156 data/core/terrain.cfg:1171
+#: data/core/terrain.cfg:1184 data/core/terrain.cfg:1199
+#: data/core/terrain.cfg:1212 data/core/terrain.cfg:1227
+#: data/core/terrain.cfg:1240 data/core/terrain.cfg:1253
+#: data/core/terrain.cfg:1266 data/core/terrain.cfg:1279
+#: data/core/terrain.cfg:1292 data/core/terrain.cfg:1305
+#: data/core/terrain.cfg:1318 data/core/terrain.cfg:1331
+#: data/core/terrain.cfg:1344 data/core/terrain.cfg:1357
+#: data/core/terrain.cfg:1370 data/core/terrain.cfg:1385
+#: data/core/terrain.cfg:1398 data/core/terrain.cfg:1411
+#: data/core/terrain.cfg:1424 data/core/terrain.cfg:1437
+#: data/core/terrain.cfg:1450 data/core/terrain.cfg:1463
+#: data/core/terrain.cfg:1478 data/core/terrain.cfg:1491
+#: data/core/terrain.cfg:1506 data/core/terrain.cfg:2137
+msgid "Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=desert_village
+#: data/core/terrain.cfg:1131
+#, fuzzy
+msgid "Adobe Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=desert_village
+#: data/core/terrain.cfg:1144
+msgid "Desert Tent Village"
+msgstr ""
+
+#. [terrain_type]: id=camp_village
+#: data/core/terrain.cfg:1157
+#, fuzzy
+msgid "Tent Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=orcish_village
+#: data/core/terrain.cfg:1172
+#, fuzzy
+msgid "Orcish Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=orcish_snow_village
+#: data/core/terrain.cfg:1185
+msgid "Snowy Orcish Village"
+msgstr ""
+
+#. [terrain_type]: id=elven_snow_village
+#: data/core/terrain.cfg:1200
+msgid "Snowy Elven Village"
+msgstr ""
+
+#. [terrain_type]: id=elven_village
+#: data/core/terrain.cfg:1213
+#, fuzzy
+msgid "Elven Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=human_village
+#: data/core/terrain.cfg:1228
+msgid "Cottage"
+msgstr ""
+
+#. [terrain_type]: id=snow_village
+#: data/core/terrain.cfg:1241
+#, fuzzy
+msgid "Snowy Cottage"
+msgstr "جبال"
+
+#. [terrain_type]: id=human_village_ruin
+#: data/core/terrain.cfg:1254
+#, fuzzy
+msgid "Ruined Cottage"
+msgstr "جبال"
+
+#. [terrain_type]: id=city_village
+#: data/core/terrain.cfg:1267
+#, fuzzy
+msgid "Human City"
+msgstr "قصر"
+
+#. [terrain_type]: id=windmill_village
+#: data/core/terrain.cfg:1280
+#, fuzzy
+msgid "Windmill Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=city_village_wno
+#: data/core/terrain.cfg:1293
+#, fuzzy
+msgid "Snowy Human City"
+msgstr "جبال"
+
+#. [terrain_type]: id=city_village
+#: data/core/terrain.cfg:1306
+#, fuzzy
+msgid "Ruined Human City"
+msgstr "قصر"
+
+#. [terrain_type]: id=hill_village
+#: data/core/terrain.cfg:1319
+msgid "Hill Stone Village"
+msgstr ""
+
+#. [terrain_type]: id=snow-hill_village
+#: data/core/terrain.cfg:1332
+msgid "Snowy Hill Stone Village"
+msgstr ""
+
+#. [terrain_type]: id=hill_village_ruin
+#: data/core/terrain.cfg:1345
+#, fuzzy
+msgid "Ruined Hill Stone Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=tropical_forest_village
+#: data/core/terrain.cfg:1358
+#, fuzzy
+msgid "Tropical Village"
+msgstr "غابة مدارية"
+
+#. [terrain_type]: id=drake_village
+#: data/core/terrain.cfg:1371
+#, fuzzy
+msgid "Drake Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=underground_village
+#: data/core/terrain.cfg:1386
+#, fuzzy
+msgid "Cave Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=dwarven_village
+#: data/core/terrain.cfg:1399
+#, fuzzy
+msgid "Dwarven Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=hut_village
+#: data/core/terrain.cfg:1412
+#, fuzzy
+msgid "Hut"
+msgstr "قصّ"
+
+#. [terrain_type]: id=hut_snow_village
+#: data/core/terrain.cfg:1425
+#, fuzzy
+msgid "Snowy Hut"
+msgstr "جبال"
+
+#. [terrain_type]: id=logcabin_village
+#: data/core/terrain.cfg:1438
+msgid "Log Cabin"
+msgstr ""
+
+#. [terrain_type]: id=logcabin_snow_village
+#: data/core/terrain.cfg:1451
+#, fuzzy
+msgid "Snowy Log Cabin"
+msgstr "جبال"
+
+#. [terrain_type]: id=igloo
+#: data/core/terrain.cfg:1464
+msgid "Igloo"
+msgstr ""
+
+#. [terrain_type]: id=swamp_village
+#: data/core/terrain.cfg:1479
+#, fuzzy
+msgid "Swamp Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=mermen-village
+#: data/core/terrain.cfg:1492
+#, fuzzy
+msgid "Merfolk Village"
+msgstr "قرية"
+
+#. [terrain_type]: id=village_overlay
+#: data/core/terrain.cfg:1507
+#, fuzzy
+msgid "Village Overlay"
+msgstr "قصر"
+
+#. [terrain_type]: id=encampment
+#. [terrain_type]: id=encampment_snow
+#: data/core/terrain.cfg:1522 data/core/terrain.cfg:1523
+#: data/core/terrain.cfg:1534
+msgid "Encampment"
+msgstr "مخيّم"
+
+#. [terrain_type]: id=encampment_snow
+#: data/core/terrain.cfg:1535
+#, fuzzy
+msgid "Snowy Encampment"
+msgstr "مخيّم"
+
+#. [terrain_type]: id=orcish_fort
+#. [terrain_type]: id=snow_orcish_fort
+#. [terrain_type]: id=castle
+#. [terrain_type]: id=snow_castle
+#. [terrain_type]: id=elven_castle
+#. [terrain_type]: id=dwarven_castle
+#. [terrain_type]: id=sand_castle
+#. [terrain_type]: id=castle_overlay
+#: data/core/terrain.cfg:1546 data/core/terrain.cfg:1558
+#: data/core/terrain.cfg:1570 data/core/terrain.cfg:1581
+#: data/core/terrain.cfg:1592 data/core/terrain.cfg:1604
+#: data/core/terrain.cfg:1654 data/core/terrain.cfg:1864
+msgid "Castle"
+msgstr "قصر"
+
+#. [terrain_type]: id=orcish_fort
+#: data/core/terrain.cfg:1547
+#, fuzzy
+msgid "Orcish Castle"
+msgstr "قصر"
+
+#. [terrain_type]: id=snow_orcish_fort
+#: data/core/terrain.cfg:1559
+msgid "Snowy Orcish Castle"
+msgstr ""
+
+#. [terrain_type]: id=castle
+#: data/core/terrain.cfg:1571
+#, fuzzy
+msgid "Human Castle"
+msgstr "قصر"
+
+#. [terrain_type]: id=snow_castle
+#: data/core/terrain.cfg:1582
+#, fuzzy
+msgid "Snowy Human Castle"
+msgstr "جبال"
+
+#. [terrain_type]: id=elven_castle
+#: data/core/terrain.cfg:1593
+#, fuzzy
+msgid "Elvish Castle"
+msgstr "قصر"
+
+#. [terrain_type]: id=dwarven_castle
+#: data/core/terrain.cfg:1605
+#, fuzzy
+msgid "Dwarven Castle"
+msgstr "قصر"
+
+#. [terrain_type]: id=ruin
+#. [terrain_type]: id=sunkenruin
+#. [terrain_type]: id=swampruin
+#. [terrain_type]: id=sand_castle_ruin
+#: data/core/terrain.cfg:1616 data/core/terrain.cfg:1628
+#: data/core/terrain.cfg:1641 data/core/terrain.cfg:1666
+#, fuzzy
+msgid "Ruined Castle"
+msgstr "قصر"
+
+#. [terrain_type]: id=ruin
+#: data/core/terrain.cfg:1617
+#, fuzzy
+msgid "Ruined Human Castle"
+msgstr "قصر"
+
+#. [terrain_type]: id=sunkenruin
+#: data/core/terrain.cfg:1629
+#, fuzzy
+msgid "Sunken Human Ruin"
+msgstr "خراب مغمور"
+
+#. [terrain_type]: id=swampruin
+#: data/core/terrain.cfg:1642
+#, fuzzy
+msgid "Swamp Human Ruin"
+msgstr "خراب مستنقع"
+
+#. [terrain_type]: id=sand_castle
+#: data/core/terrain.cfg:1655
+#, fuzzy
+msgid "Desert Castle"
+msgstr "جبال صحراوية منيعة"
+
+#. [terrain_type]: id=sand_castle_ruin
+#: data/core/terrain.cfg:1667
+#, fuzzy
+msgid "Ruined Desert Castle"
+msgstr "جبال صحراوية منيعة"
+
+#. [terrain_type]: id=encampment_keep
+#. [terrain_type]: id=encampment_keep_tall
+#. [terrain_type]: id=encampment_snow_keep
+#: data/core/terrain.cfg:1682 data/core/terrain.cfg:1694
+#: data/core/terrain.cfg:1707
+#, fuzzy
+msgid "Encampment Keep"
+msgstr "مخيّم"
+
+#. [terrain_type]: id=encampment_keep_tall
+#: data/core/terrain.cfg:1695
+#, fuzzy
+msgid "Tall Encampment Keep"
+msgstr "مخيّم"
+
+#. [terrain_type]: id=encampment_snow_keep
+#: data/core/terrain.cfg:1708
+#, fuzzy
+msgid "Snowy Encampment Keep"
+msgstr "مخيّم"
+
+#. [terrain_type]: id=orcish_keep
+#. [terrain_type]: id=snow_orcish_keep
+#. [terrain_type]: id=human_keep
+#. [terrain_type]: id=snow_keep
+#. [terrain_type]: id=elven_keep
+#. [terrain_type]: id=dwarven_keep
+#. [terrain_type]: id=desert_keep
+#. [terrain_type]: id=keep_overlay
+#: data/core/terrain.cfg:1720 data/core/terrain.cfg:1733
+#: data/core/terrain.cfg:1746 data/core/terrain.cfg:1759
+#: data/core/terrain.cfg:1772 data/core/terrain.cfg:1785
+#: data/core/terrain.cfg:1837 data/core/terrain.cfg:1876
+msgid "Keep"
+msgstr "حصن"
+
+#. [terrain_type]: id=orcish_keep
+#: data/core/terrain.cfg:1721
+#, fuzzy
+msgid "Orcish Keep"
+msgstr "حصن"
+
+#. [terrain_type]: id=snow_orcish_keep
+#: data/core/terrain.cfg:1734
+msgid "Snowy Orcish Keep"
+msgstr ""
+
+#. [terrain_type]: id=human_keep
+#: data/core/terrain.cfg:1747
+#, fuzzy
+msgid "Human Castle Keep"
+msgstr "قصر"
+
+#. [terrain_type]: id=snow_keep
+#: data/core/terrain.cfg:1760
+#, fuzzy
+msgid "Snowy Human Castle Keep"
+msgstr "جبال"
+
+#. [terrain_type]: id=elven_keep
+#: data/core/terrain.cfg:1773
+#, fuzzy
+msgid "Elven Castle Keep"
+msgstr "قصر"
+
+#. [terrain_type]: id=dwarven_keep
+#: data/core/terrain.cfg:1786
+#, fuzzy
+msgid "Dwarven Castle Keep"
+msgstr "قصر"
+
+#. [terrain_type]: id=ruined_keep
+#. [terrain_type]: id=sunken_keep
+#. [terrain_type]: id=swamp_keep
+#. [terrain_type]: id=desert_keep_ruined
+#: data/core/terrain.cfg:1798 data/core/terrain.cfg:1811
+#: data/core/terrain.cfg:1824 data/core/terrain.cfg:1850
+#, fuzzy
+msgid "Ruined Keep"
+msgstr "صحراء"
+
+#. [terrain_type]: id=ruined_keep
+#: data/core/terrain.cfg:1799
+#, fuzzy
+msgid "Ruined Human Castle Keep"
+msgstr "قصر"
+
+#. [terrain_type]: id=sunken_keep
+#: data/core/terrain.cfg:1812
+#, fuzzy
+msgid "Sunken Human Castle Keep"
+msgstr "قصر"
+
+#. [terrain_type]: id=swamp_keep
+#: data/core/terrain.cfg:1825
+#, fuzzy
+msgid "Swamp Human Castle Keep"
+msgstr "قصر"
+
+#. [terrain_type]: id=desert_keep
+#: data/core/terrain.cfg:1838
+#, fuzzy
+msgid "Desert Keep"
+msgstr "صحراء"
+
+#. [terrain_type]: id=desert_keep_ruined
+#: data/core/terrain.cfg:1851
+#, fuzzy
+msgid "Ruined Desert Keep"
+msgstr "صحراء"
+
+#. [terrain_type]: id=castle_overlay
+#: data/core/terrain.cfg:1865
+#, fuzzy
+msgid "Castle Overlay"
+msgstr "قصر"
+
+#. [terrain_type]: id=keep_overlay
+#: data/core/terrain.cfg:1877
+msgid "Keep Overlay"
+msgstr ""
+
+#. [terrain_type]: id=bridge
+#. [terrain_type]: id=bridgediag1
+#. [terrain_type]: id=bridgediag2
+#. [terrain_type]: id=rotbridge
+#. [terrain_type]: id=rotbridgediag1
+#. [terrain_type]: id=rotbridgediag2
+#. [terrain_type]: id=stone_bridge
+#. [terrain_type]: id=bridgechasm
+#. [terrain_type]: id=bridgechasmdiag1
+#. [terrain_type]: id=bridgechasmdiag2
+#: data/core/terrain.cfg:1894 data/core/terrain.cfg:1906
+#: data/core/terrain.cfg:1918 data/core/terrain.cfg:1930
+#: data/core/terrain.cfg:1942 data/core/terrain.cfg:1954
+#: data/core/terrain.cfg:1968 data/core/terrain.cfg:1980
+#: data/core/terrain.cfg:1992 data/core/terrain.cfg:2006
+#: data/core/terrain.cfg:2017 data/core/terrain.cfg:2029
+#, fuzzy
+msgid "Bridge"
+msgstr "جسر"
+
+#. [terrain_type]: id=bridge
+#. [terrain_type]: id=bridgediag1
+#. [terrain_type]: id=bridgediag2
+#: data/core/terrain.cfg:1895 data/core/terrain.cfg:1907
+#: data/core/terrain.cfg:1919
+#, fuzzy
+msgid "Wooden Bridge"
+msgstr "جسر"
+
+#. [terrain_type]: id=rotbridge
+#. [terrain_type]: id=rotbridgediag1
+#. [terrain_type]: id=rotbridgediag2
+#: data/core/terrain.cfg:1931 data/core/terrain.cfg:1943
+#: data/core/terrain.cfg:1955
+#, fuzzy
+msgid "Rotting Bridge"
+msgstr "جسر"
+
+#. [terrain_type]: id=stone_bridge
+#: data/core/terrain.cfg:1969 data/core/terrain.cfg:1981
+#: data/core/terrain.cfg:1993
+msgid "Basic Stone Bridge"
+msgstr ""
+
+#. [terrain_type]: id=bridgechasm
+#. [terrain_type]: id=bridgechasmdiag1
+#. [terrain_type]: id=bridgechasmdiag2
+#: data/core/terrain.cfg:2007 data/core/terrain.cfg:2018
+#: data/core/terrain.cfg:2030
+#, fuzzy
+msgid "Cave Chasm Bridge"
+msgstr "جسر"
+
+#. [terrain_type]: id=off_map
+#: data/core/terrain.cfg:2047
+msgid "Off Map"
+msgstr ""
+
+#. [terrain_type]: id=off_map2
+#: data/core/terrain.cfg:2057
+msgid "Experimental Fake Map Edge"
+msgstr ""
+
+#. [toggle_button]: id=shroud
+#. [terrain_type]: id=shroud
+#: data/core/terrain.cfg:2066 data/gui/default/window/mp_create_game.cfg:479
+msgid "Shroud"
+msgstr "حجاب"
+
+#. [terrain_type]: id=fog
+#: data/core/terrain.cfg:2075
+msgid "Fog"
+msgstr "ضباب"
+
+#. [terrain_type]: id=flat
+#: data/core/terrain.cfg:2116
+msgid "Flat"
+msgstr ""
+
+#. [terrain_type]: id=frozen
+#: data/core/terrain.cfg:2130
+msgid "Frozen"
+msgstr ""
+
+#. [terrain_type]: id=impassable
+#: data/core/terrain.cfg:2144
+#, fuzzy
+msgid "Impassable"
+msgstr "جبال منيعة"
+
+#. [terrain_type]: id=unwalkable
+#: data/core/terrain.cfg:2151
+msgid "Unwalkable"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=click_dismiss
+#. [button]: id=ok
+#. [button]: id=cancel
+#. [button]: id=close_window
+#: data/gui/default/widget/window_default.cfg:140
+#: data/gui/default/window/chat_log.cfg:121
+#: data/gui/default/window/gamestate_inspector.cfg:339
+#: data/gui/default/window/lobby_main.cfg:619
+#: data/gui/default/window/lobby_player_info.cfg:200
+#: data/gui/default/window/message.cfg:133 src/construct_dialog.cpp:134
+#: src/mapgen_dialog.cpp:110 src/preferences_display.cpp:272
+msgid "Close"
+msgstr "غلق"
+
+#. [label]
+#. [column]
+#: data/gui/default/window/addon_connect.cfg:40
+#: data/gui/default/window/mp_connect.cfg:41
+#: data/gui/default/window/mp_method_selection.cfg:156
+#: data/gui/default/window/mp_server_list.cfg:49
+#, fuzzy
+msgid "Connect to Server"
+msgstr "متابعة الحركة"
+
+#. [label]
+#: data/gui/default/window/addon_connect.cfg:59
+msgid "You will now connect to a server to download add-ons."
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/addon_connect.cfg:89
+#: data/gui/default/window/mp_connect.cfg:90
+msgid "Server:"
+msgstr ""
+
+#. [button]: id=update_addons
+#: data/gui/default/window/addon_connect.cfg:145
+#: data/gui/default/window/addon_connect.cfg:146
+#, fuzzy
+msgid "Update Add-ons"
+msgstr "تجديد الإنتقال بين الخانات"
+
+#. [button]: id=remove_addons
+#: data/gui/default/window/addon_connect.cfg:180
+#: data/gui/default/window/addon_connect.cfg:181
+#, fuzzy
+msgid "Remove Add-ons"
+msgstr "حذف"
+
+#. [button]: id=ok
+#: data/gui/default/window/addon_connect.cfg:213
+#: data/gui/default/window/addon_connect.cfg:214
+#: data/gui/default/window/mp_connect.cfg:185
+#: data/gui/default/window/mp_connect.cfg:186
+msgid "Connect"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+#: data/gui/default/window/addon_connect.cfg:228
+#: data/gui/default/window/addon_uninstall_list.cfg:175
+#: data/gui/default/window/campaign_dialog.cfg:440
+#: data/gui/default/window/campaign_difficulty.cfg:193
+#: data/gui/default/window/data_manage.cfg:361
+#: data/gui/default/window/edit_label.cfg:153
+#: data/gui/default/window/editor_generate_map.cfg:108
+#: data/gui/default/window/editor_new_map.cfg:119
+#: data/gui/default/window/editor_resize_map.cfg:281
+#: data/gui/default/window/editor_set_starting_position.cfg:176
+#: data/gui/default/window/editor_settings.cfg:262
+#: data/gui/default/window/folder_create.cfg:137
+#: data/gui/default/window/game_load.cfg:451
+#: data/gui/default/window/game_save.cfg:142
+#: data/gui/default/window/language_selection.cfg:143
+#: data/gui/default/window/message.cfg:147
+#: data/gui/default/window/mp_change_control.cfg:160
+#: data/gui/default/window/mp_cmd_wrapper.cfg:470
+#: data/gui/default/window/mp_connect.cfg:200
+#: data/gui/default/window/mp_create_game.cfg:558
+#: data/gui/default/window/mp_login.cfg:272
+#: data/gui/default/window/mp_method_selection.cfg:226
+#: data/gui/default/window/mp_server_list.cfg:237
+#: data/gui/default/window/simple_item_selector.cfg:159
+#: data/gui/default/window/unit_attack.cfg:208
+#: data/gui/default/window/unit_create.cfg:209
+#: data/gui/default/window/unit_create.cfg:210 src/construct_dialog.cpp:128
+#: src/construct_dialog.cpp:131 src/hotkeys.cpp:52
+msgid "Cancel"
+msgstr "إلغاء"
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:88
+msgid "Author:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:118
+msgid "Version:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:149
+msgid "Size:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:180
+#, fuzzy
+msgid "Description:"
+msgstr "وصف الوحدة"
+
+#. [scroll_label]: id=description
+#: data/gui/default/window/addon_description.cfg:194
+msgid "No description available."
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:212
+msgid "Translations:"
+msgstr ""
+
+#. [scroll_label]: id=translations
+#: data/gui/default/window/addon_description.cfg:226
+msgid "translations^None"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/addon_uninstall_list.cfg:51
+#, fuzzy
+msgid "Uninstall Add-ons"
+msgstr "تجديد الإنتقال بين الخانات"
+
+#. [scroll_label]
+#: data/gui/default/window/addon_uninstall_list.cfg:70
+msgid "Choose the add-ons you want to remove."
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=remove
+#. [button]: id=ok
+#: data/gui/default/window/addon_uninstall_list.cfg:162
+#: data/gui/default/window/mp_cmd_wrapper.cfg:200
+#: src/game_preferences_display.cpp:192
+msgid "Remove"
+msgstr "حذف"
+
+#. [label]
+#: data/gui/default/window/campaign_dialog.cfg:56
+msgid "Play a campaign"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#: data/gui/default/window/campaign_dialog.cfg:426
+#: data/gui/default/window/campaign_difficulty.cfg:180
+#: data/gui/default/window/data_manage.cfg:347
+#: data/gui/default/window/data_manage.cfg:348
+#: data/gui/default/window/edit_label.cfg:139
+#: data/gui/default/window/editor_set_starting_position.cfg:163
+#: data/gui/default/window/editor_settings.cfg:252
+#: data/gui/default/window/folder_create.cfg:123
+#: data/gui/default/window/game_load.cfg:437
+#: data/gui/default/window/game_load.cfg:438
+#: data/gui/default/window/game_save.cfg:127
+#: data/gui/default/window/game_save.cfg:128
+#: data/gui/default/window/mp_change_control.cfg:150
+#: data/gui/default/window/mp_create_game_set_password.cfg:133
+#: data/gui/default/window/mp_login.cfg:244
+#: data/gui/default/window/mp_method_selection.cfg:212
+#: data/gui/default/window/simple_item_selector.cfg:146
+#: data/gui/default/window/unit_create.cfg:197
+#: data/gui/default/window/unit_create.cfg:198
+#: data/gui/default/window/wml_message.cfg:485
+#: data/gui/default/window/wml_message.cfg:714 src/construct_dialog.cpp:120
+#: src/construct_dialog.cpp:127 src/gui/dialogs/message.cpp:162
+#: src/gui/dialogs/message.cpp:169
+msgid "OK"
+msgstr "OK"
+
+#. [label]: id=title
+#: data/gui/default/window/campaign_difficulty.cfg:57
+msgid "Difficulty"
+msgstr ""
+
+#. [scroll_label]: id=message
+#: data/gui/default/window/campaign_difficulty.cfg:77
+msgid "Select difficulty level:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/chat_log.cfg:38
+#, fuzzy
+#| msgid "View Chat Log"
+msgid "Chat Log"
+msgstr "إظهار تاريخ الحديث"
+
+#. [label]
+#: data/gui/default/window/chat_log.cfg:56
+msgid "Page:"
+msgstr ""
+
+#. [slider]: id=page_number
+#: data/gui/default/window/chat_log.cfg:69
+msgid "Last"
+msgstr ""
+
+#. [button]: id=previous_page
+#. [button]: id=previous_tip
+#: data/gui/default/window/chat_log.cfg:79
+#: data/gui/default/window/title_screen.cfg:162
+#, fuzzy
+msgid "Previous"
+msgstr "الوحدة السابقة"
+
+#. [button]: id=next_tod
+#. [button]: id=next_page
+#. [button]: id=next_tip
+#: data/gui/default/window/chat_log.cfg:89
+#: data/gui/default/window/editor_settings.cfg:79
+#: data/gui/default/window/editor_settings.cfg:80
+#: data/gui/default/window/title_screen.cfg:177
+#, fuzzy
+msgid "Next"
+msgstr "الوحدة التالية"
+
+#. [label]: id=lblTitle
+#: data/gui/default/window/data_manage.cfg:50
+msgid "Manage Data"
+msgstr ""
+
+#. [label]: id=lblChoose
+#: data/gui/default/window/data_manage.cfg:89
+#: data/gui/default/window/game_load.cfg:189
+msgid "Choose the game to load"
+msgstr ""
+
+#. [label]: id=lblFilter
+#: data/gui/default/window/data_manage.cfg:113
+#: data/gui/default/window/game_load.cfg:213
+#, fuzzy
+msgid "Filter"
+msgstr "الملف:"
+
+#. [label]: id=filename
+#. [label]: id=name
+#: data/gui/default/window/data_manage.cfg:163
+#: data/gui/default/window/game_load.cfg:263
+#: data/gui/default/window/mp_server_list.cfg:104
+#, fuzzy
+msgid "Name"
+msgstr "الإسم:"
+
+#. [label]: id=date
+#: data/gui/default/window/data_manage.cfg:177
+#: data/gui/default/window/game_load.cfg:277
+#, fuzzy
+msgid "Date"
+msgstr "إلصاق"
+
+#. [button]: id=clear
+#: data/gui/default/window/data_manage.cfg:266
+#: data/gui/default/window/data_manage.cfg:267
+msgid "Clear"
+msgstr ""
+
+#. [button]: id=restore
+#: data/gui/default/window/data_manage.cfg:283
+#: data/gui/default/window/data_manage.cfg:284
+msgid "Restore"
+msgstr ""
+
+#. [button]: id=backup
+#: data/gui/default/window/data_manage.cfg:300
+#: data/gui/default/window/data_manage.cfg:301
+msgid "Backup"
+msgstr ""
+
+#. [label]: id=title
+#: data/gui/default/window/edit_label.cfg:42
+#, fuzzy
+msgid "Place Label"
+msgstr "وضع لصيقة"
+
+#. [label]
+#: data/gui/default/window/edit_label.cfg:72
+#, fuzzy
+msgid "Label:"
+msgstr "وضع لصيقة"
+
+#. [toggle_button]: id=team_only_toggle
+#: data/gui/default/window/edit_label.cfg:110
+#, fuzzy
+msgid "Team only"
+msgstr "الفريق 1"
+
+#. [label]
+#: data/gui/default/window/editor_generate_map.cfg:35
+msgid "Generate Random Map"
+msgstr "توليد خريطة عشوائية"
+
+#. [button]: id=next_generator
+#: data/gui/default/window/editor_generate_map.cfg:64
+#: data/gui/default/window/editor_generate_map.cfg:65
+#, fuzzy
+msgid "Next Generator"
+msgstr "مُوَلِّد الخرائط"
+
+#. [button]: id=settings
+#: data/gui/default/window/editor_generate_map.cfg:87
+#: data/gui/default/window/editor_generate_map.cfg:88
+#, fuzzy
+msgid "Settings"
+msgstr "تفضيلتات مفتاح الاختصار"
+
+#. [button]: id=ok
+#: data/gui/default/window/editor_generate_map.cfg:98
+#, fuzzy
+msgid "Generate"
+msgstr "إنشاء خريطة جديدة"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:35 src/hotkeys.cpp:126
+msgid "New Map"
+msgstr "خريطة جديدة"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:54 src/mapgen_dialog.cpp:121
+msgid "Width:"
+msgstr "العرض:"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:81 src/mapgen_dialog.cpp:122
+msgid "Height:"
+msgstr "الطول:"
+
+#. [button]: id=ok
+#: data/gui/default/window/editor_new_map.cfg:108
+#: data/gui/default/window/editor_new_map.cfg:109
+#, fuzzy
+msgid "Create New Map"
+msgstr "إنشاء خريطة جديدة"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#. [button]: id=ok
+#: data/gui/default/window/editor_resize_map.cfg:35
+#: data/gui/default/window/editor_resize_map.cfg:270
+#: data/gui/default/window/editor_resize_map.cfg:271 src/hotkeys.cpp:172
+msgid "Resize Map"
+msgstr "إعادة تحجيم الخريطة"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:54
+#, fuzzy
+msgid "New width:"
+msgstr "العرض:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:78
+#, fuzzy
+msgid "Old width:"
+msgstr "العرض:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:102
+#, fuzzy
+msgid "New height:"
+msgstr "الطول:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:126
+#, fuzzy
+msgid "Old height:"
+msgstr "الطول:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:153
+msgid "Expand / shrink direction"
+msgstr ""
+
+#. [toggle_button]: id=copy_edge_terrain
+#: data/gui/default/window/editor_resize_map.cfg:248
+msgid "Copy edge terrain"
+msgstr ""
+
+#. [label]: id=title
+#: data/gui/default/window/editor_set_starting_position.cfg:50
+msgid "Choose Player"
+msgstr ""
+
+#. [label]: id=message
+#: data/gui/default/window/editor_set_starting_position.cfg:70
+msgid "Which player should start here?"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:35 src/hotkeys.cpp:124
+#, fuzzy
+msgid "Editor Settings"
+msgstr "تفضيلتات مفتاح الاختصار"
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:53
+msgid "Time of day lighting preset:"
+msgstr ""
+
+#. [toggle_button]: id=custom_tod_toggle
+#: data/gui/default/window/editor_settings.cfg:104
+msgid "Custom lighting settings"
+msgstr ""
+
+#. [toggle_button]: id=custom_tod_auto_refresh
+#: data/gui/default/window/editor_settings.cfg:114
+msgid "Automatically update map view"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:135
+#, fuzzy
+msgid "Red:"
+msgstr "إعادة"
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:161
+#, fuzzy
+msgid "Green:"
+msgstr "التردد:"
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:187
+msgid "Blue:"
+msgstr ""
+
+#. [toggle_button]: id=use_mdi
+#: data/gui/default/window/editor_settings.cfg:231
+msgid "Allow multiple maps to be open simultaneously"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=apply
+#: data/gui/default/window/editor_settings.cfg:272
+#: src/game_preferences_display.cpp:214
+msgid "Apply"
+msgstr "تطبيق"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=title
+#: data/gui/default/window/folder_create.cfg:43 src/filechooser.cpp:82
+msgid "New Folder"
+msgstr "مجلّد جديد"
+
+#. [label]
+#: data/gui/default/window/folder_create.cfg:72
+#: data/gui/default/window/game_save.cfg:70
+#: data/gui/default/window/game_save_message.cfg:90
+#: data/gui/default/window/game_save_oos.cfg:93
+#, fuzzy
+msgid "Name:"
+msgstr "الإسم:"
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:36
+msgid "Formula debugger"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:59
+msgid "Welcome"
+msgstr ""
+
+#. [label]: id=state
+#: data/gui/default/window/formula_debugger.cfg:71
+#, fuzzy
+msgid "state"
+msgstr "إلصاق"
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:85
+msgid "Call stack"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:94
+#: data/gui/default/window/gamestate_inspector.cfg:276
+#, fuzzy
+msgid "Actions"
+msgstr "إجراء"
+
+#. [button]: id=step
+#: data/gui/default/window/formula_debugger.cfg:128
+#, fuzzy
+msgid "Step operation"
+msgstr "مُوَلِّد الخرائط"
+
+#. [button]: id=next
+#: data/gui/default/window/formula_debugger.cfg:139
+#, fuzzy
+msgid "Next operation"
+msgstr "مُوَلِّد الخرائط"
+
+#. [button]: id=stepout
+#: data/gui/default/window/formula_debugger.cfg:150
+msgid "Step out"
+msgstr ""
+
+#. [button]: id=continue
+#: data/gui/default/window/formula_debugger.cfg:161
+#, fuzzy
+msgid "Continue"
+msgstr "متابعة الحركة"
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:178
+msgid "Execution trace"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+#. [button]: id=quit
+#. [grid]
+#: data/gui/default/window/formula_debugger.cfg:234
+#: data/gui/default/window/lobby_main.cfg:660
+#: data/gui/default/window/title_screen.cfg:232 src/hotkeys.cpp:875
+#: src/hotkeys.cpp:1220
+msgid "Quit"
+msgstr "مغادرة"
+
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_delete.cfg:40
+#, fuzzy
+msgid "Delete Save"
+msgstr "حذف الملف"
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_delete.cfg:60
+#, fuzzy
+msgid "Do you really want to delete this game?"
+msgstr "أتريد فعلاً المغادرة؟"
+
+#. [toggle_button]: id=dont_ask_again
+#: data/gui/default/window/game_delete.cfg:80
+msgid "Don’t ask me again!"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#: data/gui/default/window/game_delete.cfg:136
+#: data/gui/default/window/game_delete.cfg:137
+#: data/gui/default/window/game_save_message.cfg:147
+#: data/gui/default/window/game_save_message.cfg:148
+#: data/gui/default/window/game_save_oos.cfg:197
+#: data/gui/default/window/game_save_oos.cfg:198
+#: data/gui/default/window/game_save_overwrite.cfg:96
+#: data/gui/default/window/game_save_overwrite.cfg:97
+#: src/construct_dialog.cpp:123 src/gui/dialogs/message.cpp:176
+msgid "Yes"
+msgstr "نعم"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+#: data/gui/default/window/game_delete.cfg:151
+#: data/gui/default/window/game_save_message.cfg:162
+#: data/gui/default/window/game_save_oos.cfg:212
+#: data/gui/default/window/game_save_overwrite.cfg:111
+#: src/construct_dialog.cpp:124 src/gui/dialogs/message.cpp:178
+msgid "No"
+msgstr "لا"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_load.cfg:50
+#: src/gui/dialogs/mp_create_game.cpp:95 src/hotkeys.cpp:75
+msgid "Load Game"
+msgstr "تحميل لعبة"
+
+#. [button]: id=delete
+#: data/gui/default/window/game_load.cfg:360
+#: data/gui/default/window/game_load.cfg:361
+#, fuzzy
+msgid "Delete"
+msgstr "حذف الملف"
+
+#. [toggle_button]: id=show_replay
+#: data/gui/default/window/game_load.cfg:379
+#, fuzzy
+msgid "Show replay"
+msgstr "لاعب"
+
+#. [toggle_button]: id=cancel_orders
+#: data/gui/default/window/game_load.cfg:397
+#, fuzzy
+msgid "Cancel orders"
+msgstr "إلغاء"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_save.cfg:40
+#: data/gui/default/window/game_save_message.cfg:40
+#: data/gui/default/window/game_save_oos.cfg:42 src/hotkeys.cpp:72
+msgid "Save Game"
+msgstr "حفظ اللعبة"
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_save_message.cfg:60
+msgid "x"
+msgstr ""
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_save_oos.cfg:62
+msgid "OOS error"
+msgstr ""
+
+#. [toggle_button]: id=ignore_all
+#: data/gui/default/window/game_save_oos.cfg:145
+msgid "Ignore all"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=quit_game
+#: data/gui/default/window/game_save_oos.cfg:170 src/hotkeys.cpp:94
+msgid "Quit Game"
+msgstr "مغادرة اللعبة"
+
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_save_overwrite.cfg:40
+msgid "Overwrite?"
+msgstr ""
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_save_overwrite.cfg:60
+msgid "Save already exists. Do you want to overwrite it?"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:46
+msgid "Gamestate Inspector"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:100
+#, fuzzy
+msgid "Types"
+msgstr "نعم"
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:111
+#, fuzzy
+msgid "Content"
+msgstr "متابعة الحركة"
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:122
+msgid "Inspection window"
+msgstr ""
+
+#. [label]: id=unit_type
+#. [label]: id=typename
+#: data/gui/default/window/gamestate_inspector.cfg:153
+#: data/gui/default/window/unit_create.cfg:131
+msgid "Type"
+msgstr ""
+
+#. [label]: id=name
+#: data/gui/default/window/gamestate_inspector.cfg:214
+msgid "Variable"
+msgstr ""
+
+#. [grid]
+#. [label]
+#: data/gui/default/window/language_selection.cfg:41
+#: data/gui/default/window/title_screen.cfg:229
+msgid "Language"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/language_selection.cfg:60
+msgid "Choose your preferred language:"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#: data/gui/default/window/language_selection.cfg:128
+#: data/gui/default/window/language_selection.cfg:129 src/hotkeys.cpp:204
+#, fuzzy
+msgid "Change Language"
+msgstr "تغيير اللغة"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:109
+#, fuzzy
+msgid "Games"
+msgstr "الإسم:"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:176
+msgid "Assign sides to players at random"
+msgstr ""
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:177
+msgid "Requires a password to join"
+msgstr ""
+
+#. [toggle_button]: id=use_map_settings
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:178
+#: data/gui/default/window/mp_create_game.cfg:321
+msgid "Use map settings"
+msgstr ""
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:179
+#, fuzzy
+msgid "Reloaded game"
+msgstr "إنشاء خريطة جديدة"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:180
+msgid "Unknown era"
+msgstr ""
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:182
+msgid "Gold per village"
+msgstr ""
+
+#. [label]
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:184
+#: data/gui/default/window/mp_create_game.cfg:420
+msgid "Experience modifier"
+msgstr ""
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:186
+msgid "Time limit"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:305
+#, fuzzy
+msgid "Sort players:"
+msgstr "اللاعبون:"
+
+#. [toggle_button]: id=player_list_sort_relation
+#: data/gui/default/window/lobby_main.cfg:313
+msgid "Friends first, ignored people last"
+msgstr ""
+
+#. [toggle_button]: id=player_list_sort_name
+#: data/gui/default/window/lobby_main.cfg:321
+msgid "Alphabetically"
+msgstr ""
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:337
+#, fuzzy
+msgid "Selected game"
+msgstr "حذف الملف"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:338
+msgid "Current room"
+msgstr ""
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:339
+msgid "Lobby"
+msgstr ""
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:340
+#, fuzzy
+msgid "Other games"
+msgstr "إنشاء خريطة جديدة"
+
+#. [label]: id=room
+#: data/gui/default/window/lobby_main.cfg:479
+msgid "Rooms"
+msgstr ""
+
+#. [image]: id=pending_messages
+#: data/gui/default/window/lobby_main.cfg:497
+msgid "Messages waiting"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:567
+#, fuzzy
+msgid "Multiplayer Lobby"
+msgstr "خيارات اللعب العديد اللاعبين"
+
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:575
+#, fuzzy
+msgid "Filter:"
+msgstr "الملف:"
+
+#. [toggle_button]: id=filter_with_friends
+#: data/gui/default/window/lobby_main.cfg:586
+#, fuzzy
+msgid "Friends"
+msgstr "قائمة الأصدقاء"
+
+#. [toggle_button]: id=filter_without_ignored
+#: data/gui/default/window/lobby_main.cfg:592
+msgid "No ignored"
+msgstr ""
+
+#. [toggle_button]: id=filter_vacant_slots
+#: data/gui/default/window/lobby_main.cfg:598
+msgid "Vacant slots"
+msgstr ""
+
+#. [toggle_button]: id=filter_invert
+#: data/gui/default/window/lobby_main.cfg:604
+#, fuzzy
+msgid "Invert filter"
+msgstr "إدارة المنتقى"
+
+#. [button]: id=ok
+#. [button]: id=send_message
+#: data/gui/default/window/lobby_main.cfg:648
+#: data/gui/default/window/mp_cmd_wrapper.cfg:101
+#, fuzzy
+msgid "Send"
+msgstr "رمال"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=show_preferences
+#. [grid]
+#: data/gui/default/window/lobby_main.cfg:666
+#: data/gui/default/window/title_screen.cfg:230
+#: src/game_preferences_display.cpp:64 src/hotkeys.cpp:88
+msgid "Preferences"
+msgstr "تفضيلات"
+
+#. [button]: id=refresh
+#: data/gui/default/window/lobby_main.cfg:672
+#, fuzzy
+msgid "Refresh"
+msgstr "فيديو"
+
+#. [label]
+#. [button]: id=create
+#: data/gui/default/window/lobby_main.cfg:686
+#: data/gui/default/window/mp_create_game.cfg:41
+#, fuzzy
+msgid "Create Game"
+msgstr "حفظ اللعبة"
+
+#. [button]: id=join_global
+#: data/gui/default/window/lobby_main.cfg:692
+msgid "Join"
+msgstr ""
+
+#. [button]: id=observe_global
+#: data/gui/default/window/lobby_main.cfg:698
+msgid "Observe"
+msgstr ""
+
+#. [toggle_button]: id=skip_replay
+#: data/gui/default/window/lobby_main.cfg:704
+#, fuzzy
+msgid "Quick replay"
+msgstr "لاعب"
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:38
+#, fuzzy
+msgid "Player Info — "
+msgstr "اللاعبون:"
+
+#. [button]: id=start_whisper
+#: data/gui/default/window/lobby_player_info.cfg:70
+#, fuzzy
+msgid "Send Private Message"
+msgstr "محو الرسائل"
+
+#. [button]: id=add_to_friends
+#: data/gui/default/window/lobby_player_info.cfg:99
+#, fuzzy
+#| msgid "Add As Friend"
+msgid "Add to Friends"
+msgstr "إضافته كصديق"
+
+#. [button]: id=add_to_ignores
+#: data/gui/default/window/lobby_player_info.cfg:108
+#, fuzzy
+#| msgid "Add As Ignore"
+msgid "Add to Ignores"
+msgstr "إضافته كمُهمَل"
+
+#. [button]: id=remove_from_list
+#: data/gui/default/window/lobby_player_info.cfg:117
+#, fuzzy
+msgid "Remove from List"
+msgstr "الرجوع إلى الإصدار المتوفر في القرص"
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:141
+#, fuzzy
+msgid "Moderation"
+msgstr "مُوَلِّد الخرائط"
+
+#. [button]: id=check_status
+#: data/gui/default/window/lobby_player_info.cfg:148
+msgid "Check status"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:155
+msgid "Kick / ban reason:"
+msgstr ""
+
+#. [button]: id=kick
+#: data/gui/default/window/lobby_player_info.cfg:168
+#: data/gui/default/window/mp_cmd_wrapper.cfg:389
+msgid "Kick"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:175
+msgid "Ban time:"
+msgstr ""
+
+#. [button]: id=kick_ban
+#: data/gui/default/window/lobby_player_info.cfg:188
+msgid "Kick/ban"
+msgstr ""
+
+#. [label]: id=side_title
+#: data/gui/default/window/mp_change_control.cfg:21
+#, fuzzy
+#| msgid "Next Side"
+msgid "Side"
+msgstr "الطرف التالي"
+
+#. [label]: id=nick_title
+#: data/gui/default/window/mp_change_control.cfg:73
+msgid "Nickname"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_change_control.cfg:194
+#, fuzzy
+#| msgid "Change Hotkey"
+msgid "Change Control"
+msgstr "تغيير مفتاح الاختصار"
+
+#. [window]: id=mp_cmd_wrapper
+#: data/gui/default/window/mp_cmd_wrapper.cfg:8
+#, fuzzy
+msgid "Multiplayer command dialog"
+msgstr "خيارات اللعب العديد اللاعبين"
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:39
+msgid "Messaging"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:69
+msgid "Message:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:141
+#, fuzzy
+msgid "Friends/Ignored List"
+msgstr "قائمة الأصدقاء"
+
+#. [button]: id=add_friend
+#: data/gui/default/window/mp_cmd_wrapper.cfg:170
+#, fuzzy
+#| msgid "Add As Friend"
+msgid "Add as Friend"
+msgstr "إضافته كصديق"
+
+#. [button]: id=add_ignore
+#: data/gui/default/window/mp_cmd_wrapper.cfg:185
+#, fuzzy
+#| msgid "Add As Ignore"
+msgid "Add as Ignore"
+msgstr "إضافته كمُهمَل"
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:241
+msgid "Moderating"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:271
+msgid "Reason:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:323
+#, fuzzy
+msgid "Time:"
+msgstr "السمة"
+
+#. [button]: id=status
+#: data/gui/default/window/mp_cmd_wrapper.cfg:374
+#, fuzzy
+msgid "Status"
+msgstr "جدول الحالات"
+
+#. [button]: id=ban
+#: data/gui/default/window/mp_cmd_wrapper.cfg:404
+msgid "Ban"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_connect.cfg:60
+#: data/gui/default/window/mp_server_list.cfg:69
+msgid "You will now connect to the multiplayer server."
+msgstr ""
+
+#. [button]: id=list
+#: data/gui/default/window/mp_connect.cfg:158
+#, fuzzy
+msgid "View List"
+msgstr "قائمة الأصدقاء"
+
+#. [label]
+#. [text_box]: id=game_name
+#: data/gui/default/window/mp_create_game.cfg:70
+#: data/gui/default/window/mp_create_game.cfg:85
+msgid "Name of game:"
+msgstr ""
+
+#. [label]: id=map_players
+#: data/gui/default/window/mp_create_game.cfg:148
+#, fuzzy
+msgid "Players: "
+msgstr "اللاعبون:"
+
+#. [label]: id=map_size
+#: data/gui/default/window/mp_create_game.cfg:167
+msgid "Map size: "
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:185
+msgid "Era:"
+msgstr ""
+
+#. [button]: id=era
+#: data/gui/default/window/mp_create_game.cfg:204
+#, fuzzy
+msgid "Default"
+msgstr "التكبير الأصلي"
+
+#. [button]: id=password
+#. [label]: id=title
+#: data/gui/default/window/mp_create_game.cfg:226
+#: data/gui/default/window/mp_create_game_set_password.cfg:42
+msgid "Set Password"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:254
+msgid "Map to play:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:339
+#, fuzzy
+msgid "Number of turns"
+msgstr "عدد التلال"
+
+#. [slider]: id=turn_count
+#: data/gui/default/window/mp_create_game.cfg:362
+msgid "Unlimited"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:380
+#, fuzzy
+msgid "Village gold"
+msgstr "قرية"
+
+#. [toggle_button]: id=fog
+#: data/gui/default/window/mp_create_game.cfg:460
+msgid "Fog of war"
+msgstr ""
+
+#. [toggle_button]: id=random_start_time
+#: data/gui/default/window/mp_create_game.cfg:501
+msgid "Random start time"
+msgstr ""
+
+#. [button]: id=ok
+#: data/gui/default/window/mp_create_game.cfg:543
+#, fuzzy
+msgid "Create game"
+msgstr "إنشاء خريطة جديدة"
+
+#. [scroll_label]: id=message
+#: data/gui/default/window/mp_create_game_set_password.cfg:61
+msgid ""
+"Set the password that people wanting to join your game as players must enter."
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game_set_password.cfg:90
+#: data/gui/default/window/mp_login.cfg:144
+msgid "Password:"
+msgstr ""
+
+#. [window]: id=mp_login
+#: data/gui/default/window/mp_login.cfg:8
+msgid "Multiplayer server login dialog"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_login.cfg:41
+msgid "Login"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_login.cfg:91
+#: data/gui/default/window/mp_method_selection.cfg:69
+msgid "Login:"
+msgstr ""
+
+#. [toggle_button]: id=remember_password
+#: data/gui/default/window/mp_login.cfg:200
+msgid "Save password to preferences (clear text)"
+msgstr ""
+
+#. [button]: id=password_reminder
+#: data/gui/default/window/mp_login.cfg:258
+msgid "Password Reminder"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#. [grid]
+#: data/gui/default/window/mp_method_selection.cfg:39
+#: data/gui/default/window/title_screen.cfg:225
+#: src/gui/dialogs/game_load.cpp:301
+#, fuzzy
+msgid "Multiplayer"
+msgstr "خيارات اللعب العديد اللاعبين"
+
+#. [text_box]: id=user_name
+#: data/gui/default/window/mp_method_selection.cfg:90
+msgid ""
+"You may login to the official multiplayer server with your forum username "
+"and password.\n"
+"Note that registration is not required to join the server: you need to "
+"supply a password only if you wish to use a registered username.\n"
+"\n"
+"The Battle for Wesnoth forum can be found at http://forums.wesnoth.org/"
+msgstr ""
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:146
+msgid "Join Official Server"
+msgstr ""
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:147
+msgid "Log on to the official Wesnoth multiplayer server"
+msgstr ""
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:157
+msgid "Join a different server"
+msgstr ""
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:166
+msgid "Host Networked Game"
+msgstr ""
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:167
+msgid "Host a game using dedicated server ‘wesnothd’"
+msgstr ""
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:176
+#, fuzzy
+msgid "Local Game"
+msgstr "تحميل لعبة"
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:177
+msgid "Play a multiplayer game with the AI or humans sharing the same machine"
+msgstr ""
+
+#. [label]: id=address
+#: data/gui/default/window/mp_server_list.cfg:121
+msgid "Address"
+msgstr ""
+
+#. [button]: id=ok
+#: data/gui/default/window/mp_server_list.cfg:223
+#, fuzzy
+msgid "Select"
+msgstr "انتقاء الكل"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=help
+#: data/gui/default/window/title_screen.cfg:146 src/hotkeys.cpp:202
+msgid "Help"
+msgstr "مساعدة"
+
+#. [button]: id=help
+#: data/gui/default/window/title_screen.cfg:147
+msgid "Show Battle for Wesnoth help"
+msgstr ""
+
+#. [button]: id=previous_tip
+#: data/gui/default/window/title_screen.cfg:163
+msgid "Show previous tip of the day"
+msgstr ""
+
+#. [button]: id=next_tip
+#: data/gui/default/window/title_screen.cfg:178
+msgid "Show next tip of the day"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:223
+msgid "Start a tutorial to familiarize yourself with the game"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:223
+#: src/gui/dialogs/game_load.cpp:303
+#, fuzzy
+msgid "Tutorial"
+msgstr "الرسالة في بداية الدور"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:224
+msgid "Campaign"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:224
+msgid "Start a new single player campaign"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:225
+msgid ""
+"Play multiplayer (hotseat, LAN, or Internet), or a single scenario against "
+"the AI"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:226
+#, fuzzy
+msgid "Load"
+msgstr "طريق"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:226
+#, fuzzy
+msgid "Load a saved game"
+msgstr "إنشاء خريطة جديدة"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:227
+msgid "Add-ons"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:227
+msgid "Download usermade campaigns, eras, or map packs"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:228
+#, fuzzy
+msgid "Map Editor"
+msgstr "مغادرة المحرّر"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:228
+msgid "Start the map editor"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:229
+msgid "Change the language"
+msgstr "تغيير اللغة"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:230
+msgid "Configure the game’s settings"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:231
+msgid "Credits"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:231
+msgid "View the credits"
+msgstr ""
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:232
+#, fuzzy
+msgid "Quit the game"
+msgstr "مغادرة اللعبة"
+
+#. [button]: id=ok
+#: data/gui/default/window/unit_attack.cfg:195
+msgid "Attack"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/unit_attack.cfg:263
+msgid "Attack enemy"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/unit_create.cfg:45 src/hotkeys.cpp:86
+msgid "Create Unit (Debug!)"
+msgstr "خلق وحدة (تنقيح!)"
+
+#. [label]
+#: data/gui/default/window/unit_create.cfg:67
+#, fuzzy
+msgid "Gender:"
+msgstr "إنشاء خريطة جديدة"
+
+#. [toggle_button]: id=male_toggle
+#: data/gui/default/window/unit_create.cfg:77
+#, fuzzy
+msgid "Male"
+msgstr "قصر"
+
+#. [toggle_button]: id=female_toggle
+#: data/gui/default/window/unit_create.cfg:87
+msgid "Female"
+msgstr ""
+
+#. [label]: id=race
+#: data/gui/default/window/unit_create.cfg:119
+#, fuzzy
+msgid "Race"
+msgstr "إلغاء"
+
+#: src/filechooser.cpp:77
+msgid "File: "
+msgstr "الملف:"
+
+#: src/filechooser.cpp:80
+msgid "Delete File"
+msgstr "حذف الملف"
+
+#: src/filechooser.cpp:196
+msgid "Deletion of the file failed."
+msgstr "فشل حذف الملف"
+
+#: src/filechooser.cpp:212
+msgid "Creation of the directory failed."
+msgstr "فشل حذف المجلد"
+
+#: src/game_preferences.cpp:315
+msgid "No server has been defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/game_preferences.cpp:395
+msgid "player"
+msgstr "لاعب"
+
+#: src/game_preferences.cpp:837
+msgid "%H:%M"
+msgstr ""
+
+#: src/game_preferences.cpp:840
+msgid "%I:%M %p"
+msgstr ""
+
+#: src/game_preferences_display.cpp:173
+#, fuzzy
+msgid "Full screen"
+msgstr "ملء الشاشة"
+
+#: src/game_preferences_display.cpp:174
+msgid "Accelerated speed"
+msgstr "حركة متسارعة"
+
+#: src/game_preferences_display.cpp:175
+msgid "Skip AI moves"
+msgstr "تخطي حركات الذكاء الإصطناعي"
+
+#: src/game_preferences_display.cpp:176
+msgid "Interrupt move when an ally is sighted"
+msgstr ""
+
+#: src/game_preferences_display.cpp:177
+msgid "Show grid"
+msgstr "إظهار الشبكة"
+
+#: src/game_preferences_display.cpp:178
+msgid "Save replay on SP/MP victory or MP defeat"
+msgstr "حذف الإعادة في حالة انتصار في ل.و/ع.ل أو هزيمة في ع.ل"
+
+#: src/game_preferences_display.cpp:179
+msgid "Delete auto-saves on SP/MP victory or MP defeat"
+msgstr "احذف المحفوظات التلقائية في حالة انتصار في ل.و/ع.ل أو هزيمة في ع.ل"
+
+#: src/game_preferences_display.cpp:180
+msgid "Do not show lobby joins"
+msgstr "عدم الإعلان باللاعبين الداخلين"
+
+#: src/game_preferences_display.cpp:181
+msgid "Show lobby joins of friends only"
+msgstr "الإعلان بالداخلين من الأصدقاء فقط"
+
+#: src/game_preferences_display.cpp:182
+msgid "Show all lobby joins"
+msgstr "الإعلان بجميع الداخلين"
+
+#: src/game_preferences_display.cpp:183
+msgid "Use new lobby interface"
+msgstr ""
+
+#: src/game_preferences_display.cpp:184
+msgid "Sort lobby list"
+msgstr "فرز قائمة الداخلين"
+
+#: src/game_preferences_display.cpp:185
+msgid "Iconize lobby list"
+msgstr "جعل قائمة المدخل على شكل إيقونات"
+
+#: src/game_preferences_display.cpp:186
+msgid "Save password to preferences (plain text)"
+msgstr ""
+
+#: src/game_preferences_display.cpp:187
+msgid "Set Path to wesnothd"
+msgstr ""
+
+#: src/game_preferences_display.cpp:188
+msgid "Friends List"
+msgstr "قائمة الأصدقاء"
+
+#: src/game_preferences_display.cpp:189
+msgid "Multiplayer Options"
+msgstr "خيارات اللعب العديد اللاعبين"
+
+#: src/game_preferences_display.cpp:190
+msgid "Add As Friend"
+msgstr "إضافته كصديق"
+
+#: src/game_preferences_display.cpp:191
+msgid "Add As Ignore"
+msgstr "إضافته كمُهمَل"
+
+#: src/game_preferences_display.cpp:193
+msgid "Show floating labels"
+msgstr "إظهار اللصائق الطافية"
+
+#: src/game_preferences_display.cpp:194
+msgid "Turn dialog"
+msgstr "الرسالة في بداية الدور"
+
+#: src/game_preferences_display.cpp:195
+msgid "Enable planning mode on start"
+msgstr ""
+
+#: src/game_preferences_display.cpp:196
+msgid "Hide allies’ plans by default"
+msgstr ""
+
+#: src/game_preferences_display.cpp:197
+msgid "Turn bell"
+msgstr "جرس الإعلان بالدور"
+
+#: src/game_preferences_display.cpp:198
+msgid "Show team colors"
+msgstr "إظهار ألوان الفرق"
+
+#: src/game_preferences_display.cpp:199
+msgid "Show color cursors"
+msgstr "استعمال مؤشر ملوّن"
+
+#: src/game_preferences_display.cpp:200
+msgid "Show haloing effects"
+msgstr "إظهار تأثيرات الهالو"
+
+#: src/game_preferences_display.cpp:201
+msgid "Change Resolution"
+msgstr "تغيير الإستبانة"
+
+#: src/game_preferences_display.cpp:202
+msgid "Theme"
+msgstr "السمة"
+
+#: src/game_preferences_display.cpp:203
+msgid "Hotkeys"
+msgstr "مفتاح الاختصار"
+
+#: src/game_preferences_display.cpp:205
+msgid "Sound effects"
+msgstr "المؤثرات الصوتية"
+
+#: src/game_preferences_display.cpp:206
+msgid "Music"
+msgstr "الموسيقى"
+
+#: src/game_preferences_display.cpp:207
+msgid "Chat timestamping"
+msgstr "إظهار زمن الحديث"
+
+#: src/game_preferences_display.cpp:208
+msgid "sound^Advanced Options"
+msgstr "تفضيلات متقدمة للصوت"
+
+#: src/game_preferences_display.cpp:209
+msgid "sound^Standard Options"
+msgstr "تفضيلات عادية للصوت"
+
+#: src/game_preferences_display.cpp:210
+msgid "User interface sounds"
+msgstr "أصوات واجهة المُستخدِم"
+
+#: src/game_preferences_display.cpp:213
+msgid "Custom"
+msgstr "مخصص"
+
+#: src/game_preferences_display.cpp:215
+msgid "Show unit idle animations"
+msgstr "إظهار تحريكات الوحدات الساكنة"
+
+#: src/game_preferences_display.cpp:216
+#, fuzzy
+#| msgid "Show Unit Idle Animations"
+msgid "Show unit standing animations"
+msgstr "إظهار تحريكات الوحدات الساكنة"
+
+#: src/game_preferences_display.cpp:217
+#, fuzzy
+msgid "Animate map"
+msgstr "إنشاء خريطة جديدة"
+
+#: src/game_preferences_display.cpp:219 src/game_preferences_display.cpp:220
+#: src/game_preferences_display.cpp:221 src/game_preferences_display.cpp:222
+#, fuzzy
+#| msgid "SFX Volume:"
+msgid "Volume:"
+msgstr "مستوى صوت التأثيرات الخاصة:"
+
+#: src/game_preferences_display.cpp:224
+msgid "Scroll speed:"
+msgstr "سرعة اللف:"
+
+#: src/game_preferences_display.cpp:227
+msgid "Sample rate (Hz):"
+msgstr "معدًل الإعتيان (Hz):"
+
+#: src/game_preferences_display.cpp:228
+msgid "Frequency:"
+msgstr "التردد:"
+
+#: src/game_preferences_display.cpp:251
+msgid "Sound effects on/off"
+msgstr "التأثيرات الصوتية مفتوح/مغلق"
+
+#: src/game_preferences_display.cpp:255
+msgid "Change the sound effects volume"
+msgstr "تغيير مستوى صوت التأثيرات الصوتية"
+
+#: src/game_preferences_display.cpp:258
+msgid "Music on/off"
+msgstr "الموسيقى مفتوح/مغلق"
+
+#: src/game_preferences_display.cpp:262
+msgid "Change the music volume"
+msgstr "تغيير مستوى صوت الموسيقى"
+
+#: src/game_preferences_display.cpp:268
+msgid "Change the bell volume"
+msgstr "تغيير مستوى صوت الجرس"
+
+#: src/game_preferences_display.cpp:271
+msgid "Turn menu and button sounds on/off"
+msgstr "فتح/غلق صوت الأزرار و القائم"
+
+#: src/game_preferences_display.cpp:275
+msgid "Change the sound volume for button clicks, etc."
+msgstr "تغيير مستوى صوت الضغط على الأزرار إلخ.."
+
+#: src/game_preferences_display.cpp:277
+msgid "Change the sample rate"
+msgstr "تغيير معدل الإعتيان"
+
+#: src/game_preferences_display.cpp:286
+msgid "User defined sample rate"
+msgstr "تحديد المُستخدِم لمعدل الإعتيان"
+
+#: src/game_preferences_display.cpp:295 src/game_preferences_display.cpp:299
+msgid "Change the buffer size"
+msgstr "تغيير حجم الصوان"
+
+#: src/game_preferences_display.cpp:297 src/game_preferences_display.cpp:896
+msgid "Buffer size: "
+msgstr "حجم الصوان:"
+
+#: src/game_preferences_display.cpp:304
+msgid "Change the speed of scrolling around the map"
+msgstr "تغيير سرعة لفّ الخريطة"
+
+#: src/game_preferences_display.cpp:309 src/game_preferences_display.cpp:311
+msgid "Set the amount of chat lines shown"
+msgstr "تحديد عدد أسطر الحديث المُظهَرَة"
+
+#: src/game_preferences_display.cpp:314
+msgid "Add a timestamp to chat messages"
+msgstr "إظافة الزمن إلى رسائل الحديث"
+
+#: src/game_preferences_display.cpp:317
+msgid "Choose whether the game should run full screen or in a window"
+msgstr "الإختيار بين نمط الشاشة المليءة و النافذة"
+
+#: src/game_preferences_display.cpp:320
+msgid "Make units move and fight faster"
+msgstr "تسريع تنقل و تقاتل الوحدات"
+
+#: src/game_preferences_display.cpp:339
+msgid "Units move and fight speed"
+msgstr "سرعة حركة و تقاتل الوحدات"
+
+#: src/game_preferences_display.cpp:342
+msgid "Play short random animations for idle units"
+msgstr ""
+
+#: src/game_preferences_display.cpp:345
+msgid "Continuously animate standing units in the battlefield"
+msgstr ""
+
+#: src/game_preferences_display.cpp:348
+msgid "Display animated terrain graphics"
+msgstr ""
+
+#: src/game_preferences_display.cpp:354
+msgid "Set the frequency of unit idle animations"
+msgstr "تحديد تردد تحريكات الوحدات الساكنة"
+
+#: src/game_preferences_display.cpp:359
+msgid "Set maximum number of automatic saves to be retained"
+msgstr "تحديد العدد الأقصى للمحفوظات التلقائية المحتفظ به"
+
+#: src/game_preferences_display.cpp:363
+msgid "Do not animate AI units moving"
+msgstr "عدم تحريك وحدات الذكاء الإصطناعي في تنقلاته"
+
+#: src/game_preferences_display.cpp:366
+msgid "Sighting an allied unit interrupts your unit’s movement"
+msgstr ""
+
+#: src/game_preferences_display.cpp:369
+#, fuzzy
+#| msgid "Save replay on SP/MP victory or MP defeat"
+msgid "Save Replay on SP/MP Victory or MP Defeat"
+msgstr "حذف الإعادة في حالة انتصار في ل.و/ع.ل أو هزيمة في ع.ل"
+
+#: src/game_preferences_display.cpp:372
+#, fuzzy
+#| msgid "Delete auto-saves on SP/MP victory or MP defeat"
+msgid "Delete Auto-Saves on SP/MP Victory or MP Defeat"
+msgstr "احذف المحفوظات التلقائية في حالة انتصار في ل.و/ع.ل أو هزيمة في ع.ل"
+
+#: src/game_preferences_display.cpp:374
+msgid "Overlay a grid onto the map"
+msgstr "وضع شبكة على الخريطة"
+
+#: src/game_preferences_display.cpp:377
+msgid "Sort the player list in the lobby by player groups"
+msgstr "فرز اللاعبين الموجودين في المدخل على شكل أفواج"
+
+#: src/game_preferences_display.cpp:380
+msgid "Show icons in front of the player names in the lobby."
+msgstr "إظهار إيقونات أمام أسماء اللاعبين في المدخل"
+
+#: src/game_preferences_display.cpp:383
+msgid "Uncheck to delete the saved password (on exit)."
+msgstr ""
+
+#: src/game_preferences_display.cpp:387
+msgid "Do not show messages about players joining the multiplayer lobby"
+msgstr "عدم الإعلان بوصول اللاعبين إلى المدخل"
+
+#: src/game_preferences_display.cpp:389
+msgid "Show messages about your friends joining the multiplayer lobby"
+msgstr "الإعلان بدخول أصدقائك بواسطة رسائل"
+
+#: src/game_preferences_display.cpp:391
+msgid "Show messages about all players joining the multiplayer lobby"
+msgstr "الإعلان بدخول جميع اللاعبين بواسطة رسائل"
+
+#: src/game_preferences_display.cpp:394
+msgid "Use New Lobby Interface"
+msgstr ""
+
+#: src/game_preferences_display.cpp:396
+msgid "Find and set path to MP server to host LAN games."
+msgstr ""
+
+#: src/game_preferences_display.cpp:397
+msgid "View and edit your friends and ignores list"
+msgstr "رؤية و ضبط قائمة الأصدقاء و المهمولين"
+
+#: src/game_preferences_display.cpp:398
+msgid "Back to the multiplayer options"
+msgstr "الرجوع إلى تعديلات النمط العديد اللاعبين"
+
+#: src/game_preferences_display.cpp:399
+msgid "Add this username to your friends list"
+msgstr "إضافة هذا الإسم إلى قائمة الأصدقاء"
+
+#: src/game_preferences_display.cpp:400
+msgid "Add this username to your ignores list"
+msgstr "إضافة إسم هذا اللاعب إلى قائمة المهمولين"
+
+#: src/game_preferences_display.cpp:401
+msgid "Remove this username from your list"
+msgstr "حذف إسم هذا اللاعب من قائمتك"
+
+#: src/game_preferences_display.cpp:404
+msgid "Insert a username"
+msgstr "أدخل اسم المُستخدِم"
+
+#: src/game_preferences_display.cpp:407
+msgid "Show text above a unit when it is hit to display damage inflicted"
+msgstr "إظهار قيم الأضرار التي تصيب الوحدات بواسطة أعداد فوقها"
+
+#: src/game_preferences_display.cpp:409
+msgid "Change the resolution the game runs at"
+msgstr "تغيير استبانة اللعبة"
+
+#: src/game_preferences_display.cpp:410
+msgid "Change the theme the game runs with"
+msgstr "تغيير سمة اللعبة"
+
+#: src/game_preferences_display.cpp:413
+msgid "Display a dialog at the beginning of your turn"
+msgstr "إظهار رسالة في بداية دورك"
+
+#: src/game_preferences_display.cpp:416
+msgid "Activates Planning Mode on game start"
+msgstr ""
+
+#: src/game_preferences_display.cpp:419
+msgid "Hides allies’ Planning Mode plans in multiplayer games"
+msgstr ""
+
+#: src/game_preferences_display.cpp:422
+msgid "Play a bell sound at the beginning of your turn"
+msgstr "سمع صوت الجرس عند بداية دورك"
+
+#: src/game_preferences_display.cpp:425
+msgid ""
+"Show a colored circle around the base of each unit to show which side it is "
+"on"
+msgstr "إظهار دوائر ملونة تحت كل وحدة تشير إلى طرفها"
+
+#: src/game_preferences_display.cpp:428
+msgid "Use colored mouse cursors (may be slower)"
+msgstr "استعمال مؤشرات الفأرة ملونة(قد تكون أبظأ)"
+
+#: src/game_preferences_display.cpp:431
+msgid "Use graphical special effects (may be slower)"
+msgstr "استعمال مؤثرات رسومية(قد تكون اللعبة أبطأ)"
+
+#: src/game_preferences_display.cpp:433
+msgid "View and configure keyboard shortcuts"
+msgstr "رؤية و ضبط مفاتيح الاختصا"
+
+#: src/game_preferences_display.cpp:760
+msgid "Speed: "
+msgstr "السرعة:"
+
+#: src/game_preferences_display.cpp:765 src/game_preferences_display.cpp:767
+msgid "Maximum auto-saves: "
+msgstr "أقصى عدد للمحفوظات الآلية"
+
+#: src/game_preferences_display.cpp:765
+msgid "infinite"
+msgstr "غَيْرُ مُتَناهٍ"
+
+#: src/game_preferences_display.cpp:950
+msgid "Chat lines: "
+msgstr "أسطر الحديث:"
+
+#: src/game_preferences_display.cpp:972 src/game_preferences_display.cpp:980
+msgid "Invalid username"
+msgstr "اسم غير صالح"
+
+#: src/game_preferences_display.cpp:1083
+msgid "yes"
+msgstr "نعم"
+
+#: src/game_preferences_display.cpp:1085
+msgid "no"
+msgstr "لا"
+
+#: src/game_preferences_display.cpp:1119
+#, fuzzy
+msgid "friend"
+msgstr "قائمة الأصدقاء"
+
+#: src/game_preferences_display.cpp:1125
+msgid "ignored"
+msgstr ""
+
+#: src/game_preferences_display.cpp:1129
+msgid "(empty list)"
+msgstr "(قائمة فارغة)"
+
+#: src/game_preferences_display.cpp:1254
+msgid "Prefs section^General"
+msgstr "عامّ"
+
+#: src/game_preferences_display.cpp:1255
+msgid "Prefs section^Display"
+msgstr "فيديو"
+
+#: src/game_preferences_display.cpp:1256
+msgid "Prefs section^Sound"
+msgstr "صوت"
+
+#: src/game_preferences_display.cpp:1257
+msgid "Prefs section^Multiplayer"
+msgstr "عديد اللاعبين"
+
+#: src/game_preferences_display.cpp:1258
+msgid "Advanced section^Advanced"
+msgstr "تفضيلات متقدمة"
+
+#: src/game_preferences_display.cpp:1292
+msgid "Choose Theme"
+msgstr ""
+
+#: src/game_preferences_display.cpp:1307
+msgid "New theme will take effect on next new or loaded game."
+msgstr "سيتم العمل بهذه السمة عند التحميل أو اللعبة الجديدة اللاحقة"
+
+#: src/game_preferences_display.cpp:1311
+msgid "No known themes. Try changing from within an existing game."
+msgstr "ليست هناك أية سمة معروفة.حاول تبديلها انطلاقا من لعبة جارية."
+
+#: src/game_preferences_display.cpp:1354
+msgid "Find $filename server binary to host networked games"
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:596
+msgid "Line doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:735
+msgid "Rectangle doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:868 src/gui/auxiliary/canvas.cpp:873
+#: src/gui/auxiliary/canvas.cpp:878 src/gui/auxiliary/canvas.cpp:884
+msgid "Circle doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:1070 src/gui/auxiliary/canvas.cpp:1077
+#: src/gui/auxiliary/canvas.cpp:1087 src/gui/auxiliary/canvas.cpp:1094
+msgid "Image doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:1302
+msgid "Text has a font size of 0."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:1371
+msgid "Text doesn't start on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/widget_definition.cpp:147
+#: src/gui/auxiliary/window_builder.cpp:240
+#, fuzzy
+msgid "No resolution defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/auxiliary/widget_definition/listbox.cpp:116
+#: src/gui/auxiliary/widget_definition/multi_page.cpp:61
+#: src/gui/auxiliary/widget_definition/scroll_label.cpp:85
+#: src/gui/auxiliary/widget_definition/scrollbar_panel.cpp:68
+#: src/gui/auxiliary/widget_definition/stacked_widget.cpp:64
+#: src/gui/auxiliary/widget_definition/tree_view.cpp:69
+#: src/gui/auxiliary/window_builder.cpp:371
+#: src/gui/auxiliary/window_builder/panel.cpp:36
+#: src/gui/auxiliary/window_builder/toggle_panel.cpp:39
+#, fuzzy
+msgid "No grid defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/auxiliary/window_builder.cpp:163
+msgid "Linked '$id' group has multiple definitions."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder.cpp:402
+msgid "Linked '$id' group needs a 'fixed_width' or 'fixed_height' key."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder.cpp:527
+msgid "A row must have a column."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder.cpp:528
+msgid "Number of columns differ."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/control.cpp:49
+msgid "Found a widget with a helptip and without a tooltip."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/horizontal_listbox.cpp:47
+#: src/gui/auxiliary/window_builder/listbox.cpp:58
+#: src/gui/auxiliary/window_builder/scrollbar_panel.cpp:42
+#, fuzzy
+msgid "No list defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/auxiliary/window_builder/horizontal_listbox.cpp:51
+#: src/gui/auxiliary/window_builder/listbox.cpp:62
+msgid "A 'list_definition' should contain one row."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/horizontal_listbox.cpp:67
+#: src/gui/auxiliary/window_builder/listbox.cpp:81
+#: src/gui/auxiliary/window_builder/multi_page.cpp:61
+msgid ""
+"'list_data' must have the same number of columns as the 'list_definition'."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/multi_page.cpp:39
+#, fuzzy
+msgid "No page defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/auxiliary/window_builder/slider.cpp:66
+msgid "The number of value_labels and values don't match."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/stacked_widget.cpp:37
+#, fuzzy
+msgid "No stack defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/auxiliary/window_builder/tree_view.cpp:46
+msgid "No nodes defined for a tree view."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/tree_view.cpp:86
+msgid "[node]id 'root' is reserved for the implementation."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/tree_view.cpp:90
+#, fuzzy
+msgid "No node defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/dialogs/game_load.cpp:274
+msgid "#(Invalid)"
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:294
+msgid "Campaign: $campaign_name"
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:305
+msgid "Test scenario"
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:313
+#, fuzzy
+msgid "Replay"
+msgstr "لاعب"
+
+#: src/gui/dialogs/game_load.cpp:315
+#, fuzzy
+msgid "Turn"
+msgstr "إنهاء الدور"
+
+#: src/gui/dialogs/game_load.cpp:317
+#, fuzzy
+msgid "Scenario start"
+msgstr "أهداف السِيناريُو"
+
+#: src/gui/dialogs/game_load.cpp:320
+msgid "Difficulty: "
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:324
+msgid "Version: "
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:230
+msgid "whisper to $receiver"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:662
+msgid "Games: showing $num_shown out of $num_total"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:705
+msgid "Observers allowed"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:708
+msgid "Observers not allowed"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1107
+msgid ""
+"Whisper session with $name started. If you don’t want to receive messages "
+"from this user, type /ignore $name\n"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1113
+msgid "Room $name joined"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1420
+msgid "$player has entered the room"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1458
+msgid "$player has left the room"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1571
+msgid "Password Required"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1572
+msgid "Joining this game requires a password."
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1573
+msgid "Password: "
+msgstr ""
+
+#: src/gui/dialogs/message.cpp:190 src/gui/dialogs/transient_message.cpp:62
+msgid "Error"
+msgstr "خطأ"
+
+#: src/gui/dialogs/mp_change_control.cpp:244
+msgid "Side $side"
+msgstr ""
+
+#: src/gui/dialogs/mp_create_game.cpp:96
+#, fuzzy
+msgid "Load Game..."
+msgstr "تحميل لعبة"
+
+#: src/gui/dialogs/network_transmission.cpp:55
+#: src/gui/dialogs/network_transmission.cpp:57 src/hotkeys.cpp:1178
+msgid "unit_byte^B"
+msgstr ""
+
+#: src/gui/dialogs/title_screen.cpp:296
+msgid "Version "
+msgstr ""
+
+#: src/gui/dialogs/title_screen.cpp:299
+msgid "Version"
+msgstr ""
+
+#: src/gui/widgets/helper.cpp:137
+#, fuzzy
+msgid "Mandatory widget '$id' hasn't been defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/widgets/settings.cpp:440
+msgid ""
+"Widget definition '$definition' doesn't contain the definition for '$id'."
+msgstr ""
+
+#: src/gui/widgets/settings.cpp:506
+#, fuzzy
+msgid "No default gui defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/widgets/settings.cpp:536
+#, fuzzy
+msgid "No state or draw section defined."
+msgstr "لم يُحدَد أيّ خادم"
+
+#: src/gui/widgets/tree_view_node.cpp:103
+msgid "Unknown builder id for tree view node."
+msgstr ""
+
+#: src/gui/widgets/window.cpp:924
+msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
+msgstr ""
+
+#: src/gui/widgets/window.cpp:949 src/gui/widgets/window.cpp:989
+#: src/tests/gui/test_gui2.cpp:432
+msgid "Failed to show a dialog, which doesn't fit on the screen."
+msgstr ""
+
+#: src/hotkeys.cpp:53
+msgid "Left Mouse Click"
+msgstr ""
+
+#: src/hotkeys.cpp:54
+msgid "Right Mouse Click"
+msgstr ""
+
+#: src/hotkeys.cpp:55
+#, fuzzy
+msgid "Animate Map"
+msgstr "إنشاء خريطة جديدة"
+
+#: src/hotkeys.cpp:56
+msgid "Next Unit"
+msgstr "الوحدة التالية"
+
+#: src/hotkeys.cpp:57
+msgid "Previous Unit"
+msgstr "الوحدة السابقة"
+
+#: src/hotkeys.cpp:58
+msgid "Hold Position"
+msgstr "البقاء على ذلك الوضع"
+
+#: src/hotkeys.cpp:59
+msgid "End Unit Turn"
+msgstr "إنهاء دور الوحدة"
+
+#: src/hotkeys.cpp:60
+msgid "Leader"
+msgstr "القائد"
+
+#: src/hotkeys.cpp:61
+msgid "Undo"
+msgstr "تراجع"
+
+#: src/hotkeys.cpp:62
+msgid "Redo"
+msgstr "إعادة"
+
+#: src/hotkeys.cpp:63
+msgid "Zoom In"
+msgstr "تكبير"
+
+#: src/hotkeys.cpp:64
+msgid "Zoom Out"
+msgstr "تصغير"
+
+#: src/hotkeys.cpp:65
+msgid "Default Zoom"
+msgstr "التكبير الأصلي"
+
+#: src/hotkeys.cpp:66
+#, fuzzy
+#| msgid "Toggle Full screen"
+msgid "Toggle Full Screen"
+msgstr "ملء الشاشة"
+
+#: src/hotkeys.cpp:67 src/hotkeys.cpp:1172
+msgid "Screenshot"
+msgstr "لقطة شاشة"
+
+#: src/hotkeys.cpp:68
+#, fuzzy
+msgid "Map Screenshot"
+msgstr "لقطة شاشة"
+
+#: src/hotkeys.cpp:69
+msgid "Accelerated"
+msgstr "سريع"
+
+#: src/hotkeys.cpp:70
+msgid "Unit Description"
+msgstr "وصف الوحدة"
+
+#: src/hotkeys.cpp:71
+msgid "Rename Unit"
+msgstr "إعادة تسمية الوحدة"
+
+#: src/hotkeys.cpp:73
+msgid "Save Replay"
+msgstr "حفظ الإعادة"
+
+#: src/hotkeys.cpp:74 src/hotkeys.cpp:128
+msgid "Save Map"
+msgstr "حفظ الخريطة"
+
+#: src/hotkeys.cpp:76
+msgid "Recruit"
+msgstr "تجنيد"
+
+#: src/hotkeys.cpp:77
+msgid "Repeat Recruit"
+msgstr "إعادة التجنيد"
+
+#: src/hotkeys.cpp:78
+msgid "Recall"
+msgstr "استدعاء"
+
+#: src/hotkeys.cpp:79
+msgid "End Turn"
+msgstr "إنهاء الدور"
+
+#: src/hotkeys.cpp:80
+#, fuzzy
+msgid "Toggle Ellipses"
+msgstr "شبكة"
+
+#: src/hotkeys.cpp:81
+msgid "Toggle Grid"
+msgstr "شبكة"
+
+#: src/hotkeys.cpp:82
+#, fuzzy
+#| msgid "Mouse scrolling"
+msgid "Mouse Scrolling"
+msgstr "لفّ الفأرة"
+
+#: src/hotkeys.cpp:83
+msgid "Status Table"
+msgstr "جدول الحالات"
+
+#: src/hotkeys.cpp:84
+msgid "Mute"
+msgstr "اكتم"
+
+#: src/hotkeys.cpp:85
+msgid "Speak"
+msgstr "تكلم"
+
+#: src/hotkeys.cpp:87
+#, fuzzy
+msgid "Change Side (Debug!)"
+msgstr "تغيير طرف الوحدة (تنقيح!)"
+
+#: src/hotkeys.cpp:89
+msgid "Scenario Objectives"
+msgstr "أهداف السِيناريُو"
+
+#: src/hotkeys.cpp:90
+msgid "Unit List"
+msgstr "قائمة الوحدات"
+
+#: src/hotkeys.cpp:91
+msgid "Statistics"
+msgstr "إحصائيات"
+
+#: src/hotkeys.cpp:92
+msgid "Pause Network Game"
+msgstr ""
+
+#: src/hotkeys.cpp:93
+#, fuzzy
+#| msgid "Continue Move"
+msgid "Continue Network Game"
+msgstr "متابعة الحركة"
+
+#: src/hotkeys.cpp:95
+msgid "Set Team Label"
+msgstr "وضع لصيقة مرئية من طرف الفريق فقط"
+
+#: src/hotkeys.cpp:96
+msgid "Set Label"
+msgstr "وضع لصيقة"
+
+#: src/hotkeys.cpp:97
+msgid "Clear Labels"
+msgstr "محو اللصائق"
+
+#: src/hotkeys.cpp:98
+msgid "Show Enemy Moves"
+msgstr "إظهار تنقلات العدو"
+
+#: src/hotkeys.cpp:99
+msgid "Best Possible Enemy Moves"
+msgstr "أفضل تنقل ممكن للعدوّ"
+
+#: src/hotkeys.cpp:100
+#, fuzzy
+#| msgid "Save Replay"
+msgid "Play Replay"
+msgstr "حفظ الإعادة"
+
+#: src/hotkeys.cpp:101
+#, fuzzy
+#| msgid "Save Replay"
+msgid "Reset Replay"
+msgstr "حفظ الإعادة"
+
+#: src/hotkeys.cpp:102
+#, fuzzy
+#| msgid "Save Replay"
+msgid "Stop Replay"
+msgstr "حفظ الإعادة"
+
+#: src/hotkeys.cpp:103
+msgid "Next Turn"
+msgstr "الدور التالي"
+
+#: src/hotkeys.cpp:104
+msgid "Next Side"
+msgstr "الطرف التالي"
+
+#: src/hotkeys.cpp:106
+msgid "Full Map"
+msgstr "خريطة كاملة"
+
+#: src/hotkeys.cpp:108
+msgid "Each Team"
+msgstr "كل فريق"
+
+#: src/hotkeys.cpp:110
+msgid "Team 1"
+msgstr "الفريق 1"
+
+#: src/hotkeys.cpp:111
+msgid "Skip Animation"
+msgstr "تخطّي التحريكة"
+
+#: src/hotkeys.cpp:113
+msgid "Toggle Planning Mode"
+msgstr ""
+
+#: src/hotkeys.cpp:114
+msgid "Execute Planned Action"
+msgstr ""
+
+#: src/hotkeys.cpp:115
+msgid "Execute All Actions"
+msgstr ""
+
+#: src/hotkeys.cpp:116
+msgid "Delete Planned Action"
+msgstr ""
+
+#: src/hotkeys.cpp:117
+msgid "Move Action Up Queue"
+msgstr ""
+
+#: src/hotkeys.cpp:118
+msgid "Move Action Down Queue"
+msgstr ""
+
+#: src/hotkeys.cpp:119
+msgid "Suppose Dead"
+msgstr ""
+
+#: src/hotkeys.cpp:121
+msgid "Quit to Desktop"
+msgstr ""
+
+#: src/hotkeys.cpp:122
+#, fuzzy
+msgid "Close Map"
+msgstr "غلق"
+
+#: src/hotkeys.cpp:123
+msgid "Switch Map"
+msgstr ""
+
+#: src/hotkeys.cpp:125
+msgid "Partial Undo"
+msgstr ""
+
+#: src/hotkeys.cpp:127
+msgid "Load Map"
+msgstr "تحميل خريطة"
+
+#: src/hotkeys.cpp:129
+#, fuzzy
+msgid "Save Map As"
+msgstr "حفظ الخريطة"
+
+#: src/hotkeys.cpp:130
+#, fuzzy
+msgid "Save All Maps"
+msgstr "حفظ الخريطة"
+
+#: src/hotkeys.cpp:131
+msgid "Revert All Changes"
+msgstr ""
+
+#: src/hotkeys.cpp:132
+#, fuzzy
+msgid "Map Information"
+msgstr "مُوَلِّد الخرائط"
+
+#: src/hotkeys.cpp:134
+msgid "Swap Foreground/Background Terrains"
+msgstr ""
+
+#: src/hotkeys.cpp:135
+#, fuzzy
+msgid "Next Tool"
+msgstr "الدور التالي"
+
+#: src/hotkeys.cpp:136
+msgid "Paint Tool"
+msgstr ""
+
+#: src/hotkeys.cpp:137
+msgid "Fill Tool"
+msgstr ""
+
+#: src/hotkeys.cpp:138
+#, fuzzy
+msgid "Selection Tool"
+msgstr "انتقاء الكل"
+
+#: src/hotkeys.cpp:140
+msgid "Set Starting Positions Tool"
+msgstr ""
+
+#: src/hotkeys.cpp:141
+#, fuzzy
+msgid "Next Brush"
+msgstr "الدور التالي"
+
+#: src/hotkeys.cpp:142
+#, fuzzy
+msgid "Default Brush"
+msgstr "التكبير الأصلي"
+
+#: src/hotkeys.cpp:143
+msgid "Cut"
+msgstr "قصّ"
+
+#: src/hotkeys.cpp:144
+msgid "Copy"
+msgstr "نسخ"
+
+#: src/hotkeys.cpp:145
+msgid "Paste"
+msgstr "إلصاق"
+
+#: src/hotkeys.cpp:146
+msgid "Export Selected Coordinates to System Clipboard"
+msgstr ""
+
+#: src/hotkeys.cpp:148
+msgid "Select All"
+msgstr "انتقاء الكل"
+
+#: src/hotkeys.cpp:150
+msgid "Select Inverse"
+msgstr ""
+
+#: src/hotkeys.cpp:152
+#, fuzzy
+msgid "Select None"
+msgstr "انتقاء الكل"
+
+#: src/hotkeys.cpp:154
+msgid "Rotate Clipboard Clockwise"
+msgstr ""
+
+#: src/hotkeys.cpp:156
+msgid "Rotate Clipboard Counter-Clockwise"
+msgstr ""
+
+#: src/hotkeys.cpp:158
+msgid "Flip Clipboard Horizontally"
+msgstr ""
+
+#: src/hotkeys.cpp:160
+msgid "Flip Clipboard Vertically"
+msgstr ""
+
+#: src/hotkeys.cpp:162
+msgid "Rotate Selection"
+msgstr "إدارة المنتقى"
+
+#: src/hotkeys.cpp:164
+#, fuzzy
+msgid "Flip Selection"
+msgstr "ملء المنتقى"
+
+#: src/hotkeys.cpp:166
+msgid "Fill Selection"
+msgstr "ملء المنتقى"
+
+#: src/hotkeys.cpp:168
+#, fuzzy
+msgid "Generate Tiles In Selection"
+msgstr "إدارة المنتقى"
+
+#: src/hotkeys.cpp:170
+msgid "Randomize Tiles In Selection"
+msgstr ""
+
+#: src/hotkeys.cpp:174
+#, fuzzy
+msgid "Rotate Map"
+msgstr "تحميل خريطة"
+
+#: src/hotkeys.cpp:176
+#, fuzzy
+msgid "Generate Map"
+msgstr "إنشاء خريطة جديدة"
+
+#: src/hotkeys.cpp:178
+msgid "Apply a Mask"
+msgstr ""
+
+#: src/hotkeys.cpp:180
+#, fuzzy
+msgid "Create Mask"
+msgstr "حفظ اللعبة"
+
+#: src/hotkeys.cpp:182
+#, fuzzy
+msgid "Refresh Display"
+msgstr "فيديو"
+
+#: src/hotkeys.cpp:184
+#, fuzzy
+msgid "Update Terrain Transitions"
+msgstr "تجديد الإنتقال بين الخانات"
+
+#: src/hotkeys.cpp:186
+#, fuzzy
+msgid "Auto-update Terrain Transitions"
+msgstr "تجديد الإنتقال بين الخانات"
+
+#: src/hotkeys.cpp:188
+msgid "Refresh Image Cache"
+msgstr "تحديث مخبإ الصورة"
+
+#: src/hotkeys.cpp:190
+msgid "Draw Hex Coordinates"
+msgstr ""
+
+#: src/hotkeys.cpp:192
+#, fuzzy
+msgid "Draw Terrain Codes"
+msgstr "رسم الأرضية"
+
+#: src/hotkeys.cpp:196
+msgid "Delay Shroud Updates"
+msgstr "تأخير تجديد الحُجُب"
+
+#: src/hotkeys.cpp:197
+msgid "Update Shroud Now"
+msgstr "تحديث الحجب الآن"
+
+#: src/hotkeys.cpp:198
+msgid "Continue Move"
+msgstr "متابعة الحركة"
+
+#: src/hotkeys.cpp:199
+msgid "Find Label or Unit"
+msgstr "العثور على لصيقة أو وحدة"
+
+#: src/hotkeys.cpp:200
+msgid "Speak to Ally"
+msgstr "تكليم الحليف"
+
+#: src/hotkeys.cpp:201
+msgid "Speak to All"
+msgstr "تكليم الجميع"
+
+#: src/hotkeys.cpp:203
+msgid "View Chat Log"
+msgstr "إظهار تاريخ الحديث"
+
+#: src/hotkeys.cpp:206
+msgid "Enter User Command"
+msgstr "إدخال أمر المُستَخدِم"
+
+#: src/hotkeys.cpp:207
+#, fuzzy
+msgid "Custom Command"
+msgstr "إدخال أمر المُستَخدِم"
+
+#: src/hotkeys.cpp:208
+msgid "Run Formula"
+msgstr ""
+
+#: src/hotkeys.cpp:209
+msgid "Clear Messages"
+msgstr "محو الرسائل"
+
+#: src/hotkeys.cpp:213
+#, fuzzy
+msgid "Refresh WML"
+msgstr "فيديو"
+
+#: src/hotkeys.cpp:220
+msgid "Next Tip of the Day"
+msgstr ""
+
+#: src/hotkeys.cpp:227
+#, fuzzy
+msgid "Previous Tip of the Day"
+msgstr "الوحدة السابقة"
+
+#: src/hotkeys.cpp:234
+#, fuzzy
+msgid "Start Tutorial"
+msgstr "الرسالة في بداية الدور"
+
+#: src/hotkeys.cpp:241
+#, fuzzy
+#| msgid "Smart expand"
+msgid "Start Campaign"
+msgstr "توسيع ذكي"
+
+#: src/hotkeys.cpp:248
+#, fuzzy
+msgid "Start Multiplayer Game"
+msgstr "خيارات اللعب العديد اللاعبين"
+
+#: src/hotkeys.cpp:255
+#, fuzzy
+msgid "Manage Add-ons"
+msgstr "تجديد الإنتقال بين الخانات"
+
+#: src/hotkeys.cpp:262
+#, fuzzy
+msgid "Start Editor"
+msgstr "مغادرة المحرّر"
+
+#: src/hotkeys.cpp:269
+#, fuzzy
+#| msgid "Show grid"
+msgid "Show Credits"
+msgstr "إظهار الشبكة"
+
+#: src/hotkeys.cpp:277
+#, fuzzy
+msgid "Show Helptip"
+msgstr "لاعب"
+
+#: src/hotkeys.cpp:875 src/hotkeys.cpp:1220
+msgid "Do you really want to quit?"
+msgstr "أتريد فعلاً المغادرة؟"
+
+#: src/hotkeys.cpp:1172
+#, fuzzy
+msgid "Map-Screenshot"
+msgstr "لقطة شاشة"
+
+#: src/hotkeys.cpp:1179 src/hotkeys.cpp:1181
+#, fuzzy
+msgid "Screenshot done"
+msgstr "لقطة شاشة"
+
+#. TRANSLATORS: This is the language code which will be used
+#. to store and fetch localized non-textual resources, such as images,
+#. when they exist. Normally it is just the code of the PO file itself,
+#. e.g. "de" of de.po for German. But it can also be a comma-separated
+#. list of language codes by priority, when the localized resource
+#. found for first of those languages will be used. This is useful when
+#. two languages share sufficient commonality, that they can use each
+#. other's resources rather than duplicating them. For example,
+#. Swedish (sv) and Danish (da) are such, so Swedish translator could
+#. translate this message as "sv,da", while Danish as "da,sv".
+#: src/image.cpp:421
+msgid "language code for localized resources^en_US"
+msgstr ""
+
+#: src/mapgen_dialog.cpp:113
+msgid "Map Generator"
+msgstr "مُوَلِّد الخرائط"
+
+#: src/mapgen_dialog.cpp:120
+msgid "Players:"
+msgstr "اللاعبون:"
+
+#: src/mapgen_dialog.cpp:123
+msgid "Number of hills:"
+msgstr "عدد التلال"
+
+#: src/mapgen_dialog.cpp:124
+msgid "Max hill size:"
+msgstr "الحجم الأقصى للتلال"
+
+#: src/mapgen_dialog.cpp:125
+msgid "Villages:"
+msgstr "القرى"
+
+#: src/mapgen_dialog.cpp:126
+msgid "Castle size:"
+msgstr "حجم القصر"
+
+#: src/mapgen_dialog.cpp:127
+msgid "Landform:"
+msgstr "نوع الخريطة"
+
+#: src/mapgen_dialog.cpp:249
+#, fuzzy
+#| msgid "Roads Between Castles"
+msgid "Roads between castles"
+msgstr "الطرق العابرة بين القصور"
+
+#: src/mapgen_dialog.cpp:306
+msgid "/1000 tiles"
+msgstr "1000/ خانة"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Coastal"
+msgstr "ساحلي"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Inland"
+msgstr "داخِلِيّ"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Island"
+msgstr "جزيرة"
+
+#: src/marked-up_text.cpp:439
+msgid "The maximum text width is less than 1."
+msgstr "العرض الأقصى للنص أقل من 1"
+
+#: src/preferences_display.cpp:123 src/preferences_display.cpp:179
+msgid ""
+"The video mode could not be changed. Your window manager must be set to 16 "
+"bits per pixel to run the game in windowed mode. Your display must support "
+"1024x768x16 to run the game full screen."
+msgstr ""
+"تعذر تبدييل نمط الفيديو.يجب ضبط منظّم النوافذ في (16 bits per pixel) للعب "
+"داخل نافذة.على شاشتك أن تتحمل 1024x768x16  للعب بنمط الشاشة المليئة."
+
+#: src/preferences_display.cpp:276
+msgid "Hotkey Settings"
+msgstr "تفضيلتات مفتاح الاختصار"
+
+#: src/preferences_display.cpp:282 src/preferences_display.cpp:351
+#, fuzzy
+msgid "Press desired hotkey (Esc cancels)"
+msgstr "اضغط على المفتاح المُراد"
+
+#: src/preferences_display.cpp:301
+msgid "Action"
+msgstr "إجراء"
+
+#: src/preferences_display.cpp:301
+msgid "Binding"
+msgstr "ربط أزرار"
+
+#: src/preferences_display.cpp:313
+msgid "Change Hotkey"
+msgstr "تغيير مفتاح الاختصار"
+
+#: src/preferences_display.cpp:316
+#, fuzzy
+msgid "Clear Hotkey"
+msgstr "تغيير مفتاح الاختصار"
+
+#: src/preferences_display.cpp:394 src/preferences_display.cpp:402
+#: src/preferences_display.cpp:414
+#, fuzzy
+#| msgid "This Hotkey is already in use."
+msgid "This hotkey is already in use."
+msgstr "هذا المفتاح مُستعمَلٌ"
+
+#: src/preferences_display.cpp:429
+msgid ""
+"Screenshot hotkeys should be combined with the Control, Alt or Meta "
+"modifiers to avoid problems."
+msgstr ""
+
+#: src/preferences_display.cpp:429
+msgid "Warning"
+msgstr ""
+
+#: src/preferences_display.cpp:530
+msgid "There are no alternative video modes available"
+msgstr "ليس هناك نمط فيديو آخر."
+
+#: src/preferences_display.cpp:561
+msgid " (widescreen)"
+msgstr ""
+
+#: src/preferences_display.cpp:565
+msgid "Choose Resolution"
+msgstr "تغيير الاستبانة"
+
+#: src/terrain_translation.cpp:715
+msgid ""
+"A terrain with a string with more than 4 characters has been found, the "
+"affected terrain is :"
+msgstr "عُثِرَ على أرضية ممثلة بواسطة مقطع مكون من  أكثر من 4 محارف.الأرضية هي:"
+
+#: src/text.cpp:719
+msgid "The text contains invalid markup: "
+msgstr ""
+
+#: src/wml_exception.cpp:60
+#, fuzzy
+msgid ""
+"An error due to possibly invalid WML occurred\n"
+"The error message is :"
+msgstr "خطأ راجع إلى WML غير صالح(غالبا).نص الخطأ:"
+
+#: src/wml_exception.cpp:62
+msgid "When reporting the bug please include the following error message :"
+msgstr "عند تقرير الخلل ، المرجو تضمين ما يلي:"
+
+#: src/wml_exception.cpp:92
+msgid ""
+"In section '[$section|]' where '$primary_key| = $primary_value' the "
+"mandatory key '$key|' isn't set."
+msgstr ""
+"لم يحدد المفتاح الإجباري '$key|' في الفقرة '[$section|]' حيث '$primary_key| "
+"= $primary_value'"
+
+#: src/wml_exception.cpp:95
+msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
+msgstr "لم يحدد المفتاح الإجباري '$key|' في الفقرة '[$section|]'"
+
+#: src/wml_exception.cpp:111
+msgid ""
+"The key '$key' is deprecated and support will be removed in version "
+"$removal_version."
+msgstr ""
+
+#: src/wml_exception.cpp:130
+msgid ""
+"The key '$deprecated_key' has been renamed to '$key'. Support for "
+"'$deprecated_key' will be removed in version $removal_version."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Resize map"
+#~ msgstr "إعادة تحجيم الخريطة"
+
+#~ msgid "Show Unit Idle Animations"
+#~ msgstr "إظهار تحريكات الوحدات الساكنة"
+
+#~ msgid "Stop"
+#~ msgstr "وقوف"
+
+#~ msgid "Play"
+#~ msgstr "إلعب"
+
+#~ msgid "Reset"
+#~ msgstr "إعادة التنضيد"
+
+#~ msgid "Close Window"
+#~ msgstr "غلق النافدة"
+
+#, fuzzy
+#~ msgid "Saved preference:"
+#~ msgstr "السمة المفضلة المحفوظة:"
+
+#, fuzzy
+#~ msgid "Aquatic Village"
+#~ msgstr "قرية"
+
+#, fuzzy
+#~ msgid "Sunken Keep"
+#~ msgstr "خراب مغمور"
+
+#, fuzzy
+#~ msgid "Swamp Keep"
+#~ msgstr "مستنقع"
+
+#, fuzzy
+#~ msgid "Add to friends list"
+#~ msgstr "إضافة هذا الإسم إلى قائمة الأصدقاء"
+
+#, fuzzy
+#~ msgid "Add to ignores list"
+#~ msgstr "إضافة إسم هذا اللاعب إلى قائمة المهمولين"
+
+#, fuzzy
+#~ msgid "Send a private message"
+#~ msgstr "محو الرسائل"
+
+#~ msgid "Name: "
+#~ msgstr "الإسم:"
+
+#~ msgid "Reverse Time Graphics"
+#~ msgstr "قلب مبيان الزمن"
+
+#~ msgid "Music Volume:"
+#~ msgstr "مستوى صوت الموسيقى:"
+
+#~ msgid "UI Sound Volume:"
+#~ msgstr "مستوى صوت أصوات الواجهة:"
+
+#~ msgid "Bell Volume:"
+#~ msgstr "مستوى صوت الجرس:"
+
+#~ msgid "Choose whether the sun moves left-to-right or right-to-left"
+#~ msgstr "إختيار منحى حركة الشمس(من اليسار إلى اليمين أو العكس)"
+
+#, fuzzy
+#~ msgid "Select unit:"
+#~ msgstr "انتقاء الكل"
+
+#, fuzzy
+#~ msgid "Generate name"
+#~ msgstr "إنشاء خريطة جديدة"
+
+#, fuzzy
+#~ msgid "Screenshot failed"
+#~ msgstr "لقطة شاشة"
+
+#~ msgid "Mushroom Grove Lit"
+#~ msgstr "بُسْتان الفُطر منوَّر"
+
+#, fuzzy
+#~ msgid "Impassable Regular Mountains"
+#~ msgstr "جبال صحراوية منيعة"
+
+#~ msgid "Impassable Desert Mountains"
+#~ msgstr "جبال صحراوية منيعة"
+
+#, fuzzy
+#~ msgid "Castle Human Keep"
+#~ msgstr "قصر"
+
+#, fuzzy
+#~ msgid "Snowy Castle Keep"
+#~ msgstr "قصر"
+
+#, fuzzy
+#~ msgid "Deep Water Medium"
+#~ msgstr "مياه عميقة"
+
+#, fuzzy
+#~ msgid "Deep Water Tropical"
+#~ msgstr "مياه عميقة"
+
+#~ msgid "Snow Forest"
+#~ msgstr "غابة مكسوة بالثلج"
+
+#~ msgid "User-Command#2"
+#~ msgstr "أمر المُستخدِم #2"
+
+#~ msgid "User-Command#3"
+#~ msgstr "أمر المُستخدِم #3"
+
+#, fuzzy
+#~ msgid "Wall"
+#~ msgstr "حائط كهف"
+
+#~ msgid "None"
+#~ msgstr "لا شيء"
+
+#~ msgid "Could not get image for terrain: $terrain."
+#~ msgstr "تعذر الحصول على صورة للأرضية:terrain$"
+
+#~ msgid "Error creating or aquiring an image."
+#~ msgstr "خطأ عند خلق أو اكتساب صورة"
+
+#, fuzzy
+#~ msgid "Fort"
+#~ msgstr "غابة"
+
+#~ msgid "Ruin"
+#~ msgstr "خَرابُ"
+
+#~ msgid "Savanna"
+#~ msgstr "سافانا"
+
+#~ msgid "River Ford"
+#~ msgstr "مَخَاضَة "
+
+#~ msgid "Save The Map"
+#~ msgstr "حفظ الخريطة"
+
+#~ msgid "Adjust Gamma"
+#~ msgstr "تسوية الجاما"
+
+#~ msgid "Gamma:"
+#~ msgstr "جاما:"
+
+#~ msgid "Change the brightness of the display"
+#~ msgstr "تغيير سطوع الشاشة"
+
+#, fuzzy
+#~ msgid "Change username"
+#~ msgstr "أدخل اسم المُستخدِم"
+
+#, fuzzy
+#~ msgid "No scrollbar defined."
+#~ msgstr "لم يُحدَد أيّ خادم"
+
+#~ msgid "Your modifications to the map will be lost. Continue?"
+#~ msgstr "أتريد القيام بذلك رغم أن التغييرات المحدثة على الخريطة ستفقد؟"
+
+#~ msgid "Generate New Map"
+#~ msgstr "إنشاء خريطة جديدة"
+
+#~ msgid "Random Generator Settings"
+#~ msgstr "تعديلات مُوَلِّد الخرئط العشوائية"
+
+#~ msgid "Map creation failed."
+#~ msgstr "فشل إعداد الخرطة"
+
+#~ msgid "Video Mode"
+#~ msgstr "نمط فيديو"
+
+#~ msgid "X offset:"
+#~ msgstr "زَيَحان X:"
+
+#~ msgid "Y offset:"
+#~ msgstr "زَيَحان Y:"
+
+#~ msgid "X-Axis"
+#~ msgstr "محور x"
+
+#~ msgid "Y-Axis"
+#~ msgstr "محور y"
+
+#~ msgid "Flip around (this may change the dimensions of the map):"
+#~ msgstr "قلب(يُحْتَمَل تغيير أبعاد الخريطة)"
+
+#~ msgid "Set Terrain"
+#~ msgstr "تحديد نوع المنطقة"
+
+#~ msgid "Save As"
+#~ msgstr "حفظ باسم.."
+
+#~ msgid "Set Player's keep"
+#~ msgstr "تحديد حصن اللاعب"
+
+#~ msgid "Flood Fill"
+#~ msgstr "ملء"
+
+#~ msgid "Flip Map"
+#~ msgstr "قلب الخريطة"
+
+#~ msgid "Draw Terrain"
+#~ msgstr "رسم الأرضية"
+
+#~ msgid "Delay transition updates"
+#~ msgstr "تأخير تجديد الانتقال بين الخانات"
+
+#~ msgid "Rockbound Cave Lit"
+#~ msgstr "كهف صخري منوّر"
+
+#~ msgid "Invalid terrain found probably an 1.2 terrain format, terrain = "
+#~ msgstr "وُجِدت أرضية غير صالحة.ربما هذا راجع إلى هيئة 1.2 .الأرضية:"

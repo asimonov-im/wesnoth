@@ -1,0 +1,32 @@
+This file is here to allow devs to easily add stuff in the release notes for the next release, it allows easy syncing with the release team, since you don't have to be around when the release takes place...
+
+Just dump whatever you want to have mentioned in the release notes here. Please take care that it is in a way that allows copy&paste to the release notes. That is making sure that spelling/grammar/whatever is usable and that you are using complete sentences, not just single words. Please do use forum syntax and do *NOT* split lines after 80 chars!
+
+Stuff that belongs in here:
+* groundbreaking changes (new campaigns, extremely new feature, ...)
+* changed dependencies (new things, version bumps, stuff that was removed)
+* known bugs
+
+The release team should empty this file after each release.
+
+
+=======
+CHANGES
+=======
+
+[section="Another Change"]
+[/section]
+
+[section="Another Change"]
+[/section]
+
+[section="Another Change"]
+[/section]
+
+==========
+KNOWN BUGS
+==========
+
+[list][*] Text for entry1.
+[*] Text for entry2.
+[/list]

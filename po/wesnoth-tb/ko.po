@@ -1,0 +1,1653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth 1.1.1+svn\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-01-21 01:34+0100\n"
+"PO-Revision-Date: 2011-10-01 22:09+0900\n"
+"Last-Translator: mistzone <drier22@gmail.com>\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:12
+msgid "A Tale of Two Brothers"
+msgstr "두 형제 이야기"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:13
+msgid "AToTB"
+msgstr "형제"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:17
+msgid "(Beginner)"
+msgstr "(초심자)"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:17
+msgid "Horseman"
+msgstr "기마병"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:18
+msgid "(Challenging)"
+msgstr "(까다로운)"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:18
+msgid "Knight"
+msgstr "기사"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:21
+msgid "(Novice level, 4 scenarios.)"
+msgstr "(초보자 레벨, 4 개 시나리오.)"
+
+#. [campaign]: id=Two_Brothers
+#: data/campaigns/Two_Brothers/_main.cfg:21
+msgid ""
+"An evil mage is threatening the small village of Maghre and its inhabitants. "
+"The village’s mage sends to his warrior brother for help, but not all goes "
+"as planned. Can you help?\n"
+"\n"
+msgstr ""
+"사악한 마법사가 작은 마을 Maghre 사람들을 위협하고 있습니다. 마을의 마법사는 "
+"전사인 형에게 도움을 청했지만, 모든 것이 뜻대로 되지는 않네요. 당신의 도움이 "
+"필요합니다.\n"
+"\n"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:28
+msgid "Campaign Design"
+msgstr "캠페인 기획"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:37
+msgid "Prose and Story Edits"
+msgstr "내용 및 스토리 편집"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:46
+msgid "Campaign Maintenance"
+msgstr "캠페인 관리"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:52
+msgid "Artwork and Graphics Design"
+msgstr "삽화 및 그래픽 디자인"
+
+#. [about]
+#: data/campaigns/Two_Brothers/_main.cfg:68
+msgid "Miscellaneous"
+msgstr "기타등등"
+
+#. [entry]
+#: data/campaigns/Two_Brothers/_main.cfg:82
+msgid "And special thanks to everyone else who I forgot to mention."
+msgstr "또한 잊고 언급하지 않은 모든 분들께도 특별히 감사를 전합니다."
+
+#. [scenario]: id=01_Rooting_Out_a_Mage
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:4
+msgid "Rooting Out a Mage"
+msgstr "마법사 처치"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:55
+msgid ""
+"The remote freehold of Maghre in the western reaches of the kingdom of "
+"Wesnoth was once a peaceful place, its inhabitants largely unaware of the "
+"comings and goings of the wider world. Wars and the rumor of wars touched "
+"them not, until the day a dark mage settled in the region and began seeking "
+"sacrifices for his evil summonings."
+msgstr ""
+"Wesnoth 왕국 서부에 있는 변경지대 자유민 마을 Maghre는 평화로운 마을로, 그곳 "
+"주민들은 바깥 세상에서 일어나는 일들을 잘 모르고 살았다. 전쟁이든, 전쟁이 났"
+"다는 소문이든 그런 것들은 그들에게 아무런 감흥도 주지 못했다. 한어둠의 마법사"
+"가 그 지역에 둥지를 틀고 그의 사악한 소환의식의 희생물을 찾아 나서기 전까지"
+"는..."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:59
+msgid ""
+"Skeletons and zombies killed cattle and fired fields. <i>“Fear and obey "
+"Mordak the Mage!”</i> they cried in fell voices as they did their foul "
+"deeds. People vanished from isolated farmsteads. Men and women began to fear "
+"the night, and their children even the bright day. But the nearest lord was "
+"more than a day’s ride distant, and messengers sent to seek his help did not "
+"return."
+msgstr ""
+"스켈레톤과 좀비들이 가축을 죽이고 풀밭을 불태웠다. <i>“마법사 Mordak님을 두려"
+"워하고 숭배하라!”</i> 그들은 추악한 짓거리들을 벌이며 흉악한 목소리로 외쳐댔"
+"다. 외딴 농장에서는 사람들이 사라져갔다. 마을 사람들은 밤을 두려워하기 시작했"
+"고, 아이들은 낮까지도 무서워했다. 하지만 근처의 영주는 말을 달려 하루 거리에 "
+"있었고, 그의 도움을 구하러 보낸 전령은 돌아오지 않았다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:63
+msgid ""
+"There was a man named Baran who had shown talent as a mage when he was "
+"young, gone to the great Academy on the Isle of Alduin, and returned to work "
+"his magic in the land where he was born. The people looked to him for help "
+"and leadership. He found weapons half-forgotten from the times of their "
+"sires and grandsires hanging in many houses, and bade the villagers to take "
+"them down and clean and oil them. He set the smiths of Maghre to making "
+"spearheads and ax-blades for the rest."
+msgstr ""
+"당시에 Baran이라는 사내가 있었는데, 그는 어릴적에 마법에 재능을 보여 Alduin "
+"섬의 큰 마법학교에 들어갔으며, 자신의 고향을 위해 마법을 쓰고자 돌아온 사람이"
+"었다. 사람들을 그를 찾아가 도움을 청하고 그들을 이끌어 줄 것을 부탁했다. 그"
+"는 그들의 선조와 그 선조 대부터 반쯤은 잊혀진 채로 집안에 걸려있던 무기들을 "
+"찾아내고 마을 사람들이 그것들을 끌어내려 닦고 기름치도록 독려했다. 또한 그는 "
+"그런 것이 없는 나머지 사람들을 위해 Maghre의 대장장이들에게 창두와 도끼날을 "
+"만들 것을 지시했다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:67
+msgid ""
+"Now Baran had a brother named Arvith who had also left Maghre to seek his "
+"fortune, and had become the leader of a small band of horsemen who hired out "
+"as guards to merchant caravans. Fortunate it was for all that when Baran was "
+"but an apprentice mage, he had made a pair of amulets for himself and his "
+"brother, with which they might call to each other when in dire need. Baran "
+"sent out that call."
+msgstr ""
+"Bjarn에게는 자기 자신의 운명을 개척하고자 Maghre를 떠나서 주로 상단의 호위를 "
+"맡는 작은 기병대의 대장이 된 형 Arvith가 있었다. 다행스럽게도 Baran이 견습 마"
+"법사이던 시절, 그는 그와 형을 위한 위급한 때에 서로를 부를 수 있는 한 쌍의 부"
+"적을 만들어 뒀었다. Baran은 신호를 보냈다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:76
+msgid ""
+"12 V, 363 YW\n"
+"Excerpt from the journal of Baran of Maghre\n"
+"\n"
+"If I could but face this ‘Mordak’! I think my magic might prove stronger "
+"than his. But he bides in the hills, well-guarded by his servants, and I "
+"muster frightened peasants to fight his minions with blades and sticks. I "
+"need my brother; he always had a better head for battle than I.\n"
+"\n"
+"Will he heed the call? I do not know if he has kept the amulet; we have not "
+"spoken since that evil day at Toen Caric. If he will not come for me, "
+"perhaps he will return to aid our village in its hour of desperate need."
+msgstr ""
+"363 YW 5월 12일\n"
+"Maghre의 Baran의 일기에서 발췌.\n"
+"\n"
+"내가 저 'Mordak'을 직접 상대할 수만 있다면! 나의 마력이 놈보다 더 강력하다는"
+"걸 보여줄 수 있을 것이다. 하지만 놈은 언덕 너머에서 하인들에게 보호받으며 숨"
+"어있고, 나는 놈의 권속과 맞서 싸우기 위해 두려움에 떠는 농부들을 모은다. 나에"
+"겐 형이 필요하다. 그는 전투에 있어서는 항상 나보다 뛰어났다.\n"
+"\n"
+"형이 내 신호를 받을까? 난 그가 부적을 아직 가지고 있는지조차 알 수 없다. 우리"
+"는 Toen Caric에서의 좋지 않은 사건 이후 한마디도 나누지 않았었다. 그가 나를 "
+"생각하는 마음이 없을지라도, 어쩌면 절박한 상황에 처한 마을을 위해서 와 줄지 "
+"모른다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:80
+msgid ""
+"Heeding the call of his amulet, Arvith gathered such men as he could and "
+"hurried to Maghre to help Baran."
+msgstr ""
+"Arvith는 부적의 부름을 듣고, 비록 적은 수나마 되는대로 부하들을 모아서 Baran"
+"을 돕기 위해 서둘러 Maghre로 향했다."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:91
+msgid "Slay Mordak, the evil mage"
+msgstr "사악한 마법사인 Mordak을 베어라"
+
+#. [objective]: condition=lose
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:95
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:90
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:340
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:526
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:214
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:693
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:825
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:60
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:255
+msgid "Death of Arvith"
+msgstr "Arvith의 죽음"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:117
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:120
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:75
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:88
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:53
+msgid "Arvith"
+msgstr "Arvith"
+
+#. [unit]: id=Baran, type=Red Mage
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:127
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:756
+msgid "Baran"
+msgstr "Baran"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:147
+msgid "Alwyn"
+msgstr "Alwyn"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:148
+msgid "Brent"
+msgstr "Brent"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:149
+msgid "Cadell"
+msgstr "Cadell"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:150
+msgid "Dannen"
+msgstr "Dannen"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:151
+msgid "Efran"
+msgstr "Efran"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:152
+msgid "Faren"
+msgstr "Faren"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:155
+msgid "Tarek"
+msgstr "Tarek"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:156
+msgid "Hann"
+msgstr "Hann"
+
+#. [side]: type=Knight, id=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:157
+msgid "Magrid"
+msgstr "Magrid"
+
+#. [side]: type=Knight, id=Arvith
+#. [side]: type=Longbowman, id=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:161
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:128
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:84
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:96
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:138
+msgid "Humans"
+msgstr "인간"
+
+#. [side]: type=Dark Sorcerer, id=Mordak
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:174
+msgid "Mordak"
+msgstr "Mordak"
+
+#. [side]: type=Orcish Warlord, id=Tairach
+#. [side]: type=Dark Sorcerer, id=Rotharik
+#. [side]
+#. [side]: type=Dark Sorcerer, id=Mordak
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:188
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:115
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:156
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:125
+msgid "Enemies"
+msgstr "적"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:207
+msgid "Greetings, brother, and welcome home."
+msgstr "반갑소, 형님. 고향에 온걸 환영하죠."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:211
+msgid "Hail."
+msgstr "반갑군."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:215
+msgid "Is that all, Arvith? I understand, but..."
+msgstr "이게 답니까, Arvith? 이해는 하지만, 그래도..."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:219
+msgid "You called, and I came; be content with that. What ails Maghre?"
+msgstr ""
+"네가 불렀고, 그래서 내가 왔다. 그걸로 만족해라. 어떤 놈이 우리 마을 Maghre를 "
+"괴롭히는게냐?"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:223
+msgid ""
+"A dark mage has come upon us; his creatures call him Mordak. They have been "
+"terrorizing outlying farms, and we fear they may soon attack the village "
+"itself! The villagers of Maghre have taken up weapons but they are not "
+"trained fighters; but we need your men, and you to lead them."
+msgstr ""
+"어둠의 마법사가 이 근처에 나타났소. 그의 피조물들은 그를 Mordak이라 부르지"
+"요. 그들은 외딴 농장에서 파괴 행위를 벌여왔고, 우리는 그들이 이 마을에 직접 "
+"쳐들어올까 두려워하고 있소! Maghre의 주민들은 무기는 들었지만 훈련된 전사들"
+"이 아니오. 우리에겐 형의 부하들과 형의 지휘가 필요하오."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:227
+msgid ""
+"I can feel Mordak’s foul touch on the hidden currents of the earth and air. "
+"He is somewhere due north of here, I would say not more than two days’ ride."
+msgstr ""
+"땅과 대기의 흐름 속에 숨겨진 Mordak의 사악한 손길을 느낄 수 있소. 그는 여기"
+"서 정북쪽 어딘가에 있는데, 추정하기로는 말을 달려 채 이틀도 걸리지 않는 곳에 "
+"있소."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:231
+msgid ""
+"All right. I will do this for the village. Can you keep the mage off our "
+"backs?"
+msgstr ""
+"알았다. 우리 마을을 위해서 이 일을 맡아주마. 마법사놈이 우리 뒤를 치지 않도"
+"록 막아줄 수 있나?"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:235
+msgid ""
+"I will go stealthily with a handful of our best scouts and woodsmen. While "
+"you demonstrate against him and kill his creatures, I will try to defeat "
+"Mordak himself with magic at an unguarded moment. You shall be the right "
+"hand, I the left... aye, brother?"
+msgstr ""
+"내가 제일 솜씨좋은 정찰꾼과 나무꾼들 몇을 동원해서 은밀히 가보겠소. 형이 그"
+"를 상대하며 그의 피조물들을 처치하는 동안에, 내가 Mordak이 보호받지 못한 틈"
+"을 타서 마법으로 놈을 처치해 보겠소. 형이 오른팔이 되고, 내가 왼팔이 되고... "
+"됐소?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:239
+msgid "... Aye. Just make sure you’re there when we need you."
+msgstr "... 그래. 필요한 순간에 확실히 나오도록 해라."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:250
+msgid ""
+"Baran should be in position by now. Press them, distract the adept so Baran "
+"can spring his trap!"
+msgstr ""
+"Baran이 지금쯤 제 위치에 도착했을 것이다. 몰아붙여라! 그가 기습할 수 있게 수"
+"련자들을 흩어놔라!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:258
+msgid "Baran has not made his attack!"
+msgstr "Baran이 공격하지 않고 있어!"
+
+#. [message]: role=Mercenary
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:262
+msgid "Could he have abandoned us?"
+msgstr "그 자가 우릴 저버린걸까요?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:266
+msgid ""
+"No... No. This is something else. I’m worried about him... but right now it "
+"means we have to deal with this Mordak ourselves."
+msgstr ""
+"아니... 아니다. 이건 뭔가 달라. 녀석이 걱정되는군... 하지만 일단 지금은 우리"
+"가 알아서 Mordak을 상대해야 된다."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:277
+msgid "Argh!"
+msgstr "아악!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:281
+msgid "Good work, men! But what has become of my brother?"
+msgstr "잘했다, 제군! 근데 아우는 어찌된거지?"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:285
+msgid "Worried about him, are you? E-he-he... hergh... gaargh..."
+msgstr "그를 걱정하는건가, 너? 에-헤-헤..허윽...그으윽..."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:293
+msgid ""
+"There’s nothing more to be had from this one; we will have to search for "
+"Baran ourselves!"
+msgstr ""
+"이 녀석한테서 더이상 뭔가 알아내기는 글렀군. 우리가 알아서 Baran을 찾아야 할 "
+"것 같다!"
+
+#. [message]: role=Reporter
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:301
+msgid ""
+"Sir, our scouts report that Baran was seen captured and carried away further "
+"north!"
+msgstr ""
+"대장, 우리 정찰병이 Baran이 붙잡혀서 북쪽 멀리로 끌려가는걸 봤다는 보고입니"
+"다!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:305
+msgid "That they should dare this! We will give chase at once."
+msgstr "감히 이런 짓을 벌이다니! 당장 추격하겠다."
+
+#. [message]: speaker=Mordak
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:319
+msgid "Your brother’s plan to ambush me has failed. He is our prisoner now."
+msgstr "나를 습격하려는 네 형제의 계획은 실패했다. 그는 이제 우리의 포로다."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:323
+msgid ""
+"My brother, kidnapped? I have failed you, Baran! And even now Mordak’s "
+"forces descend upon the village!"
+msgstr ""
+"내 아우가, 납치됐다고? 내가 널 실망시켰구나, Baran! 거기다가 이젠 Mordak의 군"
+"세가 마을로 내려오고 있어!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:338
+msgid "I hear these creatures are nigh-immune to our weapons, let us see!"
+msgstr "이 피조물들에겐 우리 무기가 거의 안통한다던데, 한번 볼까!"
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:353
+msgid "That was not so hard!"
+msgstr "별로 어렵지 않은데!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:364
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:546
+msgid "All is lost now that I am dead..."
+msgstr "내가 죽으면 모든 게 끝이다..."
+
+#. [scenario]: id=02_The_Chase
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:4
+msgid "The Chase"
+msgstr "추격"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:30
+msgid "Arvith and his band rode north in search of his missing brother."
+msgstr "Arvith의 무리는 그의 잃어버린 아우를 찾아 북쪽으로 행군했다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:41
+msgid ""
+"16 V, 363 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"We’ve been searching three days for Baran, and turned up nothing. My best "
+"hunch was to head north into the borderlands, where the necromancer’s "
+"minions could safely hide; everywhere else is more farmland. At first I "
+"thought the search might be useless, but late in the first day we found a "
+"set of tracks. Some of them had been made by skeletal feet.\n"
+"\n"
+"We’re close enough to be certain now: those tracks are heading into the Grey "
+"Woods. No one from Maghre or any of the other villages has gone into that "
+"forest in living memory. Stories have been passed down for generations "
+"warning against it. Supposedly the place is haunted by lost souls who hunger "
+"for the living, and anyone who dies there is doomed to join them."
+msgstr ""
+"363 YW 5월 16일\n"
+"Maghre의 Arvith의 일기에서 발췌.\n"
+"\n"
+"우린 Baran을 찾아서 사흘을 수색했지만, 아무것도 변한 건 없다. 내 직감은 네크"
+"로맨서의 권속들이 안전하게 숨을 수 있는 북쪽의 국경지대로 향하라고 말한다. 다"
+"른 곳은 전부 논밭이니까. 처음엔 수색작업이 의미없는 일일지도 모른다고 생각했"
+"지만, 우리는 첫째 날이 다 가기 전에 몇 가지 흔적을 찾아냈다. 그중 일부는 해골"
+"의 발이 남긴 것이었다.\n"
+"\n"
+"이제 우린 거의 확신할 수 있다. 이 흔적들은 회색 숲으로 통한다. Maghre나 다른 "
+"마을 사람들 중에 그 숲에 가본 이들 중 아직도 살아있는 사람은 없다. 수 세대동"
+"안 그 장소에 가까이 다가가는 것을 경고하는 전설들이 전해져 내려왔다.아마도 그"
+"곳엔 산 자를 먹어치우는 길잃은 영혼들이 돌아다니고, 그곳에서 죽은 자는 그 영"
+"혼들에 합류하게 되어 버린다는 것 같다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:50
+msgid ""
+"16 V, 363 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"But I’m past superstitions now; I’ve seen enough of the world to guess at "
+"the truth behind these sorts of tales. The forest is home to elves — "
+"unfriendly ones, if the stories have any basis at all. I worry for my men; "
+"horses don’t fight well in forests, and the elves will be more dangerous in "
+"their own territory. But there are things that need done and questions that "
+"need answered. Something bigger is happening. One necromancer terrorizing "
+"townsfolk is nothing new, but why didn’t his servants scatter when he was "
+"killed? Where are they headed now? And most importantly, why did they take "
+"Baran with them?\n"
+"\n"
+"Besides... I want my brother back."
+msgstr ""
+"363 YW 5월 16일\n"
+"Maghre의 Arvith의 일기에서 발췌.\n"
+"\n"
+"하지만 난 이제 미신 따위는 뛰어넘었다. 나는 세상을 떠돌면서 이런 종류의 이야"
+"기들 뒤에 숨겨진 진실을 예측해낼 수 있게 되었다. 숲 속엔 엘프들이 산다. 전설"
+"에 어떤 근거가 있다면 우호적인 이들은 아닐 것이다. 부하들이 걱정이다. 기마는 "
+"숲 속에선 잘 싸우지 못하고, 엘프들은 자기들 영토에선 더욱 위험해질 것이다. 하"
+"지만 해야할 일과 풀어야할 의문들이 있다. 뭔가 큰 일이 벌어지고 있다. 네크로맨"
+"서 하나가 마을을 공포에 몰아넣는건 별다른 일이 아니지만, 어째서 그를 죽였는데"
+"도 그 하인들은 사라지지 않았을까? 그들은 어디로 향한 것일까? 그리고 더 중요"
+"한 것, 어째서 그들은 Baran을 잡아갔는가?\n"
+"\n"
+"뿐만 아니라... 나는 내 아우를 돌려받길 원한다."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:86
+msgid "Fight your way through the woods before the kidnappers escape"
+msgstr "납치자들이 탈출하기 전에 숲을 돌파하라"
+
+#. [side]: type=Elvish Rider, id=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:143
+msgid "Nil-Galion"
+msgstr "Nil-Galion"
+
+#. [side]: type=Elvish Rider, id=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:150
+msgid "Elves"
+msgstr "엘프"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:240
+msgid ""
+"Come on, men. A stroll through such lovely green woods, what could be finer?"
+msgstr "어서 가세, 제군. 이렇게 멋진 초록 숲 속에서 산책이라니, 좋지 않은가?"
+
+#. [message]: speaker=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:244
+msgid "You there! Halt and explain yourself."
+msgstr "거기 너희들! 멈추고 정체를 밝혀라."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:248
+msgid "We’re chasing after some men who kidnapped my brother!"
+msgstr "우린 내 아우를 납치한 자들을 쫓고 있소!"
+
+#. [message]: speaker=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:252
+msgid ""
+"Those men told me their prisoner had attempted to murder their master, and "
+"warned that evil men would follow him. Advance no further, or you will die."
+msgstr ""
+"그들은 포로가 자기들 주인을 죽이려 했다고 말했다, 그리고 사악한 자들이 그를 "
+"따라올 것이라고 경고했지. 죽고 싶지 않으면 더 이상 다가오지 마라."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:256
+msgid ""
+"So much for those ghost stories. Mere elves will not stop me from freeing "
+"Baran!"
+msgstr ""
+"유령 이야기는 이쯤 해두지. 단순한 엘프들 따위가 Baran을 구해내는 걸 막을 수"
+"는 없다!"
+
+#. [message]: role=speaker
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:260
+msgid ""
+"I am glad at least that we will not have to face ghosts. But those elves "
+"will have us at a disadvantage; our horses will not maneuver well in the "
+"trees."
+msgstr ""
+"최소한 유령을 마주치진 않아도 되어서 다행이군요. 하지만 저 엘프들은 우릴 불리"
+"한 상황에 몰아넣을 수 있습니다. 우리 말들은 숲 속에서는 잘 기동하기 어려워요."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:264
+msgid ""
+"Bah, just stay on the paths; our spearmen and bowmen can fight in the deeper "
+"woods. We have faced and won through greater perils than those amateurs can "
+"offer."
+msgstr ""
+"하, 그저 길만 고수하면 된다. 우리 창병과 궁병들은 깊은 숲속에서도 싸울 수 있"
+"어. 우린 저런 풋내기들보다도 더한 위험을 마주하고 헤쳐나왔지 않은가."
+
+#. [unit]: type=Dark Adept, id=Muff Toras
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:279
+msgid "Muff Toras"
+msgstr "Muff Toras"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:327
+msgid "I see them! There they are!"
+msgstr "놈들이 보입니다! 저기 있어요!"
+
+#. [message]: speaker=Muff Toras
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:331
+msgid ""
+"Curses! If they had been an hour slower our master’s reinforcements would "
+"already be here to meet us."
+msgstr ""
+"제기랄! 저놈들이 한 시간만 늦었어도 주인님의 원군이 벌써 우릴 만나러 왔을텐"
+"데."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:336
+msgid "Kill the Dark Adept before his reinforcements arrive"
+msgstr "그의 원군이 오기 전에 어둠의 수련자를 죽여라"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:357
+msgid "Come on, men, let’s catch those kidnappers!"
+msgstr "가자, 모두들, 저 납치범들을 따라잡자!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:368
+msgid ""
+"Hah! You have captured me, but it will avail you nothing. I sent your "
+"precious brother the mage north with half my men a day since; he will be "
+"safely locked away in our master’s dungeons by now."
+msgstr ""
+"하! 너흰 날 잡았지만, 그걸로 달라지는건 없어. 내가 네 소중한 마법사 형제를 "
+"내 부하의 절반과 같이 북쪽으로 보낸지 벌써 하루가 지났지. 그는 이제 주인님의 "
+"던전에서 안전하게 감금되어 있을거다."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:372
+msgid ""
+"My blade is at your throat. Give us the way to my brother now, or I will "
+"spill your wretched blood on the ground."
+msgstr ""
+"그쪽은 안전할지 몰라도 네 목은 나한테 달렸지. 내 아우에게 가는 길을 안내하지 "
+"않으면 네 더러운 피가 바닥에 뿌려지는 걸 보게 될거다."
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:375
+msgid "Sithrak"
+msgstr "Sithrak"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:376
+msgid "Eleben"
+msgstr "Eleben"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:377
+msgid "Jarlom"
+msgstr "Jarlom"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:378
+msgid "Hamik"
+msgstr "Hamik"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:381
+msgid "Akranbral"
+msgstr "Akranbral"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:382
+msgid "Drakanal"
+msgstr "Drakanal"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:383
+msgid "Xaskanat"
+msgstr "Xaskanat"
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:384
+msgid "Katklagad"
+msgstr "Katklagad"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:389
+msgid ""
+"Three days ride to the northeast, in a deserted castle. The passwords to the "
+"guards are $first_password_$first_password_number and $second_password_"
+"$second_password_number|."
+msgstr ""
+"북동쪽으로 3일쯤 말을 달리면 빈 성이 있소. 경비대 암호는 $first_password_"
+"$first_password_number 와(/과) $second_password_$second_password_number|요."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:393
+msgid "Bind him and take him with us. If he has played us false, he will die."
+msgstr "이놈을 묶어서 데려가자. 놈이 우릴 거짓으로 놀린거라면 죽일 것이다."
+
+#. [message]: role=speaker
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:397
+msgid ""
+"Captain, what are we riding into? I thought you wanted nothing to do with "
+"Baran any more, not since Toen Caric."
+msgstr ""
+"대장, 어째서 위험을 감수하는겁니까? Toen Caric 이후로 Baran에겐 아무것도 바라"
+"지 않으신다고 생각했는데요."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:401
+msgid ""
+"I’m no longer sure. What’s between us remains, but knowing someone else has "
+"lain hands on him changes things. Mount up, and let’s get moving."
+msgstr ""
+"나도 이젠 잘 모르겠다. 우리 사이에 있던 일이 없어진건 아니다만, 다른 놈이 그"
+"를 붙들고 있다는 사실을 알고 나니 생각이 달라지는군. 착마하라, 이동하도록 한"
+"다."
+
+#. [event]
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:411
+msgid "Brena"
+msgstr "Brena"
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:420
+msgid ""
+"Greetings. I am Brena, a knight errant. I saw you pursuing and fighting the "
+"foul undead. Are there more of them to be destroyed?"
+msgstr ""
+"안녕하시오. 나는 모험 기사 Brena라오. 당신이 더러운 언데드를 추적하고 싸우는 "
+"것을 봤지. 더 부술 녀석이 있소?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:424
+msgid ""
+"Aye. We think there’s a nest of them north-east of here. They’ve captured my "
+"brother."
+msgstr ""
+"음. 여기서 북동쪽에 놈들의 아지트가 있는 것 같소. 그들이 내 형제를 잡아갔지."
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:428
+msgid ""
+"I bear a great hatred towards their kind. I will follow and fight them with "
+"you, if you permit."
+msgstr ""
+"난 그런 종자들에게 큰 혐오감을 가지고 있다오. 당신이 허락한다면 나도 당신을 "
+"따라가 함께 싸우고 싶소."
+
+#. [message]: type=Horseman
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:432
+msgid "He would only slow us down!"
+msgstr "그는 우리 속도만 늦출겁니다!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:436
+msgid "It is my place to decide this."
+msgstr "결정하는건 나야."
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:438
+msgid "Oh, all right then. Come along with us."
+msgstr "오, 그럼 좋소. 우리와 같이 갑시다."
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:442
+msgid "Thank you. My comrades and I will help you on your noble quest."
+msgstr "고맙소. 나와 내 동지들이 당신의 고귀한 임무에 동참할 것이오."
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:451
+msgid "I am sorry. We have not the time to spare."
+msgstr "미안하오. 시간이 별로 없소."
+
+#. [message]: speaker=Brena
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:455
+msgid ""
+"Take this, then, for I see that you are on a quest. My comrades will help "
+"you whenever you call for them."
+msgstr ""
+"내가 보니 당신은 임무 중인듯 하니 이것을 가져가시오. 당신이 언제든 부르기만 "
+"하면 내 동지들이 당신을 도울 것이오."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:473
+msgid "You receive 70 pieces of gold!"
+msgstr "당신은 금 70을 받았다!"
+
+#. [message]: speaker=Muff Toras
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:494
+msgid "My reinforcements are here!"
+msgstr "원군이 여기 왔다!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:498
+msgid "He escaped us..."
+msgstr "놈이 달아나 버렸어..."
+
+#. [message]: speaker=Nil-Galion
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:509
+msgid ""
+"Foolish human, you have killed me but you will not catch the undead in time. "
+"I have fulfilled my contract, and will be reanimated soon to become a lord "
+"of their armies."
+msgstr ""
+"어리석은 인간, 넌 나를 죽였지만 언데드를 제 시간에 따라잡진 못할 것이다. 난 "
+"나의 계약을 완수했으니 곧 다시 일으켜져 그들의 군대의 군주가 될것이야."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:517
+msgid "Follow their back trail!"
+msgstr "놈들의 흔적을 쫓아라!"
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:522
+msgid "Catch the kidnappers"
+msgstr "납치자들을 잡아라"
+
+#. [terrain_type]: id=magic_irongate
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:6
+msgid "Irongate"
+msgstr "철문"
+
+#. [scenario]: id=03_Guarded_Castle
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:16
+msgid "Guarded Castle"
+msgstr "보초가 있는 성"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:54
+msgid ""
+"19 IV, 363 YW\n"
+"Excerpt from the journal of Rotharik the Clanless\n"
+"\n"
+"The last of Mordak’s servants arrived this morning bearing the news of his "
+"death, as well as a bundle so well-bound it was barely recognizable as a "
+"man. Mordak was always reckless. This whole desperate scheme was his, and I "
+"suppose I could blame him for everything that we have suffered through if it "
+"still mattered. It was he who brought the wrath of the orcs down on us, too. "
+"But all the same, he managed to accomplish what he set out to do. I still "
+"cannot believe the finality of what has happened; until now we had always "
+"managed to make it through somehow.\n"
+"\n"
+"We had hoped to deliver the mage to Tairach in return for our lives. I do "
+"not know what the warlord wants with this man, but he matches the "
+"description. I suppose that Mordak’s plan would have worked perfectly if not "
+"for the appearance of the horse warriors. Now they are coming here, led by a "
+"man rumored to be this mage’s brother. If that is true, he will stop at "
+"nothing, no more than would I if they held Mordak."
+msgstr ""
+"363 YW 6월 19일\n"
+"무소속의 Rotharik의 일기에서 발췌.\n"
+"\n"
+"Mordak의 마지막 하인이 아침에 와서 그의 죽음을 알렸는데, 꽁꽁 싸매어져 사람이"
+"라는 것을 겨우 알 수 있을듯한 꾸러미를 함께 가지고 왔다. Mordak은 언제나 무모"
+"했다. 이 모든 극단적인 계획은 그의 머리에서 나왔다. 그게 의미가 있기만 했다"
+"면 나는 우리가 처한 고난들에 대한 모든 책임을 놈에게 돌렸을 것이다. 오크족의 "
+"분노를 불러온 것도 그놈이다. 그래도 그는 그가 벌인 일을 끝맺으려고 노력했다. "
+"난 아직도 마지막에 일어난 일을 믿을 수가 없다. 지금까진 그래도 우린 어떻게든 "
+"잘 넘겨왔던 것이다.\n"
+"\n"
+"우리는 마법사를 Tairach에게 보내주는 대신 우리 목숨을 보전받고자 했다. 나는 "
+"그 무장이 이 남자를 가지고 뭘 할건지는 모르지만, 그래도 그는 인상착의와 일치"
+"했다. 기마 전사들만 나타나지 않았더라면 Mordak의 계획은 완벽하게 맞아들어갔"
+"을 것이다. 이제 그들은 여기로 오고 있다. 소문에 그들을 이끄는 자는 이 마법사"
+"의 형이라고 한다. 그것이 사실이라면, 그들이 Mordak을 붙잡았다면 내가 했을 것"
+"처럼 그 무엇도 그를 막을 수 없을 것이다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:62
+msgid ""
+"19 IV, 363 YW\n"
+"Excerpt from the journal of Rotharik the Clanless\n"
+"\n"
+"I have done what I can to fortify this dilapidated castle. The orcs who came "
+"with us stand guard at the gates, and I am gathering all of my servants to "
+"me in the inner sanctum. But ill fate awaits. Whether I defeat this horse-"
+"warrior or no, the orcs will still come for me; they have been scouring the "
+"borderlands and raiding the northern farm country in search of us.\n"
+"\n"
+"Yet for some reason I fear these brothers more. If Mordak were here it would "
+"be different, but we are broken... and these two men are whole. In each "
+"other, in the ties that bind them, they have strength."
+msgstr ""
+"363 YW 6월 19일\n"
+"무소속의 Rotharik의 일기에서 발췌.\n"
+"\n"
+"이 다 쓰러져 가는 성을 강화하기위해 할 수 있는 일은 다 했다. 우리와 함께 온 "
+"오크들이 대문을 경비하고, 나는 내 모든 하인들을 내부 성소에 있는 내쪽으로 모"
+"아들이고 있다. 하지만 불길한 미래가 기다리고 있다. 내가 이 기마 전사를 무찌"
+"를 수 있든 없든, 오크들은 여전히 나를 찾아다닐 것이다. 그들은 우리를 찾아서 "
+"국경 지대를 샅샅이 뒤지고 북방의 농촌 지역을 습격했었던 것이다.\n"
+"\n"
+"하지만 어쩐 이유인지 이 형제들이 더 걱정된다. Mordak이 여기 있었다면 상황은 "
+"달라졌겠지만, 우린 이미 끝장났다... 그리고 이 두 사람은 온전하다. 서로간에 그"
+"들을 묶는 끈이 있다면, 그것이 그들의 힘이 될것이다."
+
+#. [side]: type=Dark Sorcerer, id=Rotharik
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:97
+msgid "Rotharik"
+msgstr "Rotharik"
+
+#. [unit]: id=Guard_leader, type=Assassin
+#. [unit]: role=Guard, type=Bandit
+#. [unit]: id=Guard2_leader, type=Rogue
+#. [unit]: role=Guard2, type=Bandit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:119
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:127
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:136
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:144
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:439
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:447
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:455
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:464
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:555
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:563
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:571
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:580
+msgid "Guard"
+msgstr "경비병"
+
+#. [unit]: id=Knago-Brek, type=Orcish Warrior
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:162
+msgid "Knago-Brek"
+msgstr "Knago-Brek"
+
+#. [unit]: type=Orcish Grunt
+#. [unit]: type=Orcish Warrior
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:171
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:179
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:188
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:196
+msgid "Castle Guard"
+msgstr "성채 경비병"
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:210
+msgid "Rescue Baran"
+msgstr "Baran을 구출하라"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:309
+msgid ""
+"Arvith and his men halt outside of the castle, gazing for a moment at the "
+"hulking mass of stone looming in the fog. There is movement in the mist."
+msgstr ""
+"Arvith와 그 부대는 성의 밖에서 멈춰서서 잠시 안개 속에서 어른거리는 거대한 돌"
+"덩이를 바라보았다. 안개 속에서 움직임이 보였다."
+
+#. [message]: speaker=Guard_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:313
+msgid "Halt! Friend or foe? Give the password."
+msgstr "정지! 누구냐? 암호를 대라."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:318
+msgid "The password is"
+msgstr "암호는"
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:320
+msgid "$first_password_1|!"
+msgstr "$first_password_1|!"
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:326
+msgid "$first_password_2|!"
+msgstr "$first_password_2|!"
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:332
+msgid "$first_password_3|!"
+msgstr "$first_password_3|!"
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:338
+msgid "$first_password_4|!"
+msgstr "$first_password_4|!"
+
+#. [message]: speaker=Guard_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:354
+msgid "Pass, friend."
+msgstr "통과, 아군이다."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:369
+msgid ""
+"The adept didn’t lead us astray after all. I’ll keep my word, distasteful as "
+"it may be; cut him loose, and let’s be rid of him."
+msgstr ""
+"어쨌든 이 조무래기가 우릴 헤매게 만들진 않았군. 별로 내키진 않지만 약속은 지"
+"키도록 하지. 놈을 풀어주고 놔 주어라."
+
+#. [message]: speaker=Guard_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:380
+msgid "Wrong! Die!"
+msgstr "틀렸다! 죽어!"
+
+#. [message]: speaker=Knago-Brek
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:394
+msgid ""
+"Haha! We not kill people for long time. Weapon wants blood. We now kill "
+"humans!!"
+msgstr ""
+"하하! 인간을 죽여본지도 오래됐는걸. 내 칼이 피를 원한다. 인간을 죽이자!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:398
+msgid ""
+"My sword-arm has a say in who will do the dying. Come on, men, let’s kill "
+"some orcs."
+msgstr "누가 죽음을 맞이할 지는 내 오른팔에 달렸다. 가자, 오크를 죽이자."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:409
+msgid "One less braggart orc in the world."
+msgstr "세상에서 허풍쟁이 오크가 또 하나 사라졌군."
+
+#. [message]
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:417
+msgid "Captain, what are <i>orcs</i> doing this far south?"
+msgstr "대장, <i>오크가</i> 이 먼 남쪽에는 웬일일까요?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:421
+msgid "Good question. Perhaps my brother will have found out."
+msgstr "좋은 질문이다. 어쩌면 아우가 알아냈을지도 모르지."
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:472
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:588
+msgid "Are you our relief arriving? Does this mean we get to leave here now?"
+msgstr "교대인가? 우린 이제 가도 되는 거겠지?"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:476
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:592
+msgid "Um, yes. Fine. You can go."
+msgstr "어, 그래, 괜찮소. 가도 되오."
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:480
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:596
+msgid "Um, you’re supposed to give the password."
+msgstr "어, 암호를 대야 하오."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:484
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:600
+msgid "Oh, of course. I had nearly forgotten."
+msgstr "오, 물론이지. 깜빡할 뻔 했군."
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:486
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:602
+msgid "$second_password_1|!"
+msgstr "$second_password_1|!"
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:492
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:608
+msgid "$second_password_2|!"
+msgstr "$second_password_2|!"
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:498
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:614
+msgid "$second_password_3|!"
+msgstr "$second_password_3|!"
+
+#. [option]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:504
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:620
+msgid "$second_password_4|!"
+msgstr "$second_password_4|!"
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:519
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:635
+msgid "Thanks! Irritating little formality, isn’t it?"
+msgstr "고맙소! 좀 짜증나는 절차지, 안 그렇소?"
+
+#. [message]: speaker=Guard2_leader
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:532
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:648
+msgid "That’s the wrong password! These aren’t our relief! Get them!"
+msgstr "틀린 암호야! 우리 교대가 아니잖아! 잡아라!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:538
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:654
+msgid ""
+"I think I should better support my men at the front to make sure we can free "
+"my brother."
+msgstr "아우를 구하려면 내가 앞에서 부대를 잘 받쳐주어야겠어."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:667
+msgid "Your hand or Tairach’s, death is still death... (argh)"
+msgstr "네 손에 죽든 Tairach의 손에 죽든, 죽는건 죽는거지... (악)"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:675
+msgid "‘Tairach’? Who or what is Tairach?"
+msgstr "'Tairach'? Tairach가 사람인가 물건인가?"
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:679
+msgid "There’s a key in his robes."
+msgstr "로브 안에 열쇠가 있습니다."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:683
+msgid ""
+"That may well be the key to the cell they’re holding Baran in! I will take "
+"it."
+msgstr "분명 그게 Baran을 가둔 감방 열쇠일거다! 내가 갖지."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:689
+msgid "Move Arvith to the cell with his brother to free him"
+msgstr "Arvith를 그의 아우가 갇힌 감방으로 이동시켜 그를 풀어줄 것"
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:722
+msgid "Look what I have found in here! I can count a hundred pieces of gold."
+msgstr "내가 뭘 찾았나 보라구! 100 gold야."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:735
+msgid "Look what I have found in here! I can count fifty pieces of gold."
+msgstr "내가 뭘 찾았나 보라구! 50 gold야."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:784
+msgid "I found Baran. He is in this cell."
+msgstr "Baran을 찾았다. 감방에 있어."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:794
+msgid "It’s good to see you, Arvith."
+msgstr "다시 보니 반갑군요, Arvith."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:798
+msgid "And you too, brother."
+msgstr "나도 그렇네, 아우."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:804
+msgid ""
+"You must be one of Arvith’s men. Please help me get out of this dungeon."
+msgstr "당신은 Arvith의 부하로군. 내가 이 던전에서 나가게 좀 도와주시오."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:810
+msgid ""
+"The accursed dark sorcerer Rotharik has imprisoned me behind this magically "
+"enhanced iron gate. It can only be opened with the correct key. You must get "
+"it from him to free me."
+msgstr ""
+"빌어먹을 흑마법사 Rotharik이 날 이 마법의 강화문 안에 가뒀습니다. 제대로 된 "
+"키가 있어야만 열 수 있지요. 날 풀어주려면 Rotharik에게서 그걸 가져와야 하오."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:821
+msgid "Kill the dark sorcerer to get the cell key"
+msgstr "흑마법사를 죽이고 감옥 열쇠를 찾아라"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:862
+msgid "Thank you for saving me. I... was not certain you would come."
+msgstr "구해줘서 감사합니다. 난... 형 올거라는 기대는 별로 하지 않고 있었소."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:866
+msgid "Have you no faith in your brother, Baran?"
+msgstr "자기 형도 못믿는건가, Baran?"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:870
+msgid ""
+"It’s not that. Perhaps I deserved to rot here. I failed you. I failed you "
+"again."
+msgstr ""
+"그런 얘기가 아니오. 어쩌면 난 마땅히 여기서 썩어가야만 했는지 모르죠. 난 형"
+"을 실망시켰소. 다시 한번 말이오."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:874
+msgid ""
+"That is as may be. But you are my brother still. And... I never doubted you "
+"would have come for me."
+msgstr ""
+"그렇기는 하지. 그래도 넌 여전히 내 아우다. 그리고... 나는 네가 날 구하러 올 "
+"거라는걸 추호도 의심해본 일이 없다."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:878
+msgid ""
+"It was no great trial, after all. A few elves, one or two dark sorcerers, a "
+"gang of orcs and some undead. Really just a day’s work for the company."
+msgstr ""
+"어쨌든 별로 큰 일은 아니었다. 엘프 몇몇에, 흑마법사 한둘에, 오크 한 묶음이랑 "
+"언데드 얼마쯤. 우리에겐 거의 일상이나 마찬가지지."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:882
+msgid "Thank you for coming to my aid. Let us return to the village."
+msgstr "날 도와주러 와서 고맙소. 마을로 돌아갑시다."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:908
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:308
+msgid "Everything is lost now that I am dead..."
+msgstr "내가 죽으면 모든 게 끝이야..."
+
+#. [message]: speaker=Rotharik
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:920
+msgid "You are too late! Your brother is already dead! Muahahaha...!"
+msgstr "너무 늦었구나! 네 형제는 이미 죽었다! 므하하하하...!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:924
+msgid "Argh!!"
+msgstr "아악!!"
+
+#. [scenario]: id=04_Return_to_the_Village
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:4
+msgid "Return to the Village"
+msgstr "마을로의 귀환"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:37
+msgid ""
+"27 V, 363 YW\n"
+"Excerpt from the journal of Baran of Maghre\n"
+"\n"
+"Almost home now. The last week has been full of mixed feelings for me — "
+"blissful and difficult by turns. It was wonderful to be out of that dungeon "
+"cell and in the sunlight again without the threat of death or worse hanging "
+"over my head... but with that behind me, I turned to the almost equally "
+"daunting task of making amends with my brother.\n"
+"\n"
+"Arvith had largely forgiven me by the time he freed me from my cell. All the "
+"same, it has taken all of the past week for us to rebuild the sense of "
+"comfort in each other we once had. It is fortunate that we have been able to "
+"take our time getting back — we gave the Grey Woods a wide berth, and on our "
+"way around it we traveled through some truly beautiful countryside. It has "
+"given us plenty of time to talk."
+msgstr ""
+"363 YW 5월 27일\n"
+"Maghre의 Baran의 일기에서 발췌.\n"
+"\n"
+"집에 거의 다 왔다. 지난 한주는 내게 수많은 감정들로 가득찬 나날이었다. 더없"
+"이 행복하면서도 동시에 곤란한 기분. 지하 감옥에서 나와서 다시 태양을 보고, 죽"
+"음이나 그보다 더 나쁜일을 상상하지 않아도 된다는 것은 정말 멋진 일이었다... "
+"하지만 그와 함께, 나는 형에게 보답해야 한다는 그만큼 어려운 의무를 마주하게 "
+"되었다.\n"
+"\n"
+"Arvith는 나를 감옥에서 구해주던 그때 나를 거의 용서했다. 그래도 우리가 예전처"
+"럼 서로에게 편안한 감정을 갖는 것은 지난 한주 전부가 걸렸다. 우리가 다시 예전"
+"처럼 돌아올 수 있었다는건 정말 다행한 일이다. 우리는 회색 숲을 멀리 돌아 가면"
+"서 정말로 아름다운 지방 풍경 사이를 여행했다. 우리는 서로 이야기할 시간을 많"
+"이 가졌다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:47
+msgid ""
+"27 V, 363 YW\n"
+"Excerpt from the journal of Baran of Maghre\n"
+"\n"
+"Though I am more at ease now, my thoughts often turn back to Toen Caric. We "
+"should have been able to repel the orcs without great loss — the pincer "
+"attack Arvith devised would surely have carried the day but for me. It was "
+"reckless of me to leave my men behind — I wounded the warlord and forced him "
+"to flee the field, but the cost far outweighed the gain. Those under my "
+"command could have been saved if I had remained with them.\n"
+"\n"
+"I can hardly blame Arvith for having taken their deaths ill, and I can never "
+"undo the wrong that I have done, but I suppose that time heals some things. "
+"We return to the village as brothers once more.\n"
+"\n"
+"But I am still troubled. I wonder... is this sense of foreboding I feel "
+"merely a remnant of my time locked away in that dungeon, or is it a sign of "
+"something real?"
+msgstr ""
+"363 YW 5월 27일\n"
+"Maghre의 Baran의 일기에서 발췌.\n"
+"\n"
+"비록 내 마음은 더 편해졌지만, 내 생각은 종종 Toen Caric의 그 때로 돌아간다. "
+"우리는 큰 피해 없이 오크들을 격퇴해낼 수 있었다. 나만 아니었다면 Arvith가 입"
+"안한 협공 작전으로 충분히 승리할 수 있었던 것이다. 나는 무모하게도 내 부하들"
+"을 뒤에 내버려두었다. 나는 적의 무장을 부상입히고 그를 전장에서 몰아냈지만, "
+"그 댓가는 더욱 컸다. 내가 내 지휘하에 있던 이들과 함께 있었다면 그들은 죽지 "
+"않았을 것이다.\n"
+"\n"
+"나는 Arvith가 그들의 죽음에 분노했던 점을 탓할수도, 내가 저지른 잘못을 되돌"
+"릴 수도 없지만, 아무래도 시간이 어느정도 약이 되었던 것 같다. 우리는 형제로"
+"서 다시 마을에 돌아왔다.\n"
+"\n"
+"하지만 난 여전히 불안했다. 난 의문스러웠다... 이 예감은 단지 그 지하 감옥에서"
+"의 시간들의 잔재인가, 아니면 뭔가 실제로 있을 일의 경고인가?"
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:56
+msgid "Find out what is happening in the village"
+msgstr "마을에 무슨 일이 일어났는지 알아낸다"
+
+#. [objective]: condition=lose
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:64
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:259
+msgid "Death of Baran"
+msgstr "Baran의 사망"
+
+#. [side]: type=Orcish Warlord, id=Tairach
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:103
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:64
+msgid "Tairach"
+msgstr "Tairach"
+
+#. [side]: type=Longbowman, id=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:132
+msgid "Reeve Hoban"
+msgstr "행정관 Hoban"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:162
+msgid ""
+"There. The village is just across those hills, and already I see men coming "
+"to greet us!"
+msgstr ""
+"저기다. 저 언덕 너머에 마을이 보여. 벌써 우릴 환영하는 인파가 보이는데!"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:166
+msgid ""
+"No, they are fleeing from something. We must find out what is happening over "
+"there!"
+msgstr ""
+"아니, 저들은 뭔가로부터 도망나오고 있는겁니다. 저쪽에 대체 무슨 일이 생긴건"
+"지 알아야겠소!"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:170
+msgid "Men! Ready your arms!"
+msgstr "전군! 전투 준비!"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:174
+msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
+msgstr ""
+"행정관 Hoban을 찾아야 합니다. 아마 그가 이게 무슨 일인지 알고 있을거요."
+
+#. [message]: speaker=unit
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:185
+msgid "We’re almost there!"
+msgstr "거의 다 왔다!"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:189
+msgid "That warlord! It’s..."
+msgstr "저 무장은! 저건..."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:193
+msgid "Yes, I’d know that face anywhere. Especially after what you did to it."
+msgstr ""
+"그래, 어디서라도 저 얼굴은 알아보겠어. 특히 네가 저놈에게 했던 걸 생각하면 말"
+"이지."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:197
+msgid "The warlord from Toen Caric."
+msgstr "Toen Caric의 무장."
+
+#. [message]: speaker=Tairach
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:201
+msgid "You! The mage who scarred me with fire! KILL THEM!"
+msgstr "너! 나한테 불로 흉터를 남긴 그 마법사다! <b>죽여버려!</b>"
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:205
+msgid "Let’s finish what we started, brother."
+msgstr "우리가 시작한 일을 끝내도록 하죠, 형님."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:209
+msgid "Aye. I’ll be the right arm, and you’ll be the left. Let’s go!"
+msgstr "그래. 내가 오른팔이 되고, 네가 왼팔이 되라. 가자!"
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:223
+msgid "I am glad to see you returned."
+msgstr "돌아오신 걸 보니 기쁘군요."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:227
+msgid "No gladder than I am to be here. But what has happened to Maghre?"
+msgstr "설마 나만큼 기쁘겠는가. 근데 Maghre에 무슨 일이 일어난건가?"
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:231
+msgid ""
+"Soon after you departed we were beset by orcs. With half the men of Maghre "
+"gone, we could not stop them."
+msgstr ""
+"여러분이 떠난 직후에 우린 오크에게 포위당했습니다. Maghre 사람들 절반이 희생"
+"당하고도 그들의 진격을 막을 수 없었습니다."
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:235
+msgid ""
+"The orcish warlord aims to enslave us. We will not be able to hold out for "
+"much longer."
+msgstr ""
+"오크들을 이끄는 무장은 우리를 노예로 만들려고 합니다. 더는 버티기가 힘듭니다."
+
+#. [message]: speaker=Reeve Hoban
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:239
+msgid ""
+"Have a care, his men are fell fighters and have killed many. Very few remain "
+"who can bear arms, but I will send them to aid you in battle."
+msgstr ""
+"조심하십시오, 그의 병사는 악랄한 전사들로 많은 사람을 죽였습니다. 무기를 들 "
+"수 있는 자는 얼마 남지 않았지만, 여러분의 전투를 돕도록 보내드리겠습니다."
+
+#. [objective]: condition=win
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:251
+msgid "Slay the Orcish Warlord to free the village"
+msgstr "오크군의 지도자를 베어 마을을 해방시켜라"
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:271
+msgid ""
+"It is finished. We’ve defeated him at last. It was good to have you at my "
+"side, Baran."
+msgstr ""
+"이걸로 끝이다. 마침내 놈을 무찔렀군. 내 곁에 네가 있어 다행이었다, Baran."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:275
+msgid ""
+"So much has been destroyed. It will be difficult to repair all that the orcs "
+"and undead have wrecked. And they could come again."
+msgstr ""
+"많은 것이 파괴되었소. 오크와 언데드가 파괴한 것들을 수복하는건 매우 고된 일일"
+"겁니다. 또 그들이 다시 쳐들어올지도 모르오."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:279
+msgid ""
+"I must go back to earning my living. But we have our amulets, little "
+"brother. If you are beset again, I will come."
+msgstr ""
+"난 나의 생계를 위해 돌아가야 해. 하지만 아우여, 우리에겐 부적이 있잖은가. 만"
+"약 자네가 위기에 처하면, 내가 찾아올걸세."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:294
+msgid "It is over, I am vanquished."
+msgstr "끝났다, 나는 패배했어."
+
+#. [message]: speaker=Arvith
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:319
+msgid "I don’t think we can rescue anyone from these villages. It is too late."
+msgstr "이 마을에서 아무도 구해내지 못할 것 같다. 너무 늦었어."
+
+#. [message]: speaker=Baran
+#: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:323
+msgid "I was too weak to protect these people. Oh, why did this happen to me?!"
+msgstr ""
+"난 이 사람들을 지키기엔 너무 약했어. 아 왜 내게 이런 일이 일어난 거지?!?"
+
+#. [scenario]: id=05_Epilogue
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:4
+msgid "A Tale of Two Brothers — Epilogue"
+msgstr "두 형제 이야기 - 에필로그"
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:25
+msgid ""
+"22 IX, 365 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"Maghre is looking much better than the last time I saw it. Baran has done "
+"wonders in two years. The village is rebuilt, and the surrounding farmlands "
+"are restored and reoccupied. Despite my brother’s worries, our people have "
+"faced no new threats in that time.\n"
+"\n"
+"It has been more difficult to stay away in those two years, but I have my "
+"calling and Baran has his, and we have had little opportunity to meet again. "
+"But as the company and I are passing through this part of the kingdom with a "
+"new patron, I have asked leave of him to visit my brother and he gave it."
+msgstr ""
+"365YW 9월 22일\n"
+"Maghre의 Arvith의 일기에서 발췌.\n"
+"\n"
+"Maghre는 지난번에 보았을 때보다 훨씬 나아진 모습이다. Baran은 2년 만에 기적"
+"을 일궈냈다. 마을은 재건되었고, 주변의 농장들도 복구되었으며 사람들은 다시 일"
+"하고 있다. 아우의 우려에도 불구하고 우리 마을 사람들에겐 그 어떤 위협도 없"
+"다.\n"
+"\n"
+"지난 두 해동안 떠나 있는 것은 예전보다 더 힘든 일이었지만, 나와 Baran은 서로"
+"의 할일이 있었고, 우리가 만날 기회는 거의 없었다. 하지만 우리 용병단은 새로"
+"운 고객을 맞아 왕국의 이 지역을 지나게 되었고, 나는 양해를 구하고 아우를 만나"
+"러 갔다."
+
+#. [part]
+#: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:34
+msgid ""
+"22 IX, 365 YW\n"
+"Excerpt from the journal of Arvith of Maghre\n"
+"\n"
+"This patron is, of all things, an elf. I never thought I’d befriend one, but "
+"he is less arrogant than the rest. Kalenz, he calls himself. He’s seen too "
+"much; I can tell that just by meeting his eyes. I think we will have to work "
+"for our pay soon.\n"
+"\n"
+"In the meantime, though, it’s good to relax and enjoy the peace."
+msgstr ""
+"365YW 9월 22일\n"
+"Maghre의 Arvith의 일기에서 발췌.\n"
+"\n"
+"이 고객이란, 하필이면 엘프다. 나는 엘프와 친구가 될거라고는 상상도 못해봤지"
+"만, 그는 다른 이들과는 달리 오만하지 않았다. 그는 Kalenz라고 한다. 그는 정말"
+"로 오래 살았다. 나는 그의 눈빛만 보고도 그걸 구분할 수 있다. 우리는 곧 일을 "
+"시작하게 될 듯하다.\n"
+"\n"
+"하지만 한편으로는 쉬면서 평화를 즐기는 것도 나쁘지 않다."
+
+#~ msgid "Arne"
+#~ msgstr "Arne"
+
+#~ msgid "Bjarn"
+#~ msgstr "Bjarn"
+
+#~ msgid "Fargus"
+#~ msgstr "Fargus"
+
+#~ msgid "Erik"
+#~ msgstr "Erik"
+
+#~ msgid "Heine"
+#~ msgstr "Heine"
+
+#~ msgid "Magnus"
+#~ msgstr "Magnus"
+
+#~ msgid "Councillor Hoban"
+#~ msgstr "참사관 Hoban"
+
+#~ msgid ""
+#~ "(Novice level, 4 scenarios; the 'Hard' version may challenge more "
+#~ "experienced players.)"
+#~ msgstr ""
+#~ "(초보자 레벨, 4 개 시나리오 : 하드모드는 좀 더 숙련된 플레이어를 위한 어려"
+#~ "운 버전입니다.)"
+
+#~ msgid "Turns run out"
+#~ msgstr "턴 오버"
+
+#~ msgid "Greetings, my brother! How may my men and I be of aid?"
+#~ msgstr "오랜만이군 아우! 우리가 뭘 도와주면 되지?"
+
+#~ msgid ""
+#~ "I will lead my men, and such villagers as can keep up with us, north to "
+#~ "slay this Mordak! What will you do?"
+#~ msgstr ""
+#~ "내가 부하들과 우릴 따라올 만한 마을 사람들을 이끌고 북쪽으로 가서 Mordak"
+#~ "을 베어버리도록 하지! 자네는 어떡할 것인가?"
+
+#~ msgid ""
+#~ "The pursuit had already run for several days when the pursuers came to "
+#~ "the bounds of the huge forest known as the Grey Woods. Ancient tales "
+#~ "warned of lost souls haunting the wood, hunting and killing anyone brave "
+#~ "enough to enter it."
+#~ msgstr ""
+#~ "추적자들이 회색 숲이라고 알려진 거대한 숲의 경계에 들어섰을때 추적은 벌써 "
+#~ "며칠째에 달하고 있었다. 옛 전설들은 만용을 부려 그 안에 들어오는 이를 사냥"
+#~ "해서 죽여버리는 숲에 씌인 지옥의 영혼들에 대해서 경고하고 있다."
+
+#~ msgid ""
+#~ "Heedless of those rumors, Arne followed them. His only worry was that his "
+#~ "horsemen would be at disadvantage if attacked in the forest."
+#~ msgstr ""
+#~ "그런 소문들에는 신경쓰지 않고, Arne는 그들을 쫓았다. 그의 걱정은 오직 숲에"
+#~ "서 공격받을 경우 그의 기병들이 불리할 것이라는 점 뿐이었다."
+
+#~ msgid "Sounds of a scuffle were heard from the forest."
+#~ msgstr "숲 속에서 실랑이를 벌이는 소리가 들려온다."
+
+#~ msgid ""
+#~ "It is whispered that hungry ghosts rule this forest, and kill everyone "
+#~ "who dares to enter."
+#~ msgstr ""
+#~ "이 숲은 굶주린 유령들이 지배하고 있어서 감히 들어서는 자들을 전부 죽여버린"
+#~ "다고 하던데요."
+
+#~ msgid ""
+#~ "Arne’s men arrived at the castle and were immediately challenged by some "
+#~ "guards."
+#~ msgstr "Arne의 부대가 성에 도착하자마자 경비대와 마주쳤다."
+
+#~ msgid "Nooo! This is the end..."
+#~ msgstr "안돼-! 이걸로 끝..."
+
+#~ msgid ""
+#~ "Good to see you, Arne. Now can you get me out of this dungeon, please?"
+#~ msgstr "여기서 보니 반갑소, Arne. 이제 이 던전에서 꺼내줄 수 있겠소?"
+
+#~ msgid "Finally the warlord is killed. Now you can go back to Maghre."
+#~ msgstr "드디어 적장을 죽였다. 이제 자네는 Maghre로 돌아가면 되네."
+
+#~ msgid ""
+#~ "It took years to rebuild the village and restore the surrounding farms. "
+#~ "The people of Maghre had to work very hard, but felt better knowing "
+#~ "Arne’s men would be their firm allies in troubled times."
+#~ msgstr ""
+#~ "마을을 재건하고 근방의 농장을 수복하는데는 수년이 걸렸다. Maghre의 사람들"
+#~ "은 힘들게 일해야 했지만, Arne와 부하들이 어려운 시기에 그들의 확고한 맹우"
+#~ "라는 사실을 알고 있었으므로 좀더 마음이 놓였다."
+
+#~ msgid ""
+#~ "Arne and his men left the village assured that it would be well guided by "
+#~ "Bjarn. On their journeys they faced many challenges and battles. Some "
+#~ "tales even mention Arne’s name together with that of the famous elvish "
+#~ "lord Kalenz, but this is a different story..."
+#~ msgstr ""
+#~ "Arne와 부하들은 Bjarn이 마을을 잘 이끌어나갈 거라는 확신을 갖고 떠났다. 그"
+#~ "들은 여행 중에 많은 모험과 전투를 치렀다. 어떤 이야기들은 심지어 Arne의 이"
+#~ "름을 저 유명한 엘프 로드 Kalenz와 함께 언급하지만, 이것은 또 다른 이야기이"
+#~ "다..."

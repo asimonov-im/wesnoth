@@ -1,0 +1,3954 @@
+# Korean translations for Battle for Wesnoth package.
+# Copyright (C) 2006 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Automatically generated, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth 1.1.1+svn\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-01-03 10:40+0100\n"
+"PO-Revision-Date: 2011-11-22 18:38+0900\n"
+"Last-Translator: mistzone <drier22@gmail.com>\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [terrain_type]: id=deep_water_gray
+#. [terrain_type]: id=deep_water
+#. [terrain_type]: id=deep_water_tropical
+#: data/core/terrain.cfg:18 data/core/terrain.cfg:29 data/core/terrain.cfg:39
+msgid "Deep Water"
+msgstr "깊은 물"
+
+#. [terrain_type]: id=deep_water_gray
+#: data/core/terrain.cfg:19
+msgid "Gray Deep Water"
+msgstr "깊은 회색 물"
+
+#. [terrain_type]: id=deep_water
+#: data/core/terrain.cfg:30
+msgid "Medium Deep Water"
+msgstr "일반 깊은 물"
+
+#. [terrain_type]: id=deep_water_tropical
+#: data/core/terrain.cfg:40
+msgid "Tropical Deep Water"
+msgstr "열대의 깊은 물"
+
+#. [terrain_type]: id=gray_tropical_water
+#. [terrain_type]: id=shallow_water
+#. [terrain_type]: id=tropical_water
+#: data/core/terrain.cfg:50 data/core/terrain.cfg:61 data/core/terrain.cfg:71
+msgid "Shallow Water"
+msgstr "얕은 물"
+
+#. [terrain_type]: id=gray_tropical_water
+#: data/core/terrain.cfg:51
+msgid "Gray Shallow Water"
+msgstr "얕은 회색 물"
+
+#. [terrain_type]: id=shallow_water
+#: data/core/terrain.cfg:62
+msgid "Medium Shallow Water"
+msgstr "일반 얕은 물"
+
+#. [terrain_type]: id=tropical_water
+#: data/core/terrain.cfg:72
+msgid "Tropical Shallow Water"
+msgstr "열대의 얕은 물"
+
+#. [terrain_type]: id=ford
+#: data/core/terrain.cfg:82
+msgid "Ford"
+msgstr "냇가"
+
+#. [terrain_type]: id=gray_reef
+#. [terrain_type]: id=reef
+#. [terrain_type]: id=tropical_reef
+#: data/core/terrain.cfg:92 data/core/terrain.cfg:103
+#: data/core/terrain.cfg:112
+msgid "Coastal Reef"
+msgstr "산호초"
+
+#. [terrain_type]: id=gray_reef
+#: data/core/terrain.cfg:93
+msgid "Gray Coastal Reef"
+msgstr "회색 산호초"
+
+#. [terrain_type]: id=tropical_reef
+#: data/core/terrain.cfg:113
+msgid "Tropical Coastal Reef"
+msgstr "열대 산호초"
+
+#. [terrain_type]: id=swamp_water
+#. [terrain_type]: id=quagmire
+#: data/core/terrain.cfg:125 data/core/terrain.cfg:134
+msgid "Swamp"
+msgstr "늪"
+
+#. [terrain_type]: id=quagmire
+#: data/core/terrain.cfg:135
+msgid "Muddy Quagmire"
+msgstr "진흙 수렁"
+
+#. [terrain_type]: id=grassland
+#. [terrain_type]: id=savanna
+#. [terrain_type]: id=grass_dry
+#. [terrain_type]: id=leaf_litter
+#: data/core/terrain.cfg:152 data/core/terrain.cfg:163
+#: data/core/terrain.cfg:174 data/core/terrain.cfg:184
+msgid "Grassland"
+msgstr "초원"
+
+#. [terrain_type]: id=grassland
+#: data/core/terrain.cfg:153
+msgid "Green Grass"
+msgstr "초록 잔디"
+
+#. [terrain_type]: id=savanna
+#: data/core/terrain.cfg:164
+msgid "Semi-dry Grass"
+msgstr "반쯤 마른 잔디"
+
+#. [terrain_type]: id=grass_dry
+#: data/core/terrain.cfg:175
+msgid "Dry Grass"
+msgstr "마른 잔디"
+
+#. [terrain_type]: id=leaf_litter
+#: data/core/terrain.cfg:185
+msgid "Leaf Litter"
+msgstr "낙엽"
+
+#. [terrain_type]: id=dirt_dark
+#. [terrain_type]: id=dirt
+#. [terrain_type]: id=road
+#: data/core/terrain.cfg:196 data/core/terrain.cfg:206
+#: data/core/terrain.cfg:216
+msgid "Dirt"
+msgstr "흙밭"
+
+#. [terrain_type]: id=dirt_dark
+#: data/core/terrain.cfg:197
+msgid "Dark Dirt"
+msgstr "어두운 흙밭"
+
+#. [terrain_type]: id=dirt
+#: data/core/terrain.cfg:207
+msgid "Regular Dirt"
+msgstr "보통 진흙"
+
+#. [terrain_type]: id=road
+#: data/core/terrain.cfg:217
+msgid "Dry Dirt"
+msgstr "마른 흙밭"
+
+#. [terrain_type]: id=road
+#. [terrain_type]: id=road_clean
+#. [terrain_type]: id=stone_path
+#. [terrain_type]: id=flagstones_dark
+#. [terrain_type]: id=cave_path
+#: data/core/terrain.cfg:226 data/core/terrain.cfg:236
+#: data/core/terrain.cfg:246 data/core/terrain.cfg:845
+#: data/core/terrain.cfg:855
+msgid "Road"
+msgstr "길"
+
+#. [terrain_type]: id=road
+#: data/core/terrain.cfg:227
+msgid "Regular Cobbles"
+msgstr "보통 자갈"
+
+#. [terrain_type]: id=road_clean
+#: data/core/terrain.cfg:237
+msgid "Clean Gray Cobbles"
+msgstr "깨끗한 회색 자갈"
+
+#. [terrain_type]: id=stone_path
+#: data/core/terrain.cfg:247
+msgid "Overgrown Cobbles"
+msgstr "큼지막한 자갈"
+
+#. [terrain_type]: id=ice
+#: data/core/terrain.cfg:260
+msgid "Ice"
+msgstr "얼음"
+
+#. [terrain_type]: id=snow
+#: data/core/terrain.cfg:269
+msgid "Snow"
+msgstr "눈"
+
+#. [terrain_type]: id=desert
+#: data/core/terrain.cfg:282
+msgid "Desert"
+msgstr "사막"
+
+#. [terrain_type]: id=desert
+#: data/core/terrain.cfg:283
+msgid "Desert Sands"
+msgstr "사막 모래톱"
+
+#. [terrain_type]: id=sand
+#: data/core/terrain.cfg:292
+msgid "Sand"
+msgstr "모래"
+
+#. [terrain_type]: id=sand
+#: data/core/terrain.cfg:293
+msgid "Beach Sands"
+msgstr "바닷가 모래"
+
+#. [terrain_type]: id=oasis
+#: data/core/terrain.cfg:301
+msgid "Oasis"
+msgstr "오아시스"
+
+#. [terrain_type]: id=sand_rubble
+#: data/core/terrain.cfg:313
+msgid "Rubble"
+msgstr "자갈밭"
+
+#. [terrain_type]: id=crater
+#: data/core/terrain.cfg:323
+msgid "Crater"
+msgstr "구덩이"
+
+#. [terrain_type]: id=flowers_mixed
+#: data/core/terrain.cfg:337
+msgid "Mixed Flowers"
+msgstr "꽃밭"
+
+#. [terrain_type]: id=farm
+#: data/core/terrain.cfg:346
+msgid "Farmland"
+msgstr "논밭"
+
+#. [terrain_type]: id=stones_small
+#: data/core/terrain.cfg:355
+msgid "Stones"
+msgstr "돌"
+
+#. [terrain_type]: id=mushrooms_small
+#: data/core/terrain.cfg:364
+msgid "Small Mushrooms"
+msgstr "작은 버섯"
+
+#. [terrain_type]: id=mushrooms_farm
+#: data/core/terrain.cfg:373
+msgid "Mushroom Farm"
+msgstr "버섯 농장"
+
+#. [terrain_type]: id=desert_plants
+#: data/core/terrain.cfg:382
+msgid "Desert Plants"
+msgstr "사막 식물"
+
+#. [terrain_type]: id=desert_plants_sans_bones
+#: data/core/terrain.cfg:391
+msgid "Desert Plants without Bones"
+msgstr "뼈를 뺀 사막 식물"
+
+#. [terrain_type]: id=windmill
+#: data/core/terrain.cfg:400
+msgid "Windmill"
+msgstr "풍차"
+
+#. [terrain_type]: id=fence
+#: data/core/terrain.cfg:409
+msgid "Fence"
+msgstr ""
+
+#. [terrain_type]: id=sand_drifts
+#: data/core/terrain.cfg:418
+msgid "Stones with Sand Drifts"
+msgstr ""
+
+#. [terrain_type]: id=water-lilies
+#: data/core/terrain.cfg:427
+msgid "Water Lilies"
+msgstr "연꽃"
+
+#. [terrain_type]: id=water-lilies-flower
+#: data/core/terrain.cfg:437
+msgid "Flowering Water Lilies"
+msgstr "피어있는 연꽃"
+
+#. [terrain_type]: id=great_tree
+#. [terrain_type]: id=great_tree_dead
+#: data/core/terrain.cfg:451 data/core/terrain.cfg:452
+#: data/core/terrain.cfg:463
+msgid "Great Tree"
+msgstr "큰 나무"
+
+#. [terrain_type]: id=great_tree_dead
+#: data/core/terrain.cfg:464
+msgid "Dead Great Tree"
+msgstr "죽은 거목"
+
+#. [terrain_type]: id=tropical_forest
+#. [terrain_type]: id=pine_forest
+#. [terrain_type]: id=snow_forest
+#. [terrain_type]: id=deciduous_forest_summer
+#. [terrain_type]: id=deciduous_forest_fall
+#. [terrain_type]: id=deciduous_forest_winter
+#. [terrain_type]: id=deciduous_forest_winter_snow
+#. [terrain_type]: id=mixed_forest_summer
+#. [terrain_type]: id=mixed_forest_fall
+#. [terrain_type]: id=mixed_forest_winter
+#. [terrain_type]: id=mixed_forest_winter_snow
+#. [terrain_type]: id=forest
+#: data/core/terrain.cfg:475 data/core/terrain.cfg:487
+#: data/core/terrain.cfg:499 data/core/terrain.cfg:511
+#: data/core/terrain.cfg:523 data/core/terrain.cfg:535
+#: data/core/terrain.cfg:547 data/core/terrain.cfg:559
+#: data/core/terrain.cfg:571 data/core/terrain.cfg:583
+#: data/core/terrain.cfg:595 data/core/terrain.cfg:2123
+msgid "Forest"
+msgstr "숲"
+
+#. [terrain_type]: id=tropical_forest
+#: data/core/terrain.cfg:476
+msgid "Tropical Forest"
+msgstr "열대 숲"
+
+#. [terrain_type]: id=pine_forest
+#: data/core/terrain.cfg:488
+msgid "Pine Forest"
+msgstr "소나무 숲"
+
+#. [terrain_type]: id=snow_forest
+#: data/core/terrain.cfg:500
+msgid "Snowy Pine Forest"
+msgstr "눈 덮인 솔숲"
+
+#. [terrain_type]: id=deciduous_forest_summer
+#: data/core/terrain.cfg:512
+msgid "Summer Deciduous Forest"
+msgstr "여름 낙엽수림"
+
+#. [terrain_type]: id=deciduous_forest_fall
+#: data/core/terrain.cfg:524
+msgid "Fall Deciduous Forest"
+msgstr "가을 낙엽수림"
+
+#. [terrain_type]: id=deciduous_forest_winter
+#: data/core/terrain.cfg:536
+msgid "Winter Deciduous Forest"
+msgstr "겨울 낙엽수림"
+
+#. [terrain_type]: id=deciduous_forest_winter_snow
+#: data/core/terrain.cfg:548
+msgid "Snowy Deciduous Forest"
+msgstr "눈 쌓인 낙엽수림"
+
+#. [terrain_type]: id=mixed_forest_summer
+#: data/core/terrain.cfg:560
+msgid "Summer Mixed Forest"
+msgstr "여름 혼합수림"
+
+#. [terrain_type]: id=mixed_forest_fall
+#: data/core/terrain.cfg:572
+msgid "Fall Mixed Forest"
+msgstr "가을 혼합수림"
+
+#. [terrain_type]: id=mixed_forest_winter
+#: data/core/terrain.cfg:584
+msgid "Winter Mixed Forest"
+msgstr "겨울 혼합수림"
+
+#. [terrain_type]: id=mixed_forest_winter_snow
+#: data/core/terrain.cfg:596
+msgid "Snowy Mixed Forest"
+msgstr "눈 쌓인 혼합수림"
+
+#. [terrain_type]: id=hills
+#. [terrain_type]: id=hills_dry
+#. [terrain_type]: id=snow_hills
+#. [terrain_type]: id=forested_hills
+#. [terrain_type]: id=forested_snow_hills
+#. [terrain_type]: id=deciduous_forest_summer_hills
+#. [terrain_type]: id=deciduous_forest_fall_hills
+#. [terrain_type]: id=deciduous_forest_winter_hills
+#. [terrain_type]: id=deciduous_forest_winter_snow_hills
+#. [terrain_type]: id=mixed_forest_summer_hills
+#. [terrain_type]: id=mixed_forest_fall_hills
+#. [terrain_type]: id=mixed_forest_winter_hills
+#. [terrain_type]: id=mixed_forest_winter_snow_hills
+#: data/core/terrain.cfg:611 data/core/terrain.cfg:620
+#: data/core/terrain.cfg:640 data/core/terrain.cfg:688
+#: data/core/terrain.cfg:699 data/core/terrain.cfg:710
+#: data/core/terrain.cfg:721 data/core/terrain.cfg:732
+#: data/core/terrain.cfg:743 data/core/terrain.cfg:754
+#: data/core/terrain.cfg:765 data/core/terrain.cfg:776
+#: data/core/terrain.cfg:787
+msgid "Hills"
+msgstr "언덕"
+
+#. [terrain_type]: id=hills
+#: data/core/terrain.cfg:612
+msgid "Regular Hills"
+msgstr ""
+
+#. [terrain_type]: id=hills_dry
+#: data/core/terrain.cfg:621
+msgid "Dry Hills"
+msgstr ""
+
+#. [terrain_type]: id=desert_hills
+#: data/core/terrain.cfg:630
+msgid "Dunes"
+msgstr "모래 언덕"
+
+#. [terrain_type]: id=snow_hills
+#: data/core/terrain.cfg:641
+msgid "Snow Hills"
+msgstr "눈밭 언덕"
+
+#. [terrain_type]: id=mountains
+#. [terrain_type]: id=desert_mountains
+#. [terrain_type]: id=snow_mountains
+#. [terrain_type]: id=cloud
+#. [terrain_type]: id=clouddesert
+#. [terrain_type]: id=cloud_snow
+#: data/core/terrain.cfg:655 data/core/terrain.cfg:663
+#: data/core/terrain.cfg:673 data/core/terrain.cfg:1008
+#: data/core/terrain.cfg:1018 data/core/terrain.cfg:1028
+msgid "Mountains"
+msgstr "산"
+
+#. [terrain_type]: id=desert_mountains
+#: data/core/terrain.cfg:664
+msgid "Dry Mountains"
+msgstr ""
+
+#. [terrain_type]: id=snow_mountains
+#: data/core/terrain.cfg:674
+msgid "Snowy Mountains"
+msgstr "눈 쌓인 산맥"
+
+#. [terrain_type]: id=forested_hills
+#: data/core/terrain.cfg:689
+msgid "Forested Hills"
+msgstr "숲 언덕"
+
+#. [terrain_type]: id=forested_snow_hills
+#: data/core/terrain.cfg:700
+msgid "Forested Snow Hills"
+msgstr "눈밭 숲 언덕"
+
+#. [terrain_type]: id=deciduous_forest_summer_hills
+#: data/core/terrain.cfg:711
+msgid "Summer Deciduous Forested Hills"
+msgstr "여름 활엽수림 언덕"
+
+#. [terrain_type]: id=deciduous_forest_fall_hills
+#: data/core/terrain.cfg:722
+msgid "Fall Deciduous Forested Hills"
+msgstr "가을 활엽수림 언덕"
+
+#. [terrain_type]: id=deciduous_forest_winter_hills
+#: data/core/terrain.cfg:733
+msgid "Winter Deciduous Forested Hills"
+msgstr "겨울 활엽수림 언덕"
+
+#. [terrain_type]: id=deciduous_forest_winter_snow_hills
+#: data/core/terrain.cfg:744
+msgid "Snowy Deciduous Forested Hills"
+msgstr "눈 쌓인 활엽수림 언덕"
+
+#. [terrain_type]: id=mixed_forest_summer_hills
+#: data/core/terrain.cfg:755
+msgid "Summer Mixed Forested Hills"
+msgstr "여름 혼합수림 언덕"
+
+#. [terrain_type]: id=mixed_forest_fall_hills
+#: data/core/terrain.cfg:766
+msgid "Fall Mixed Forested Hills"
+msgstr "가을 혼합수림 언덕"
+
+#. [terrain_type]: id=mixed_forest_winter_hills
+#: data/core/terrain.cfg:777
+msgid "Winter Mixed Forested Hills"
+msgstr "겨울 혼합수림 언덕"
+
+#. [terrain_type]: id=mixed_forest_winter_snow_hills
+#: data/core/terrain.cfg:788
+msgid "Snowy Mixed Forested Hills"
+msgstr "눈 쌓인 혼합수림 언덕"
+
+#. [terrain_type]
+#: data/core/terrain.cfg:800
+msgid "Wooden Floor"
+msgstr "나무 바닥"
+
+#. [terrain_type]
+#: data/core/terrain.cfg:802
+msgid "Basic Wooden Floor"
+msgstr ""
+
+#. [terrain_type]: id=lit
+#: data/core/terrain.cfg:815
+msgid "Lit"
+msgstr "빛남"
+
+#. [terrain_type]: id=lit
+#: data/core/terrain.cfg:816
+msgid "Beam of Light"
+msgstr ""
+
+#. [terrain_type]: id=cave
+#. [terrain_type]: id=cave_earthy
+#: data/core/terrain.cfg:826 data/core/terrain.cfg:835
+msgid "Cave"
+msgstr "동굴"
+
+#. [terrain_type]: id=cave
+#: data/core/terrain.cfg:827
+msgid "Cave Floor"
+msgstr "동굴 바닥"
+
+#. [terrain_type]: id=cave_earthy
+#: data/core/terrain.cfg:836
+msgid "Earthy Cave Floor"
+msgstr ""
+
+#. [terrain_type]: id=flagstones_dark
+#: data/core/terrain.cfg:846
+msgid "Dark Flagstones"
+msgstr ""
+
+#. [terrain_type]: id=cave_path
+#: data/core/terrain.cfg:856
+msgid "Cave Path"
+msgstr "동굴 통로"
+
+#. [terrain_type]: id=fungus
+#. [terrain_type]: id=fungus_beam
+#: data/core/terrain.cfg:865 data/core/terrain.cfg:874
+msgid "Mushroom Grove"
+msgstr "버섯 수풀"
+
+#. [terrain_type]: id=fungus_beam
+#: data/core/terrain.cfg:875
+msgid "Lit Mushroom Grove"
+msgstr ""
+
+#. [terrain_type]: id=rocky_cave
+#: data/core/terrain.cfg:886
+msgid "Rockbound Cave"
+msgstr "암석 동굴"
+
+#. [terrain_type]: id=rails
+#. [terrain_type]: id=railsdiag1
+#. [terrain_type]: id=railsdiag2
+#: data/core/terrain.cfg:898 data/core/terrain.cfg:910
+#: data/core/terrain.cfg:922
+msgid "Mine Rail"
+msgstr "광산 선로"
+
+#. [terrain_type]: id=canyon
+#. [terrain_type]: id=chasm_earthy
+#. [terrain_type]: id=abyss
+#. [terrain_type]: id=lava_chasm
+#: data/core/terrain.cfg:939 data/core/terrain.cfg:950
+#: data/core/terrain.cfg:961 data/core/terrain.cfg:972
+msgid "Chasm"
+msgstr "간극"
+
+#. [terrain_type]: id=canyon
+#: data/core/terrain.cfg:940
+msgid "Regular Chasm"
+msgstr ""
+
+#. [terrain_type]: id=chasm_earthy
+#: data/core/terrain.cfg:951
+msgid "Earthy Chasm"
+msgstr ""
+
+#. [terrain_type]: id=abyss
+#: data/core/terrain.cfg:962
+msgid "Ethereal Abyss"
+msgstr ""
+
+#. [terrain_type]: id=lava_chasm
+#: data/core/terrain.cfg:973
+msgid "Lava Chasm"
+msgstr "용암 간극"
+
+#. [terrain_type]: id=lava
+#: data/core/terrain.cfg:983
+msgid "Lava"
+msgstr "용암"
+
+#. [terrain_type]: id=volcano
+#: data/core/terrain.cfg:994
+msgid "Volcano"
+msgstr "화산"
+
+#. [terrain_type]: id=cloud
+#: data/core/terrain.cfg:1009
+msgid "Regular Impassable Mountains"
+msgstr "일반 정복불능 산맥"
+
+#. [terrain_type]: id=clouddesert
+#: data/core/terrain.cfg:1019
+msgid "Desert Impassable Mountains"
+msgstr "사막의 정복불능 산맥"
+
+#. [terrain_type]: id=cloud_snow
+#: data/core/terrain.cfg:1029
+msgid "Snowy Impassable Mountains"
+msgstr "눈 덮인 정복불능 산맥"
+
+#. [terrain_type]: id=cavewall
+#. [terrain_type]: id=cavewall_hewn
+#. [terrain_type]: id=cavewall_earthy
+#. [terrain_type]: id=cavewall_earthy_hewn
+#: data/core/terrain.cfg:1039 data/core/terrain.cfg:1050
+#: data/core/terrain.cfg:1061 data/core/terrain.cfg:1072
+msgid "Cave Wall"
+msgstr "동굴 벽"
+
+#. [terrain_type]: id=cavewall
+#: data/core/terrain.cfg:1040
+msgid "Natural Cave Wall"
+msgstr "자연적인 동굴 벽"
+
+#. [terrain_type]: id=cavewall_hewn
+#: data/core/terrain.cfg:1051
+msgid "Hewn Cave Wall"
+msgstr ""
+
+#. [terrain_type]: id=cavewall_earthy
+#: data/core/terrain.cfg:1062
+msgid "Natural Earthy Cave Wall"
+msgstr ""
+
+#. [terrain_type]: id=cavewall_earthy_hewn
+#: data/core/terrain.cfg:1073
+msgid "Reinforced Earthy Cave Wall"
+msgstr ""
+
+#. [terrain_type]: id=wall_stone
+#. [terrain_type]: id=wall_stone_lit
+#: data/core/terrain.cfg:1083 data/core/terrain.cfg:1093
+msgid "Stone Wall"
+msgstr "돌 벽"
+
+#. [terrain_type]: id=wall_stone_lit
+#: data/core/terrain.cfg:1094
+msgid "Lit Stone Wall"
+msgstr ""
+
+#. [terrain_type]: id=impassable_overlay
+#: data/core/terrain.cfg:1104
+msgid "Impassable Overlay"
+msgstr ""
+
+#. [terrain_type]: id=void
+#. [terrain_type]: id=off_map
+#. [terrain_type]: id=off_map2
+#: data/core/terrain.cfg:1115 data/core/terrain.cfg:2046
+#: data/core/terrain.cfg:2056
+msgid "Void"
+msgstr "공허"
+
+#. [terrain_type]: id=desert_village
+#. [terrain_type]: id=camp_village
+#. [terrain_type]: id=orcish_village
+#. [terrain_type]: id=orcish_snow_village
+#. [terrain_type]: id=elven_snow_village
+#. [terrain_type]: id=elven_village
+#. [terrain_type]: id=human_village
+#. [terrain_type]: id=snow_village
+#. [terrain_type]: id=human_village_ruin
+#. [terrain_type]: id=city_village
+#. [terrain_type]: id=windmill_village
+#. [terrain_type]: id=city_village_wno
+#. [terrain_type]: id=hill_village
+#. [terrain_type]: id=snow-hill_village
+#. [terrain_type]: id=hill_village_ruin
+#. [terrain_type]: id=tropical_forest_village
+#. [terrain_type]: id=drake_village
+#. [terrain_type]: id=underground_village
+#. [terrain_type]: id=dwarven_village
+#. [terrain_type]: id=hut_village
+#. [terrain_type]: id=hut_snow_village
+#. [terrain_type]: id=logcabin_village
+#. [terrain_type]: id=logcabin_snow_village
+#. [terrain_type]: id=igloo
+#. [terrain_type]: id=swamp_village
+#. [terrain_type]: id=mermen-village
+#. [terrain_type]: id=village_overlay
+#. [terrain_type]: id=village
+#: data/core/terrain.cfg:1130 data/core/terrain.cfg:1143
+#: data/core/terrain.cfg:1156 data/core/terrain.cfg:1171
+#: data/core/terrain.cfg:1184 data/core/terrain.cfg:1199
+#: data/core/terrain.cfg:1212 data/core/terrain.cfg:1227
+#: data/core/terrain.cfg:1240 data/core/terrain.cfg:1253
+#: data/core/terrain.cfg:1266 data/core/terrain.cfg:1279
+#: data/core/terrain.cfg:1292 data/core/terrain.cfg:1305
+#: data/core/terrain.cfg:1318 data/core/terrain.cfg:1331
+#: data/core/terrain.cfg:1344 data/core/terrain.cfg:1357
+#: data/core/terrain.cfg:1370 data/core/terrain.cfg:1385
+#: data/core/terrain.cfg:1398 data/core/terrain.cfg:1411
+#: data/core/terrain.cfg:1424 data/core/terrain.cfg:1437
+#: data/core/terrain.cfg:1450 data/core/terrain.cfg:1463
+#: data/core/terrain.cfg:1478 data/core/terrain.cfg:1491
+#: data/core/terrain.cfg:1506 data/core/terrain.cfg:2137
+msgid "Village"
+msgstr "마을"
+
+#. [terrain_type]: id=desert_village
+#: data/core/terrain.cfg:1131
+msgid "Adobe Village"
+msgstr ""
+
+#. [terrain_type]: id=desert_village
+#: data/core/terrain.cfg:1144
+msgid "Desert Tent Village"
+msgstr ""
+
+#. [terrain_type]: id=camp_village
+#: data/core/terrain.cfg:1157
+msgid "Tent Village"
+msgstr ""
+
+#. [terrain_type]: id=orcish_village
+#: data/core/terrain.cfg:1172
+msgid "Orcish Village"
+msgstr "오크식 마을"
+
+#. [terrain_type]: id=orcish_snow_village
+#: data/core/terrain.cfg:1185
+msgid "Snowy Orcish Village"
+msgstr ""
+
+#. [terrain_type]: id=elven_snow_village
+#: data/core/terrain.cfg:1200
+msgid "Snowy Elven Village"
+msgstr ""
+
+#. [terrain_type]: id=elven_village
+#: data/core/terrain.cfg:1213
+msgid "Elven Village"
+msgstr "엘프식 마을"
+
+#. [terrain_type]: id=human_village
+#: data/core/terrain.cfg:1228
+msgid "Cottage"
+msgstr "오두막"
+
+#. [terrain_type]: id=snow_village
+#: data/core/terrain.cfg:1241
+msgid "Snowy Cottage"
+msgstr "눈덮인 오두막"
+
+#. [terrain_type]: id=human_village_ruin
+#: data/core/terrain.cfg:1254
+msgid "Ruined Cottage"
+msgstr "무너진 오두막"
+
+#. [terrain_type]: id=city_village
+#: data/core/terrain.cfg:1267
+msgid "Human City"
+msgstr "인간 도시"
+
+#. [terrain_type]: id=windmill_village
+#: data/core/terrain.cfg:1280
+msgid "Windmill Village"
+msgstr "풍차 마을"
+
+#. [terrain_type]: id=city_village_wno
+#: data/core/terrain.cfg:1293
+msgid "Snowy Human City"
+msgstr "눈 덮인 인간 도시"
+
+#. [terrain_type]: id=city_village
+#: data/core/terrain.cfg:1306
+msgid "Ruined Human City"
+msgstr "인간 도시의 폐허"
+
+#. [terrain_type]: id=hill_village
+#: data/core/terrain.cfg:1319
+msgid "Hill Stone Village"
+msgstr ""
+
+#. [terrain_type]: id=snow-hill_village
+#: data/core/terrain.cfg:1332
+msgid "Snowy Hill Stone Village"
+msgstr ""
+
+#. [terrain_type]: id=hill_village_ruin
+#: data/core/terrain.cfg:1345
+msgid "Ruined Hill Stone Village"
+msgstr ""
+
+#. [terrain_type]: id=tropical_forest_village
+#: data/core/terrain.cfg:1358
+msgid "Tropical Village"
+msgstr "열대 마을"
+
+#. [terrain_type]: id=drake_village
+#: data/core/terrain.cfg:1371
+msgid "Drake Village"
+msgstr ""
+
+#. [terrain_type]: id=underground_village
+#: data/core/terrain.cfg:1386
+msgid "Cave Village"
+msgstr "동굴 마을"
+
+#. [terrain_type]: id=dwarven_village
+#: data/core/terrain.cfg:1399
+msgid "Dwarven Village"
+msgstr "드워프식 마을"
+
+#. [terrain_type]: id=hut_village
+#: data/core/terrain.cfg:1412
+msgid "Hut"
+msgstr "오두막"
+
+#. [terrain_type]: id=hut_snow_village
+#: data/core/terrain.cfg:1425
+msgid "Snowy Hut"
+msgstr "눈 덮인 오두막"
+
+#. [terrain_type]: id=logcabin_village
+#: data/core/terrain.cfg:1438
+msgid "Log Cabin"
+msgstr "통나무집"
+
+#. [terrain_type]: id=logcabin_snow_village
+#: data/core/terrain.cfg:1451
+msgid "Snowy Log Cabin"
+msgstr "눈 덮인 통나무집"
+
+#. [terrain_type]: id=igloo
+#: data/core/terrain.cfg:1464
+msgid "Igloo"
+msgstr "이글루"
+
+#. [terrain_type]: id=swamp_village
+#: data/core/terrain.cfg:1479
+msgid "Swamp Village"
+msgstr "늪지대 마을"
+
+#. [terrain_type]: id=mermen-village
+#: data/core/terrain.cfg:1492
+msgid "Merfolk Village"
+msgstr "인어 마을"
+
+#. [terrain_type]: id=village_overlay
+#: data/core/terrain.cfg:1507
+msgid "Village Overlay"
+msgstr ""
+
+#. [terrain_type]: id=encampment
+#. [terrain_type]: id=encampment_snow
+#: data/core/terrain.cfg:1522 data/core/terrain.cfg:1523
+#: data/core/terrain.cfg:1534
+msgid "Encampment"
+msgstr "기지"
+
+#. [terrain_type]: id=encampment_snow
+#: data/core/terrain.cfg:1535
+msgid "Snowy Encampment"
+msgstr "눈덮인 기지"
+
+#. [terrain_type]: id=orcish_fort
+#. [terrain_type]: id=snow_orcish_fort
+#. [terrain_type]: id=castle
+#. [terrain_type]: id=snow_castle
+#. [terrain_type]: id=elven_castle
+#. [terrain_type]: id=dwarven_castle
+#. [terrain_type]: id=sand_castle
+#. [terrain_type]: id=castle_overlay
+#: data/core/terrain.cfg:1546 data/core/terrain.cfg:1558
+#: data/core/terrain.cfg:1570 data/core/terrain.cfg:1581
+#: data/core/terrain.cfg:1592 data/core/terrain.cfg:1604
+#: data/core/terrain.cfg:1654 data/core/terrain.cfg:1864
+msgid "Castle"
+msgstr "성"
+
+#. [terrain_type]: id=orcish_fort
+#: data/core/terrain.cfg:1547
+msgid "Orcish Castle"
+msgstr "오크 성채"
+
+#. [terrain_type]: id=snow_orcish_fort
+#: data/core/terrain.cfg:1559
+msgid "Snowy Orcish Castle"
+msgstr ""
+
+#. [terrain_type]: id=castle
+#: data/core/terrain.cfg:1571
+msgid "Human Castle"
+msgstr "인간 성채"
+
+#. [terrain_type]: id=snow_castle
+#: data/core/terrain.cfg:1582
+msgid "Snowy Human Castle"
+msgstr "눈덮인 인간 성채"
+
+#. [terrain_type]: id=elven_castle
+#: data/core/terrain.cfg:1593
+msgid "Elvish Castle"
+msgstr "엘프 성채"
+
+#. [terrain_type]: id=dwarven_castle
+#: data/core/terrain.cfg:1605
+msgid "Dwarven Castle"
+msgstr "드워프 성채"
+
+#. [terrain_type]: id=ruin
+#. [terrain_type]: id=sunkenruin
+#. [terrain_type]: id=swampruin
+#. [terrain_type]: id=sand_castle_ruin
+#: data/core/terrain.cfg:1616 data/core/terrain.cfg:1628
+#: data/core/terrain.cfg:1641 data/core/terrain.cfg:1666
+msgid "Ruined Castle"
+msgstr "무너진 성채"
+
+#. [terrain_type]: id=ruin
+#: data/core/terrain.cfg:1617
+msgid "Ruined Human Castle"
+msgstr "무너진 인간 성채"
+
+#. [terrain_type]: id=sunkenruin
+#: data/core/terrain.cfg:1629
+msgid "Sunken Human Ruin"
+msgstr "수중 인간 건물 잔해"
+
+#. [terrain_type]: id=swampruin
+#: data/core/terrain.cfg:1642
+msgid "Swamp Human Ruin"
+msgstr "늪지대의 인간 건물 잔해"
+
+#. [terrain_type]: id=sand_castle
+#: data/core/terrain.cfg:1655
+msgid "Desert Castle"
+msgstr "사막의 성채"
+
+#. [terrain_type]: id=sand_castle_ruin
+#: data/core/terrain.cfg:1667
+msgid "Ruined Desert Castle"
+msgstr "무너진 사막의 성채"
+
+#. [terrain_type]: id=encampment_keep
+#. [terrain_type]: id=encampment_keep_tall
+#. [terrain_type]: id=encampment_snow_keep
+#: data/core/terrain.cfg:1682 data/core/terrain.cfg:1694
+#: data/core/terrain.cfg:1707
+msgid "Encampment Keep"
+msgstr "기지 본영"
+
+#. [terrain_type]: id=encampment_keep_tall
+#: data/core/terrain.cfg:1695
+msgid "Tall Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=encampment_snow_keep
+#: data/core/terrain.cfg:1708
+msgid "Snowy Encampment Keep"
+msgstr "눈덮인 기지 본영"
+
+#. [terrain_type]: id=orcish_keep
+#. [terrain_type]: id=snow_orcish_keep
+#. [terrain_type]: id=human_keep
+#. [terrain_type]: id=snow_keep
+#. [terrain_type]: id=elven_keep
+#. [terrain_type]: id=dwarven_keep
+#. [terrain_type]: id=desert_keep
+#. [terrain_type]: id=keep_overlay
+#: data/core/terrain.cfg:1720 data/core/terrain.cfg:1733
+#: data/core/terrain.cfg:1746 data/core/terrain.cfg:1759
+#: data/core/terrain.cfg:1772 data/core/terrain.cfg:1785
+#: data/core/terrain.cfg:1837 data/core/terrain.cfg:1876
+msgid "Keep"
+msgstr "본성"
+
+#. [terrain_type]: id=orcish_keep
+#: data/core/terrain.cfg:1721
+msgid "Orcish Keep"
+msgstr "오크 본영"
+
+#. [terrain_type]: id=snow_orcish_keep
+#: data/core/terrain.cfg:1734
+msgid "Snowy Orcish Keep"
+msgstr ""
+
+#. [terrain_type]: id=human_keep
+#: data/core/terrain.cfg:1747
+msgid "Human Castle Keep"
+msgstr "인간 성채 본영"
+
+#. [terrain_type]: id=snow_keep
+#: data/core/terrain.cfg:1760
+msgid "Snowy Human Castle Keep"
+msgstr "눈덮인 인간 성채 본영"
+
+#. [terrain_type]: id=elven_keep
+#: data/core/terrain.cfg:1773
+msgid "Elven Castle Keep"
+msgstr "엘프 성채 본영"
+
+#. [terrain_type]: id=dwarven_keep
+#: data/core/terrain.cfg:1786
+msgid "Dwarven Castle Keep"
+msgstr "드워프 성채 본영"
+
+#. [terrain_type]: id=ruined_keep
+#. [terrain_type]: id=sunken_keep
+#. [terrain_type]: id=swamp_keep
+#. [terrain_type]: id=desert_keep_ruined
+#: data/core/terrain.cfg:1798 data/core/terrain.cfg:1811
+#: data/core/terrain.cfg:1824 data/core/terrain.cfg:1850
+msgid "Ruined Keep"
+msgstr "무너진 본영"
+
+#. [terrain_type]: id=ruined_keep
+#: data/core/terrain.cfg:1799
+msgid "Ruined Human Castle Keep"
+msgstr "무너진 인간 성채 본영"
+
+#. [terrain_type]: id=sunken_keep
+#: data/core/terrain.cfg:1812
+msgid "Sunken Human Castle Keep"
+msgstr "가라앉은 인간 성채 본영"
+
+#. [terrain_type]: id=swamp_keep
+#: data/core/terrain.cfg:1825
+msgid "Swamp Human Castle Keep"
+msgstr "늪지대의 인간 성채 본영"
+
+#. [terrain_type]: id=desert_keep
+#: data/core/terrain.cfg:1838
+msgid "Desert Keep"
+msgstr "사막 본영"
+
+#. [terrain_type]: id=desert_keep_ruined
+#: data/core/terrain.cfg:1851
+msgid "Ruined Desert Keep"
+msgstr "무너진 사막 본영"
+
+#. [terrain_type]: id=castle_overlay
+#: data/core/terrain.cfg:1865
+msgid "Castle Overlay"
+msgstr ""
+
+#. [terrain_type]: id=keep_overlay
+#: data/core/terrain.cfg:1877
+msgid "Keep Overlay"
+msgstr ""
+
+#. [terrain_type]: id=bridge
+#. [terrain_type]: id=bridgediag1
+#. [terrain_type]: id=bridgediag2
+#. [terrain_type]: id=rotbridge
+#. [terrain_type]: id=rotbridgediag1
+#. [terrain_type]: id=rotbridgediag2
+#. [terrain_type]: id=stone_bridge
+#. [terrain_type]: id=bridgechasm
+#. [terrain_type]: id=bridgechasmdiag1
+#. [terrain_type]: id=bridgechasmdiag2
+#: data/core/terrain.cfg:1894 data/core/terrain.cfg:1906
+#: data/core/terrain.cfg:1918 data/core/terrain.cfg:1930
+#: data/core/terrain.cfg:1942 data/core/terrain.cfg:1954
+#: data/core/terrain.cfg:1968 data/core/terrain.cfg:1980
+#: data/core/terrain.cfg:1992 data/core/terrain.cfg:2006
+#: data/core/terrain.cfg:2017 data/core/terrain.cfg:2029
+msgid "Bridge"
+msgstr "다리"
+
+#. [terrain_type]: id=bridge
+#. [terrain_type]: id=bridgediag1
+#. [terrain_type]: id=bridgediag2
+#: data/core/terrain.cfg:1895 data/core/terrain.cfg:1907
+#: data/core/terrain.cfg:1919
+msgid "Wooden Bridge"
+msgstr "나무 다리"
+
+#. [terrain_type]: id=rotbridge
+#. [terrain_type]: id=rotbridgediag1
+#. [terrain_type]: id=rotbridgediag2
+#: data/core/terrain.cfg:1931 data/core/terrain.cfg:1943
+#: data/core/terrain.cfg:1955
+msgid "Rotting Bridge"
+msgstr "썩은 다리"
+
+#. [terrain_type]: id=stone_bridge
+#: data/core/terrain.cfg:1969 data/core/terrain.cfg:1981
+#: data/core/terrain.cfg:1993
+msgid "Basic Stone Bridge"
+msgstr ""
+
+#. [terrain_type]: id=bridgechasm
+#. [terrain_type]: id=bridgechasmdiag1
+#. [terrain_type]: id=bridgechasmdiag2
+#: data/core/terrain.cfg:2007 data/core/terrain.cfg:2018
+#: data/core/terrain.cfg:2030
+msgid "Cave Chasm Bridge"
+msgstr ""
+
+#. [terrain_type]: id=off_map
+#: data/core/terrain.cfg:2047
+msgid "Off Map"
+msgstr ""
+
+#. [terrain_type]: id=off_map2
+#: data/core/terrain.cfg:2057
+msgid "Experimental Fake Map Edge"
+msgstr ""
+
+#. [toggle_button]: id=shroud
+#. [terrain_type]: id=shroud
+#: data/core/terrain.cfg:2066 data/gui/default/window/mp_create_game.cfg:479
+msgid "Shroud"
+msgstr "장막"
+
+#. [terrain_type]: id=fog
+#: data/core/terrain.cfg:2075
+msgid "Fog"
+msgstr "안개"
+
+#. [terrain_type]: id=flat
+#: data/core/terrain.cfg:2116
+msgid "Flat"
+msgstr "평지"
+
+#. [terrain_type]: id=frozen
+#: data/core/terrain.cfg:2130
+msgid "Frozen"
+msgstr "설빙 지역"
+
+#. [terrain_type]: id=impassable
+#: data/core/terrain.cfg:2144
+msgid "Impassable"
+msgstr "통과불능"
+
+#. [terrain_type]: id=unwalkable
+#: data/core/terrain.cfg:2151
+msgid "Unwalkable"
+msgstr "도보불능"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=click_dismiss
+#. [button]: id=ok
+#. [button]: id=cancel
+#. [button]: id=close_window
+#: data/gui/default/widget/window_default.cfg:140
+#: data/gui/default/window/chat_log.cfg:121
+#: data/gui/default/window/gamestate_inspector.cfg:339
+#: data/gui/default/window/lobby_main.cfg:619
+#: data/gui/default/window/lobby_player_info.cfg:200
+#: data/gui/default/window/message.cfg:133 src/construct_dialog.cpp:134
+#: src/mapgen_dialog.cpp:110 src/preferences_display.cpp:272
+msgid "Close"
+msgstr "닫기"
+
+#. [label]
+#. [column]
+#: data/gui/default/window/addon_connect.cfg:40
+#: data/gui/default/window/mp_connect.cfg:41
+#: data/gui/default/window/mp_method_selection.cfg:156
+#: data/gui/default/window/mp_server_list.cfg:49
+msgid "Connect to Server"
+msgstr "서버에 연결"
+
+#. [label]
+#: data/gui/default/window/addon_connect.cfg:59
+msgid "You will now connect to a server to download add-ons."
+msgstr "서버에 연결해서 추가 기능을 다운받습니다."
+
+#. [label]
+#: data/gui/default/window/addon_connect.cfg:89
+#: data/gui/default/window/mp_connect.cfg:90
+msgid "Server:"
+msgstr "서버 주소:"
+
+#. [button]: id=update_addons
+#: data/gui/default/window/addon_connect.cfg:145
+#: data/gui/default/window/addon_connect.cfg:146
+msgid "Update Add-ons"
+msgstr "추가 기능 업데이트"
+
+#. [button]: id=remove_addons
+#: data/gui/default/window/addon_connect.cfg:180
+#: data/gui/default/window/addon_connect.cfg:181
+msgid "Remove Add-ons"
+msgstr "추가 기능 삭제"
+
+#. [button]: id=ok
+#: data/gui/default/window/addon_connect.cfg:213
+#: data/gui/default/window/addon_connect.cfg:214
+#: data/gui/default/window/mp_connect.cfg:185
+#: data/gui/default/window/mp_connect.cfg:186
+msgid "Connect"
+msgstr "연결"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+#: data/gui/default/window/addon_connect.cfg:228
+#: data/gui/default/window/addon_uninstall_list.cfg:175
+#: data/gui/default/window/campaign_dialog.cfg:440
+#: data/gui/default/window/campaign_difficulty.cfg:193
+#: data/gui/default/window/data_manage.cfg:361
+#: data/gui/default/window/edit_label.cfg:153
+#: data/gui/default/window/editor_generate_map.cfg:108
+#: data/gui/default/window/editor_new_map.cfg:119
+#: data/gui/default/window/editor_resize_map.cfg:281
+#: data/gui/default/window/editor_set_starting_position.cfg:176
+#: data/gui/default/window/editor_settings.cfg:262
+#: data/gui/default/window/folder_create.cfg:137
+#: data/gui/default/window/game_load.cfg:451
+#: data/gui/default/window/game_save.cfg:142
+#: data/gui/default/window/language_selection.cfg:143
+#: data/gui/default/window/message.cfg:147
+#: data/gui/default/window/mp_change_control.cfg:160
+#: data/gui/default/window/mp_cmd_wrapper.cfg:470
+#: data/gui/default/window/mp_connect.cfg:200
+#: data/gui/default/window/mp_create_game.cfg:558
+#: data/gui/default/window/mp_login.cfg:272
+#: data/gui/default/window/mp_method_selection.cfg:226
+#: data/gui/default/window/mp_server_list.cfg:237
+#: data/gui/default/window/simple_item_selector.cfg:159
+#: data/gui/default/window/unit_attack.cfg:208
+#: data/gui/default/window/unit_create.cfg:209
+#: data/gui/default/window/unit_create.cfg:210 src/construct_dialog.cpp:128
+#: src/construct_dialog.cpp:131 src/hotkeys.cpp:52
+msgid "Cancel"
+msgstr "취소"
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:88
+msgid "Author:"
+msgstr "제작자:"
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:118
+msgid "Version:"
+msgstr "버전:"
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:149
+msgid "Size:"
+msgstr "용량:"
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:180
+msgid "Description:"
+msgstr "설명:"
+
+#. [scroll_label]: id=description
+#: data/gui/default/window/addon_description.cfg:194
+msgid "No description available."
+msgstr "설명이 없습니다."
+
+#. [label]
+#: data/gui/default/window/addon_description.cfg:212
+msgid "Translations:"
+msgstr "가능 번역:"
+
+#. [scroll_label]: id=translations
+#: data/gui/default/window/addon_description.cfg:226
+msgid "translations^None"
+msgstr "없음"
+
+#. [label]
+#: data/gui/default/window/addon_uninstall_list.cfg:51
+msgid "Uninstall Add-ons"
+msgstr "추가 기능 삭제"
+
+#. [scroll_label]
+#: data/gui/default/window/addon_uninstall_list.cfg:70
+msgid "Choose the add-ons you want to remove."
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=remove
+#. [button]: id=ok
+#: data/gui/default/window/addon_uninstall_list.cfg:162
+#: data/gui/default/window/mp_cmd_wrapper.cfg:200
+#: src/game_preferences_display.cpp:192
+msgid "Remove"
+msgstr "삭제하기"
+
+#. [label]
+#: data/gui/default/window/campaign_dialog.cfg:56
+msgid "Play a campaign"
+msgstr "캠페인을 시작합니다"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#: data/gui/default/window/campaign_dialog.cfg:426
+#: data/gui/default/window/campaign_difficulty.cfg:180
+#: data/gui/default/window/data_manage.cfg:347
+#: data/gui/default/window/data_manage.cfg:348
+#: data/gui/default/window/edit_label.cfg:139
+#: data/gui/default/window/editor_set_starting_position.cfg:163
+#: data/gui/default/window/editor_settings.cfg:252
+#: data/gui/default/window/folder_create.cfg:123
+#: data/gui/default/window/game_load.cfg:437
+#: data/gui/default/window/game_load.cfg:438
+#: data/gui/default/window/game_save.cfg:127
+#: data/gui/default/window/game_save.cfg:128
+#: data/gui/default/window/mp_change_control.cfg:150
+#: data/gui/default/window/mp_create_game_set_password.cfg:133
+#: data/gui/default/window/mp_login.cfg:244
+#: data/gui/default/window/mp_method_selection.cfg:212
+#: data/gui/default/window/simple_item_selector.cfg:146
+#: data/gui/default/window/unit_create.cfg:197
+#: data/gui/default/window/unit_create.cfg:198
+#: data/gui/default/window/wml_message.cfg:485
+#: data/gui/default/window/wml_message.cfg:714 src/construct_dialog.cpp:120
+#: src/construct_dialog.cpp:127 src/gui/dialogs/message.cpp:162
+#: src/gui/dialogs/message.cpp:169
+msgid "OK"
+msgstr "확인"
+
+#. [label]: id=title
+#: data/gui/default/window/campaign_difficulty.cfg:57
+msgid "Difficulty"
+msgstr "난이도"
+
+#. [scroll_label]: id=message
+#: data/gui/default/window/campaign_difficulty.cfg:77
+msgid "Select difficulty level:"
+msgstr "난이도를 선택하세요:"
+
+#. [label]
+#: data/gui/default/window/chat_log.cfg:38
+#, fuzzy
+#| msgid "View Chat Log"
+msgid "Chat Log"
+msgstr "채팅 기록 보기"
+
+#. [label]
+#: data/gui/default/window/chat_log.cfg:56
+#, fuzzy
+#| msgid "Message:"
+msgid "Page:"
+msgstr "내용:"
+
+#. [slider]: id=page_number
+#: data/gui/default/window/chat_log.cfg:69
+msgid "Last"
+msgstr ""
+
+#. [button]: id=previous_page
+#. [button]: id=previous_tip
+#: data/gui/default/window/chat_log.cfg:79
+#: data/gui/default/window/title_screen.cfg:162
+msgid "Previous"
+msgstr "이전"
+
+#. [button]: id=next_tod
+#. [button]: id=next_page
+#. [button]: id=next_tip
+#: data/gui/default/window/chat_log.cfg:89
+#: data/gui/default/window/editor_settings.cfg:79
+#: data/gui/default/window/editor_settings.cfg:80
+#: data/gui/default/window/title_screen.cfg:177
+msgid "Next"
+msgstr "다음"
+
+#. [label]: id=lblTitle
+#: data/gui/default/window/data_manage.cfg:50
+msgid "Manage Data"
+msgstr ""
+
+#. [label]: id=lblChoose
+#: data/gui/default/window/data_manage.cfg:89
+#: data/gui/default/window/game_load.cfg:189
+msgid "Choose the game to load"
+msgstr ""
+
+#. [label]: id=lblFilter
+#: data/gui/default/window/data_manage.cfg:113
+#: data/gui/default/window/game_load.cfg:213
+msgid "Filter"
+msgstr ""
+
+#. [label]: id=filename
+#. [label]: id=name
+#: data/gui/default/window/data_manage.cfg:163
+#: data/gui/default/window/game_load.cfg:263
+#: data/gui/default/window/mp_server_list.cfg:104
+msgid "Name"
+msgstr "서버명"
+
+#. [label]: id=date
+#: data/gui/default/window/data_manage.cfg:177
+#: data/gui/default/window/game_load.cfg:277
+msgid "Date"
+msgstr ""
+
+#. [button]: id=clear
+#: data/gui/default/window/data_manage.cfg:266
+#: data/gui/default/window/data_manage.cfg:267
+msgid "Clear"
+msgstr ""
+
+#. [button]: id=restore
+#: data/gui/default/window/data_manage.cfg:283
+#: data/gui/default/window/data_manage.cfg:284
+msgid "Restore"
+msgstr ""
+
+#. [button]: id=backup
+#: data/gui/default/window/data_manage.cfg:300
+#: data/gui/default/window/data_manage.cfg:301
+msgid "Backup"
+msgstr ""
+
+#. [label]: id=title
+#: data/gui/default/window/edit_label.cfg:42
+msgid "Place Label"
+msgstr "딱지를 둡니다"
+
+#. [label]
+#: data/gui/default/window/edit_label.cfg:72
+msgid "Label:"
+msgstr "딱지:"
+
+#. [toggle_button]: id=team_only_toggle
+#: data/gui/default/window/edit_label.cfg:110
+msgid "Team only"
+msgstr "같은 팀에게만 보임"
+
+#. [label]
+#: data/gui/default/window/editor_generate_map.cfg:35
+msgid "Generate Random Map"
+msgstr "랜덤 맵 생성"
+
+#. [button]: id=next_generator
+#: data/gui/default/window/editor_generate_map.cfg:64
+#: data/gui/default/window/editor_generate_map.cfg:65
+msgid "Next Generator"
+msgstr ""
+
+#. [button]: id=settings
+#: data/gui/default/window/editor_generate_map.cfg:87
+#: data/gui/default/window/editor_generate_map.cfg:88
+msgid "Settings"
+msgstr ""
+
+#. [button]: id=ok
+#: data/gui/default/window/editor_generate_map.cfg:98
+msgid "Generate"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:35 src/hotkeys.cpp:126
+msgid "New Map"
+msgstr "새로운 맵"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:54 src/mapgen_dialog.cpp:121
+msgid "Width:"
+msgstr "가로:"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:81 src/mapgen_dialog.cpp:122
+msgid "Height:"
+msgstr "높이:"
+
+#. [button]: id=ok
+#: data/gui/default/window/editor_new_map.cfg:108
+#: data/gui/default/window/editor_new_map.cfg:109
+msgid "Create New Map"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#. [button]: id=ok
+#: data/gui/default/window/editor_resize_map.cfg:35
+#: data/gui/default/window/editor_resize_map.cfg:270
+#: data/gui/default/window/editor_resize_map.cfg:271 src/hotkeys.cpp:172
+msgid "Resize Map"
+msgstr "맵 크기"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:54
+msgid "New width:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:78
+msgid "Old width:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:102
+msgid "New height:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:126
+msgid "Old height:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:153
+msgid "Expand / shrink direction"
+msgstr ""
+
+#. [toggle_button]: id=copy_edge_terrain
+#: data/gui/default/window/editor_resize_map.cfg:248
+msgid "Copy edge terrain"
+msgstr ""
+
+#. [label]: id=title
+#: data/gui/default/window/editor_set_starting_position.cfg:50
+msgid "Choose Player"
+msgstr "플레이어 선택"
+
+#. [label]: id=message
+#: data/gui/default/window/editor_set_starting_position.cfg:70
+msgid "Which player should start here?"
+msgstr "어떤 플레이어가 여기서 시작합니까?"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:35 src/hotkeys.cpp:124
+msgid "Editor Settings"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:53
+msgid "Time of day lighting preset:"
+msgstr ""
+
+#. [toggle_button]: id=custom_tod_toggle
+#: data/gui/default/window/editor_settings.cfg:104
+msgid "Custom lighting settings"
+msgstr ""
+
+#. [toggle_button]: id=custom_tod_auto_refresh
+#: data/gui/default/window/editor_settings.cfg:114
+msgid "Automatically update map view"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:135
+msgid "Red:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:161
+msgid "Green:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/editor_settings.cfg:187
+msgid "Blue:"
+msgstr ""
+
+#. [toggle_button]: id=use_mdi
+#: data/gui/default/window/editor_settings.cfg:231
+msgid "Allow multiple maps to be open simultaneously"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=apply
+#: data/gui/default/window/editor_settings.cfg:272
+#: src/game_preferences_display.cpp:214
+msgid "Apply"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=title
+#: data/gui/default/window/folder_create.cfg:43 src/filechooser.cpp:82
+msgid "New Folder"
+msgstr "새 폴더"
+
+#. [label]
+#: data/gui/default/window/folder_create.cfg:72
+#: data/gui/default/window/game_save.cfg:70
+#: data/gui/default/window/game_save_message.cfg:90
+#: data/gui/default/window/game_save_oos.cfg:93
+msgid "Name:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:36
+msgid "Formula debugger"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:59
+msgid "Welcome"
+msgstr ""
+
+#. [label]: id=state
+#: data/gui/default/window/formula_debugger.cfg:71
+msgid "state"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:85
+msgid "Call stack"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:94
+#: data/gui/default/window/gamestate_inspector.cfg:276
+msgid "Actions"
+msgstr ""
+
+#. [button]: id=step
+#: data/gui/default/window/formula_debugger.cfg:128
+msgid "Step operation"
+msgstr ""
+
+#. [button]: id=next
+#: data/gui/default/window/formula_debugger.cfg:139
+msgid "Next operation"
+msgstr ""
+
+#. [button]: id=stepout
+#: data/gui/default/window/formula_debugger.cfg:150
+msgid "Step out"
+msgstr ""
+
+#. [button]: id=continue
+#: data/gui/default/window/formula_debugger.cfg:161
+msgid "Continue"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/formula_debugger.cfg:178
+msgid "Execution trace"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+#. [button]: id=quit
+#. [grid]
+#: data/gui/default/window/formula_debugger.cfg:234
+#: data/gui/default/window/lobby_main.cfg:660
+#: data/gui/default/window/title_screen.cfg:232 src/hotkeys.cpp:875
+#: src/hotkeys.cpp:1220
+msgid "Quit"
+msgstr "종료"
+
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_delete.cfg:40
+msgid "Delete Save"
+msgstr "세이브 파일 삭제"
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_delete.cfg:60
+msgid "Do you really want to delete this game?"
+msgstr "정말 이 파일을 삭제하시겠습니까?"
+
+#. [toggle_button]: id=dont_ask_again
+#: data/gui/default/window/game_delete.cfg:80
+msgid "Don’t ask me again!"
+msgstr "다시는 묻지 말아!"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#: data/gui/default/window/game_delete.cfg:136
+#: data/gui/default/window/game_delete.cfg:137
+#: data/gui/default/window/game_save_message.cfg:147
+#: data/gui/default/window/game_save_message.cfg:148
+#: data/gui/default/window/game_save_oos.cfg:197
+#: data/gui/default/window/game_save_oos.cfg:198
+#: data/gui/default/window/game_save_overwrite.cfg:96
+#: data/gui/default/window/game_save_overwrite.cfg:97
+#: src/construct_dialog.cpp:123 src/gui/dialogs/message.cpp:176
+msgid "Yes"
+msgstr "예"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=cancel
+#: data/gui/default/window/game_delete.cfg:151
+#: data/gui/default/window/game_save_message.cfg:162
+#: data/gui/default/window/game_save_oos.cfg:212
+#: data/gui/default/window/game_save_overwrite.cfg:111
+#: src/construct_dialog.cpp:124 src/gui/dialogs/message.cpp:178
+msgid "No"
+msgstr "아니오"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_load.cfg:50
+#: src/gui/dialogs/mp_create_game.cpp:95 src/hotkeys.cpp:75
+msgid "Load Game"
+msgstr "게임 로드"
+
+#. [button]: id=delete
+#: data/gui/default/window/game_load.cfg:360
+#: data/gui/default/window/game_load.cfg:361
+msgid "Delete"
+msgstr ""
+
+#. [toggle_button]: id=show_replay
+#: data/gui/default/window/game_load.cfg:379
+msgid "Show replay"
+msgstr ""
+
+#. [toggle_button]: id=cancel_orders
+#: data/gui/default/window/game_load.cfg:397
+msgid "Cancel orders"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_save.cfg:40
+#: data/gui/default/window/game_save_message.cfg:40
+#: data/gui/default/window/game_save_oos.cfg:42 src/hotkeys.cpp:72
+msgid "Save Game"
+msgstr "게임 저장"
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_save_message.cfg:60
+msgid "x"
+msgstr ""
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_save_oos.cfg:62
+msgid "OOS error"
+msgstr ""
+
+#. [toggle_button]: id=ignore_all
+#: data/gui/default/window/game_save_oos.cfg:145
+msgid "Ignore all"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=quit_game
+#: data/gui/default/window/game_save_oos.cfg:170 src/hotkeys.cpp:94
+msgid "Quit Game"
+msgstr "게임 종료"
+
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_save_overwrite.cfg:40
+msgid "Overwrite?"
+msgstr ""
+
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_save_overwrite.cfg:60
+msgid "Save already exists. Do you want to overwrite it?"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:46
+msgid "Gamestate Inspector"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:100
+msgid "Types"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:111
+msgid "Content"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:122
+msgid "Inspection window"
+msgstr ""
+
+#. [label]: id=unit_type
+#. [label]: id=typename
+#: data/gui/default/window/gamestate_inspector.cfg:153
+#: data/gui/default/window/unit_create.cfg:131
+msgid "Type"
+msgstr ""
+
+#. [label]: id=name
+#: data/gui/default/window/gamestate_inspector.cfg:214
+msgid "Variable"
+msgstr ""
+
+#. [grid]
+#. [label]
+#: data/gui/default/window/language_selection.cfg:41
+#: data/gui/default/window/title_screen.cfg:229
+msgid "Language"
+msgstr "언어 설정"
+
+#. [label]
+#: data/gui/default/window/language_selection.cfg:60
+msgid "Choose your preferred language:"
+msgstr "언어를 선택하세요:"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=ok
+#: data/gui/default/window/language_selection.cfg:128
+#: data/gui/default/window/language_selection.cfg:129 src/hotkeys.cpp:204
+msgid "Change Language"
+msgstr "언어 변경"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:109
+msgid "Games"
+msgstr ""
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:176
+msgid "Assign sides to players at random"
+msgstr ""
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:177
+msgid "Requires a password to join"
+msgstr "입장시 패스워드가 필요함"
+
+#. [toggle_button]: id=use_map_settings
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:178
+#: data/gui/default/window/mp_create_game.cfg:321
+msgid "Use map settings"
+msgstr "맵 설정 사용"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:179
+msgid "Reloaded game"
+msgstr "리로드 게임"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:180
+msgid "Unknown era"
+msgstr "알수없는 시대"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:182
+msgid "Gold per village"
+msgstr "마을당 금"
+
+#. [label]
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:184
+#: data/gui/default/window/mp_create_game.cfg:420
+msgid "Experience modifier"
+msgstr "경험치 수정"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:186
+msgid "Time limit"
+msgstr "시간 제한"
+
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:305
+msgid "Sort players:"
+msgstr "유저 정렬:"
+
+#. [toggle_button]: id=player_list_sort_relation
+#: data/gui/default/window/lobby_main.cfg:313
+msgid "Friends first, ignored people last"
+msgstr "친구 우선, 무시자 최후"
+
+#. [toggle_button]: id=player_list_sort_name
+#: data/gui/default/window/lobby_main.cfg:321
+msgid "Alphabetically"
+msgstr "알파벳순"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:337
+msgid "Selected game"
+msgstr "선택된 방"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:338
+msgid "Current room"
+msgstr "현재 방"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:339
+msgid "Lobby"
+msgstr "로비"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:340
+msgid "Other games"
+msgstr "다른 방"
+
+#. [label]: id=room
+#: data/gui/default/window/lobby_main.cfg:479
+msgid "Rooms"
+msgstr "방"
+
+#. [image]: id=pending_messages
+#: data/gui/default/window/lobby_main.cfg:497
+msgid "Messages waiting"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:567
+msgid "Multiplayer Lobby"
+msgstr "멀티플레이 로비"
+
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:575
+msgid "Filter:"
+msgstr "검색어:"
+
+#. [toggle_button]: id=filter_with_friends
+#: data/gui/default/window/lobby_main.cfg:586
+msgid "Friends"
+msgstr "친구 있는 방"
+
+#. [toggle_button]: id=filter_without_ignored
+#: data/gui/default/window/lobby_main.cfg:592
+msgid "No ignored"
+msgstr "무시자 없는 방"
+
+#. [toggle_button]: id=filter_vacant_slots
+#: data/gui/default/window/lobby_main.cfg:598
+msgid "Vacant slots"
+msgstr "빈 자리 있는 방"
+
+#. [toggle_button]: id=filter_invert
+#: data/gui/default/window/lobby_main.cfg:604
+msgid "Invert filter"
+msgstr "필터 역적용"
+
+#. [button]: id=ok
+#. [button]: id=send_message
+#: data/gui/default/window/lobby_main.cfg:648
+#: data/gui/default/window/mp_cmd_wrapper.cfg:101
+msgid "Send"
+msgstr "입력"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=show_preferences
+#. [grid]
+#: data/gui/default/window/lobby_main.cfg:666
+#: data/gui/default/window/title_screen.cfg:230
+#: src/game_preferences_display.cpp:64 src/hotkeys.cpp:88
+msgid "Preferences"
+msgstr "게임 옵션"
+
+#. [button]: id=refresh
+#: data/gui/default/window/lobby_main.cfg:672
+msgid "Refresh"
+msgstr "새로고침"
+
+#. [label]
+#. [button]: id=create
+#: data/gui/default/window/lobby_main.cfg:686
+#: data/gui/default/window/mp_create_game.cfg:41
+msgid "Create Game"
+msgstr "방 만들기"
+
+#. [button]: id=join_global
+#: data/gui/default/window/lobby_main.cfg:692
+msgid "Join"
+msgstr "참가"
+
+#. [button]: id=observe_global
+#: data/gui/default/window/lobby_main.cfg:698
+msgid "Observe"
+msgstr "관전"
+
+#. [toggle_button]: id=skip_replay
+#: data/gui/default/window/lobby_main.cfg:704
+msgid "Quick replay"
+msgstr "빠른 리플레이"
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:38
+msgid "Player Info — "
+msgstr "유저 정보 — "
+
+#. [button]: id=start_whisper
+#: data/gui/default/window/lobby_player_info.cfg:70
+msgid "Send Private Message"
+msgstr "귓속말 보내기"
+
+#. [button]: id=add_to_friends
+#: data/gui/default/window/lobby_player_info.cfg:99
+msgid "Add to Friends"
+msgstr "친구목록에 추가"
+
+#. [button]: id=add_to_ignores
+#: data/gui/default/window/lobby_player_info.cfg:108
+msgid "Add to Ignores"
+msgstr "무시목록에 추가"
+
+#. [button]: id=remove_from_list
+#: data/gui/default/window/lobby_player_info.cfg:117
+msgid "Remove from List"
+msgstr "목록에서 삭제"
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:141
+msgid "Moderation"
+msgstr ""
+
+#. [button]: id=check_status
+#: data/gui/default/window/lobby_player_info.cfg:148
+msgid "Check status"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:155
+msgid "Kick / ban reason:"
+msgstr ""
+
+#. [button]: id=kick
+#: data/gui/default/window/lobby_player_info.cfg:168
+#: data/gui/default/window/mp_cmd_wrapper.cfg:389
+msgid "Kick"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/lobby_player_info.cfg:175
+msgid "Ban time:"
+msgstr ""
+
+#. [button]: id=kick_ban
+#: data/gui/default/window/lobby_player_info.cfg:188
+msgid "Kick/ban"
+msgstr ""
+
+#. [label]: id=side_title
+#: data/gui/default/window/mp_change_control.cfg:21
+#, fuzzy
+#| msgid "Next Side"
+msgid "Side"
+msgstr "다음 진영"
+
+#. [label]: id=nick_title
+#: data/gui/default/window/mp_change_control.cfg:73
+msgid "Nickname"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_change_control.cfg:194
+#, fuzzy
+#| msgid "Change Hotkey"
+msgid "Change Control"
+msgstr "단축키 바꾸기"
+
+#. [window]: id=mp_cmd_wrapper
+#: data/gui/default/window/mp_cmd_wrapper.cfg:8
+msgid "Multiplayer command dialog"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:39
+msgid "Messaging"
+msgstr "귓속말 보내기"
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:69
+msgid "Message:"
+msgstr "내용:"
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:141
+msgid "Friends/Ignored List"
+msgstr "친구/무시 목록"
+
+#. [button]: id=add_friend
+#: data/gui/default/window/mp_cmd_wrapper.cfg:170
+msgid "Add as Friend"
+msgstr "친구목록에 추가"
+
+#. [button]: id=add_ignore
+#: data/gui/default/window/mp_cmd_wrapper.cfg:185
+msgid "Add as Ignore"
+msgstr "무시목록에 추가"
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:241
+msgid "Moderating"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:271
+msgid "Reason:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_cmd_wrapper.cfg:323
+msgid "Time:"
+msgstr ""
+
+#. [button]: id=status
+#: data/gui/default/window/mp_cmd_wrapper.cfg:374
+msgid "Status"
+msgstr ""
+
+#. [button]: id=ban
+#: data/gui/default/window/mp_cmd_wrapper.cfg:404
+msgid "Ban"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_connect.cfg:60
+#: data/gui/default/window/mp_server_list.cfg:69
+msgid "You will now connect to the multiplayer server."
+msgstr "멀티플레이 서버에 연결합니다."
+
+#. [button]: id=list
+#: data/gui/default/window/mp_connect.cfg:158
+msgid "View List"
+msgstr "서버 목록"
+
+#. [label]
+#. [text_box]: id=game_name
+#: data/gui/default/window/mp_create_game.cfg:70
+#: data/gui/default/window/mp_create_game.cfg:85
+msgid "Name of game:"
+msgstr ""
+
+#. [label]: id=map_players
+#: data/gui/default/window/mp_create_game.cfg:148
+msgid "Players: "
+msgstr "플레이어 수:"
+
+#. [label]: id=map_size
+#: data/gui/default/window/mp_create_game.cfg:167
+msgid "Map size: "
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:185
+msgid "Era:"
+msgstr ""
+
+#. [button]: id=era
+#: data/gui/default/window/mp_create_game.cfg:204
+msgid "Default"
+msgstr ""
+
+#. [button]: id=password
+#. [label]: id=title
+#: data/gui/default/window/mp_create_game.cfg:226
+#: data/gui/default/window/mp_create_game_set_password.cfg:42
+msgid "Set Password"
+msgstr "암호 설정"
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:254
+msgid "Map to play:"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:339
+msgid "Number of turns"
+msgstr ""
+
+#. [slider]: id=turn_count
+#: data/gui/default/window/mp_create_game.cfg:362
+msgid "Unlimited"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_create_game.cfg:380
+msgid "Village gold"
+msgstr "마을당 수입"
+
+#. [toggle_button]: id=fog
+#: data/gui/default/window/mp_create_game.cfg:460
+msgid "Fog of war"
+msgstr ""
+
+#. [toggle_button]: id=random_start_time
+#: data/gui/default/window/mp_create_game.cfg:501
+msgid "Random start time"
+msgstr "무작위 시작 시간대"
+
+#. [button]: id=ok
+#: data/gui/default/window/mp_create_game.cfg:543
+msgid "Create game"
+msgstr ""
+
+#. [scroll_label]: id=message
+#: data/gui/default/window/mp_create_game_set_password.cfg:61
+msgid ""
+"Set the password that people wanting to join your game as players must enter."
+msgstr "당신이 원하는 사람만이 플레이어로 들어올 수 있게 암호를 설정합니다."
+
+#. [label]
+#: data/gui/default/window/mp_create_game_set_password.cfg:90
+#: data/gui/default/window/mp_login.cfg:144
+msgid "Password:"
+msgstr "암호:"
+
+#. [window]: id=mp_login
+#: data/gui/default/window/mp_login.cfg:8
+msgid "Multiplayer server login dialog"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/mp_login.cfg:41
+msgid "Login"
+msgstr "로그인"
+
+#. [label]
+#: data/gui/default/window/mp_login.cfg:91
+#: data/gui/default/window/mp_method_selection.cfg:69
+msgid "Login:"
+msgstr "아이디:"
+
+#. [toggle_button]: id=remember_password
+#: data/gui/default/window/mp_login.cfg:200
+msgid "Save password to preferences (clear text)"
+msgstr ""
+
+#. [button]: id=password_reminder
+#: data/gui/default/window/mp_login.cfg:258
+msgid "Password Reminder"
+msgstr "암호 기억해내기"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#. [grid]
+#: data/gui/default/window/mp_method_selection.cfg:39
+#: data/gui/default/window/title_screen.cfg:225
+#: src/gui/dialogs/game_load.cpp:301
+msgid "Multiplayer"
+msgstr "멀티플레이"
+
+#. [text_box]: id=user_name
+#: data/gui/default/window/mp_method_selection.cfg:90
+msgid ""
+"You may login to the official multiplayer server with your forum username "
+"and password.\n"
+"Note that registration is not required to join the server: you need to "
+"supply a password only if you wish to use a registered username.\n"
+"\n"
+"The Battle for Wesnoth forum can be found at http://forums.wesnoth.org/"
+msgstr ""
+"당신은 공식 멀티플레이 서버에 당신의 포럼 아이디와 암호로 접속할 수 있습니"
+"다.\n"
+"서버에 들어가려고 꼭 가입할 필요는 없습니다. 포럼에 등록된 아이디로 접속할때 "
+"외에는 암호는 필요없습니다.\n"
+"\n"
+"Battle for Wesnoth 포럼 주소는 http://www.wesnoth.org/forum/"
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:146
+msgid "Join Official Server"
+msgstr "공식 서버 접속"
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:147
+msgid "Log on to the official Wesnoth multiplayer server"
+msgstr "공식 Wesnoth 멀티플레이 서버에 접속합니다"
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:157
+msgid "Join a different server"
+msgstr "다른 서버 접속"
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:166
+msgid "Host Networked Game"
+msgstr "네트워크 게임 열기"
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:167
+msgid "Host a game using dedicated server ‘wesnothd’"
+msgstr "전용 서버 'wesnothd'를 통해 게임 호스트가 됩니다."
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:176
+msgid "Local Game"
+msgstr "혼자 놀기"
+
+#. [column]
+#: data/gui/default/window/mp_method_selection.cfg:177
+msgid "Play a multiplayer game with the AI or humans sharing the same machine"
+msgstr "인공지능 혹은 같은 기계를 공유하는 사람들과 게임을 합니다"
+
+#. [label]: id=address
+#: data/gui/default/window/mp_server_list.cfg:121
+msgid "Address"
+msgstr "주소"
+
+#. [button]: id=ok
+#: data/gui/default/window/mp_server_list.cfg:223
+msgid "Select"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [button]: id=help
+#: data/gui/default/window/title_screen.cfg:146 src/hotkeys.cpp:202
+msgid "Help"
+msgstr "도움말"
+
+#. [button]: id=help
+#: data/gui/default/window/title_screen.cfg:147
+msgid "Show Battle for Wesnoth help"
+msgstr "Battle for Wesnoth 도움말을 봅니다"
+
+#. [button]: id=previous_tip
+#: data/gui/default/window/title_screen.cfg:163
+msgid "Show previous tip of the day"
+msgstr "이전의 오늘의 팁을 보여줍니다"
+
+#. [button]: id=next_tip
+#: data/gui/default/window/title_screen.cfg:178
+msgid "Show next tip of the day"
+msgstr "다음의 오늘의 팁을 보여줍니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:223
+msgid "Start a tutorial to familiarize yourself with the game"
+msgstr "게임에 익숙해지기 위한 연습 게임을 시작합니다"
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:223
+#: src/gui/dialogs/game_load.cpp:303
+msgid "Tutorial"
+msgstr "연습 게임"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:224
+msgid "Campaign"
+msgstr "캠페인"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:224
+msgid "Start a new single player campaign"
+msgstr "새로운 1인용 캠페인을 시작합니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:225
+msgid ""
+"Play multiplayer (hotseat, LAN, or Internet), or a single scenario against "
+"the AI"
+msgstr ""
+"멀티플레이 (핫시트, 랜 또는 인터넷)나 인공지능과의 1인용 시나리오를 플레이합"
+"니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:226
+msgid "Load"
+msgstr "불러오기"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:226
+msgid "Load a saved game"
+msgstr "저장된 게임을 불러옵니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:227
+msgid "Add-ons"
+msgstr "추가 기능"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:227
+msgid "Download usermade campaigns, eras, or map packs"
+msgstr "다른 사람이 만든 캠페인, 시대 혹은 맵 모음집을 다운받습니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:228
+msgid "Map Editor"
+msgstr "맵 에디터"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:228
+msgid "Start the map editor"
+msgstr "맵 에디터를 엽니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:229
+msgid "Change the language"
+msgstr "적용 언어를 변경합니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:230
+msgid "Configure the game’s settings"
+msgstr "게임 환경을 설정합니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:231
+msgid "Credits"
+msgstr "만든 이들"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:231
+msgid "View the credits"
+msgstr "스탭롤을 봅니다"
+
+#. [grid]
+#: data/gui/default/window/title_screen.cfg:232
+msgid "Quit the game"
+msgstr "게임을 종료합니다"
+
+#. [button]: id=ok
+#: data/gui/default/window/unit_attack.cfg:195
+msgid "Attack"
+msgstr ""
+
+#. [label]
+#: data/gui/default/window/unit_attack.cfg:263
+msgid "Attack enemy"
+msgstr ""
+
+#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
+#. [label]
+#: data/gui/default/window/unit_create.cfg:45 src/hotkeys.cpp:86
+msgid "Create Unit (Debug!)"
+msgstr "유닛 창조 (디버그!)"
+
+#. [label]
+#: data/gui/default/window/unit_create.cfg:67
+msgid "Gender:"
+msgstr ""
+
+#. [toggle_button]: id=male_toggle
+#: data/gui/default/window/unit_create.cfg:77
+msgid "Male"
+msgstr ""
+
+#. [toggle_button]: id=female_toggle
+#: data/gui/default/window/unit_create.cfg:87
+msgid "Female"
+msgstr ""
+
+#. [label]: id=race
+#: data/gui/default/window/unit_create.cfg:119
+msgid "Race"
+msgstr ""
+
+#: src/filechooser.cpp:77
+msgid "File: "
+msgstr "파일명: "
+
+#: src/filechooser.cpp:80
+msgid "Delete File"
+msgstr "파일 삭제"
+
+#: src/filechooser.cpp:196
+msgid "Deletion of the file failed."
+msgstr ""
+
+#: src/filechooser.cpp:212
+msgid "Creation of the directory failed."
+msgstr ""
+
+#: src/game_preferences.cpp:315
+msgid "No server has been defined."
+msgstr ""
+
+#: src/game_preferences.cpp:395
+msgid "player"
+msgstr ""
+
+#: src/game_preferences.cpp:837
+msgid "%H:%M"
+msgstr ""
+
+#: src/game_preferences.cpp:840
+msgid "%I:%M %p"
+msgstr ""
+
+#: src/game_preferences_display.cpp:173
+msgid "Full screen"
+msgstr "전체 화면"
+
+#: src/game_preferences_display.cpp:174
+msgid "Accelerated speed"
+msgstr "가속"
+
+#: src/game_preferences_display.cpp:175
+msgid "Skip AI moves"
+msgstr "AI 움직임 생략"
+
+#: src/game_preferences_display.cpp:176
+msgid "Interrupt move when an ally is sighted"
+msgstr "동맹군이 보일 때 이동 정지"
+
+#: src/game_preferences_display.cpp:177
+msgid "Show grid"
+msgstr "격자 표시"
+
+#: src/game_preferences_display.cpp:178
+msgid "Save replay on SP/MP victory or MP defeat"
+msgstr "싱글/멀티플레이 승리시나 멀티플레이 패배시 리플레이 저장"
+
+#: src/game_preferences_display.cpp:179
+msgid "Delete auto-saves on SP/MP victory or MP defeat"
+msgstr "싱글/멀티플레이 승리시나 멀티플레이 패배시 자동저장파일 삭제"
+
+#: src/game_preferences_display.cpp:180
+msgid "Do not show lobby joins"
+msgstr "로비 입장 메세지 보이지 않기"
+
+#: src/game_preferences_display.cpp:181
+msgid "Show lobby joins of friends only"
+msgstr "친구가 로비에 들어올 때만 메세지 보이기"
+
+#: src/game_preferences_display.cpp:182
+msgid "Show all lobby joins"
+msgstr "로비 입장 메세지 보이기"
+
+#: src/game_preferences_display.cpp:183
+msgid "Use new lobby interface"
+msgstr "새 로비 인터페이스 쓰기"
+
+#: src/game_preferences_display.cpp:184
+msgid "Sort lobby list"
+msgstr "로비 목록 정렬"
+
+#: src/game_preferences_display.cpp:185
+msgid "Iconize lobby list"
+msgstr "로비 목록에 아이콘 쓰기"
+
+#: src/game_preferences_display.cpp:186
+msgid "Save password to preferences (plain text)"
+msgstr ""
+
+#: src/game_preferences_display.cpp:187
+msgid "Set Path to wesnothd"
+msgstr "wesnothd가 있는 위치 설정"
+
+#: src/game_preferences_display.cpp:188
+msgid "Friends List"
+msgstr "친구 목록"
+
+#: src/game_preferences_display.cpp:189
+msgid "Multiplayer Options"
+msgstr "멀티플레이 설정"
+
+#: src/game_preferences_display.cpp:190
+msgid "Add As Friend"
+msgstr "친구로 추가"
+
+#: src/game_preferences_display.cpp:191
+msgid "Add As Ignore"
+msgstr "무시자로 추가"
+
+#: src/game_preferences_display.cpp:193
+msgid "Show floating labels"
+msgstr "띄워진 딱지 보이기"
+
+#: src/game_preferences_display.cpp:194
+msgid "Turn dialog"
+msgstr "자기 턴일때 메세지 출력"
+
+#: src/game_preferences_display.cpp:195
+msgid "Enable planning mode on start"
+msgstr "처음부터 계획 모드 활성화"
+
+#: src/game_preferences_display.cpp:196
+msgid "Hide allies’ plans by default"
+msgstr "기본적으로 동맹측 계획을 숨김"
+
+#: src/game_preferences_display.cpp:197
+msgid "Turn bell"
+msgstr "벨 켜기"
+
+#: src/game_preferences_display.cpp:198
+msgid "Show team colors"
+msgstr "팀 색 표시"
+
+#: src/game_preferences_display.cpp:199
+msgid "Show color cursors"
+msgstr "커서 색 표시"
+
+#: src/game_preferences_display.cpp:200
+msgid "Show haloing effects"
+msgstr "광휘 효과 보이기"
+
+#: src/game_preferences_display.cpp:201
+msgid "Change Resolution"
+msgstr "해상도 변경"
+
+#: src/game_preferences_display.cpp:202
+msgid "Theme"
+msgstr "테마"
+
+#: src/game_preferences_display.cpp:203
+msgid "Hotkeys"
+msgstr "단축키"
+
+#: src/game_preferences_display.cpp:205
+msgid "Sound effects"
+msgstr "음향 효과"
+
+#: src/game_preferences_display.cpp:206
+msgid "Music"
+msgstr "음악"
+
+#: src/game_preferences_display.cpp:207
+msgid "Chat timestamping"
+msgstr "채팅 시간 표시"
+
+#: src/game_preferences_display.cpp:208
+msgid "sound^Advanced Options"
+msgstr "고급 설정"
+
+#: src/game_preferences_display.cpp:209
+msgid "sound^Standard Options"
+msgstr "기본 설정"
+
+#: src/game_preferences_display.cpp:210
+msgid "User interface sounds"
+msgstr "유저 인터페이스 사운드"
+
+#: src/game_preferences_display.cpp:213
+msgid "Custom"
+msgstr "임의 설정"
+
+#: src/game_preferences_display.cpp:215
+msgid "Show unit idle animations"
+msgstr "유닛의 빈둥대기 애니메이션 보이기"
+
+#: src/game_preferences_display.cpp:216
+msgid "Show unit standing animations"
+msgstr "유닛의 정지 애니메이션 보이기"
+
+#: src/game_preferences_display.cpp:217
+msgid "Animate map"
+msgstr "맵의 움직임 보기"
+
+#: src/game_preferences_display.cpp:219 src/game_preferences_display.cpp:220
+#: src/game_preferences_display.cpp:221 src/game_preferences_display.cpp:222
+msgid "Volume:"
+msgstr "음량:"
+
+#: src/game_preferences_display.cpp:224
+msgid "Scroll speed:"
+msgstr "스크롤 속도:"
+
+#: src/game_preferences_display.cpp:227
+msgid "Sample rate (Hz):"
+msgstr "샘플 주파수 (Hz):"
+
+#: src/game_preferences_display.cpp:228
+msgid "Frequency:"
+msgstr "빈도:"
+
+#: src/game_preferences_display.cpp:251
+msgid "Sound effects on/off"
+msgstr "효과음을 켜고 끕니다"
+
+#: src/game_preferences_display.cpp:255
+msgid "Change the sound effects volume"
+msgstr "효과음 음량을 변경합니다"
+
+#: src/game_preferences_display.cpp:258
+msgid "Music on/off"
+msgstr "음악을 켜고 끕니다"
+
+#: src/game_preferences_display.cpp:262
+msgid "Change the music volume"
+msgstr "음악의 음량을 변경합니다"
+
+#: src/game_preferences_display.cpp:268
+msgid "Change the bell volume"
+msgstr "벨 음량을 변경합니다"
+
+#: src/game_preferences_display.cpp:271
+msgid "Turn menu and button sounds on/off"
+msgstr "메뉴 및 버튼 효과음을 켜고 끕니다"
+
+#: src/game_preferences_display.cpp:275
+msgid "Change the sound volume for button clicks, etc."
+msgstr "버튼 클릭 등의 음량을 변경합니다"
+
+#: src/game_preferences_display.cpp:277
+msgid "Change the sample rate"
+msgstr "샘플 주파수를 변경합니다"
+
+#: src/game_preferences_display.cpp:286
+msgid "User defined sample rate"
+msgstr "유저 지정의 샘플 주파수"
+
+#: src/game_preferences_display.cpp:295 src/game_preferences_display.cpp:299
+msgid "Change the buffer size"
+msgstr "버퍼 크기를 변경합니다"
+
+#: src/game_preferences_display.cpp:297 src/game_preferences_display.cpp:896
+msgid "Buffer size: "
+msgstr "버퍼 크기: "
+
+#: src/game_preferences_display.cpp:304
+msgid "Change the speed of scrolling around the map"
+msgstr "맵 스크롤 속도를 조정합니다"
+
+#: src/game_preferences_display.cpp:309 src/game_preferences_display.cpp:311
+msgid "Set the amount of chat lines shown"
+msgstr ""
+
+#: src/game_preferences_display.cpp:314
+msgid "Add a timestamp to chat messages"
+msgstr ""
+
+#: src/game_preferences_display.cpp:317
+msgid "Choose whether the game should run full screen or in a window"
+msgstr "게임을 전체화면으로 할지 윈도우 모드로 할지 선택합니다"
+
+#: src/game_preferences_display.cpp:320
+msgid "Make units move and fight faster"
+msgstr "유닛의 이동과 전투 속도를 가속합니다"
+
+#: src/game_preferences_display.cpp:339
+msgid "Units move and fight speed"
+msgstr "유닛의 이동과 전투 속도"
+
+#: src/game_preferences_display.cpp:342
+msgid "Play short random animations for idle units"
+msgstr "움직이지 않는 유닛의 짧은 무작위 애니메이션을 실행합니다"
+
+#: src/game_preferences_display.cpp:345
+msgid "Continuously animate standing units in the battlefield"
+msgstr "전장에서 서 있는 유닛의 정지 애니메이션을 계속 보여줍니다"
+
+#: src/game_preferences_display.cpp:348
+msgid "Display animated terrain graphics"
+msgstr "동화처리된 지형 그래픽을 보여줍니다"
+
+#: src/game_preferences_display.cpp:354
+msgid "Set the frequency of unit idle animations"
+msgstr "유닛의 빈둥대기 애니메이션의 빈도를 설정합니다"
+
+#: src/game_preferences_display.cpp:359
+msgid "Set maximum number of automatic saves to be retained"
+msgstr "자동 저장 파일의 최대 보존 갯수를 설정합니다"
+
+#: src/game_preferences_display.cpp:363
+msgid "Do not animate AI units moving"
+msgstr "인공지능 유닛의 움직임을 보여주지 않습니다"
+
+#: src/game_preferences_display.cpp:366
+msgid "Sighting an allied unit interrupts your unit’s movement"
+msgstr ""
+
+#: src/game_preferences_display.cpp:369
+msgid "Save Replay on SP/MP Victory or MP Defeat"
+msgstr "싱글/멀티플레이 승리시나 멀티플레이 패배시 리플레이 저장"
+
+#: src/game_preferences_display.cpp:372
+msgid "Delete Auto-Saves on SP/MP Victory or MP Defeat"
+msgstr "싱글/멀티플레이 승리시나 멀티플레이 패배시 자동저장파일 삭제"
+
+#: src/game_preferences_display.cpp:374
+msgid "Overlay a grid onto the map"
+msgstr ""
+
+#: src/game_preferences_display.cpp:377
+msgid "Sort the player list in the lobby by player groups"
+msgstr ""
+
+#: src/game_preferences_display.cpp:380
+msgid "Show icons in front of the player names in the lobby."
+msgstr ""
+
+#: src/game_preferences_display.cpp:383
+msgid "Uncheck to delete the saved password (on exit)."
+msgstr ""
+
+#: src/game_preferences_display.cpp:387
+msgid "Do not show messages about players joining the multiplayer lobby"
+msgstr ""
+
+#: src/game_preferences_display.cpp:389
+msgid "Show messages about your friends joining the multiplayer lobby"
+msgstr ""
+
+#: src/game_preferences_display.cpp:391
+msgid "Show messages about all players joining the multiplayer lobby"
+msgstr ""
+
+#: src/game_preferences_display.cpp:394
+msgid "Use New Lobby Interface"
+msgstr "새로운 로비 인터페이스 쓰기"
+
+#: src/game_preferences_display.cpp:396
+msgid "Find and set path to MP server to host LAN games."
+msgstr ""
+
+#: src/game_preferences_display.cpp:397
+msgid "View and edit your friends and ignores list"
+msgstr ""
+
+#: src/game_preferences_display.cpp:398
+msgid "Back to the multiplayer options"
+msgstr ""
+
+#: src/game_preferences_display.cpp:399
+msgid "Add this username to your friends list"
+msgstr "이 사용자를 친구목록에 추가"
+
+#: src/game_preferences_display.cpp:400
+msgid "Add this username to your ignores list"
+msgstr "이 사용자를 무시목록에 추가"
+
+#: src/game_preferences_display.cpp:401
+msgid "Remove this username from your list"
+msgstr ""
+
+#: src/game_preferences_display.cpp:404
+msgid "Insert a username"
+msgstr ""
+
+#: src/game_preferences_display.cpp:407
+msgid "Show text above a unit when it is hit to display damage inflicted"
+msgstr ""
+
+#: src/game_preferences_display.cpp:409
+msgid "Change the resolution the game runs at"
+msgstr "게임 실행시의 해상도를 변경합니다"
+
+#: src/game_preferences_display.cpp:410
+msgid "Change the theme the game runs with"
+msgstr "게임 실행시의 테마를 바꿉니다"
+
+#: src/game_preferences_display.cpp:413
+msgid "Display a dialog at the beginning of your turn"
+msgstr ""
+
+#: src/game_preferences_display.cpp:416
+msgid "Activates Planning Mode on game start"
+msgstr ""
+
+#: src/game_preferences_display.cpp:419
+msgid "Hides allies’ Planning Mode plans in multiplayer games"
+msgstr ""
+
+#: src/game_preferences_display.cpp:422
+msgid "Play a bell sound at the beginning of your turn"
+msgstr "턴의 시작시 울리는 벨소리를 켜고 끕니다"
+
+#: src/game_preferences_display.cpp:425
+msgid ""
+"Show a colored circle around the base of each unit to show which side it is "
+"on"
+msgstr ""
+
+#: src/game_preferences_display.cpp:428
+msgid "Use colored mouse cursors (may be slower)"
+msgstr "마우스 색 표시 (약간 느려짐)"
+
+#: src/game_preferences_display.cpp:431
+msgid "Use graphical special effects (may be slower)"
+msgstr "특수 그래픽 효과 사용 (약간 느려질 수 있음)"
+
+#: src/game_preferences_display.cpp:433
+msgid "View and configure keyboard shortcuts"
+msgstr "키보드 단축키를 확인하고 설정합니다"
+
+#: src/game_preferences_display.cpp:760
+msgid "Speed: "
+msgstr "배속: "
+
+#: src/game_preferences_display.cpp:765 src/game_preferences_display.cpp:767
+msgid "Maximum auto-saves: "
+msgstr "최대 자동 저장 수: "
+
+#: src/game_preferences_display.cpp:765
+msgid "infinite"
+msgstr "무한정"
+
+#: src/game_preferences_display.cpp:950
+msgid "Chat lines: "
+msgstr "줄 수:"
+
+#: src/game_preferences_display.cpp:972 src/game_preferences_display.cpp:980
+msgid "Invalid username"
+msgstr "유효하지 않은 이름입니다"
+
+#: src/game_preferences_display.cpp:1083
+msgid "yes"
+msgstr "예"
+
+#: src/game_preferences_display.cpp:1085
+msgid "no"
+msgstr "아니오"
+
+#: src/game_preferences_display.cpp:1119
+msgid "friend"
+msgstr "친구"
+
+#: src/game_preferences_display.cpp:1125
+msgid "ignored"
+msgstr "무시자"
+
+#: src/game_preferences_display.cpp:1129
+msgid "(empty list)"
+msgstr "(목록이 비었음)"
+
+#: src/game_preferences_display.cpp:1254
+msgid "Prefs section^General"
+msgstr "일반"
+
+#: src/game_preferences_display.cpp:1255
+msgid "Prefs section^Display"
+msgstr "디스플레이"
+
+#: src/game_preferences_display.cpp:1256
+msgid "Prefs section^Sound"
+msgstr "소리"
+
+#: src/game_preferences_display.cpp:1257
+msgid "Prefs section^Multiplayer"
+msgstr "멀티플레이"
+
+#: src/game_preferences_display.cpp:1258
+msgid "Advanced section^Advanced"
+msgstr "고급"
+
+#: src/game_preferences_display.cpp:1292
+msgid "Choose Theme"
+msgstr "테마 선택"
+
+#: src/game_preferences_display.cpp:1307
+msgid "New theme will take effect on next new or loaded game."
+msgstr "새 테마는 다음 새 게임 혹은 불러온 게임부터 적용됩니다."
+
+#: src/game_preferences_display.cpp:1311
+msgid "No known themes. Try changing from within an existing game."
+msgstr ""
+
+#: src/game_preferences_display.cpp:1354
+msgid "Find $filename server binary to host networked games"
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:596
+msgid "Line doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:735
+msgid "Rectangle doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:868 src/gui/auxiliary/canvas.cpp:873
+#: src/gui/auxiliary/canvas.cpp:878 src/gui/auxiliary/canvas.cpp:884
+msgid "Circle doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:1070 src/gui/auxiliary/canvas.cpp:1077
+#: src/gui/auxiliary/canvas.cpp:1087 src/gui/auxiliary/canvas.cpp:1094
+msgid "Image doesn't fit on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:1302
+msgid "Text has a font size of 0."
+msgstr ""
+
+#: src/gui/auxiliary/canvas.cpp:1371
+msgid "Text doesn't start on canvas."
+msgstr ""
+
+#: src/gui/auxiliary/widget_definition.cpp:147
+#: src/gui/auxiliary/window_builder.cpp:240
+msgid "No resolution defined."
+msgstr ""
+
+#: src/gui/auxiliary/widget_definition/listbox.cpp:116
+#: src/gui/auxiliary/widget_definition/multi_page.cpp:61
+#: src/gui/auxiliary/widget_definition/scroll_label.cpp:85
+#: src/gui/auxiliary/widget_definition/scrollbar_panel.cpp:68
+#: src/gui/auxiliary/widget_definition/stacked_widget.cpp:64
+#: src/gui/auxiliary/widget_definition/tree_view.cpp:69
+#: src/gui/auxiliary/window_builder.cpp:371
+#: src/gui/auxiliary/window_builder/panel.cpp:36
+#: src/gui/auxiliary/window_builder/toggle_panel.cpp:39
+msgid "No grid defined."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder.cpp:163
+msgid "Linked '$id' group has multiple definitions."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder.cpp:402
+msgid "Linked '$id' group needs a 'fixed_width' or 'fixed_height' key."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder.cpp:527
+msgid "A row must have a column."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder.cpp:528
+msgid "Number of columns differ."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/control.cpp:49
+msgid "Found a widget with a helptip and without a tooltip."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/horizontal_listbox.cpp:47
+#: src/gui/auxiliary/window_builder/listbox.cpp:58
+#: src/gui/auxiliary/window_builder/scrollbar_panel.cpp:42
+msgid "No list defined."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/horizontal_listbox.cpp:51
+#: src/gui/auxiliary/window_builder/listbox.cpp:62
+msgid "A 'list_definition' should contain one row."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/horizontal_listbox.cpp:67
+#: src/gui/auxiliary/window_builder/listbox.cpp:81
+#: src/gui/auxiliary/window_builder/multi_page.cpp:61
+msgid ""
+"'list_data' must have the same number of columns as the 'list_definition'."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/multi_page.cpp:39
+msgid "No page defined."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/slider.cpp:66
+msgid "The number of value_labels and values don't match."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/stacked_widget.cpp:37
+msgid "No stack defined."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/tree_view.cpp:46
+msgid "No nodes defined for a tree view."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/tree_view.cpp:86
+msgid "[node]id 'root' is reserved for the implementation."
+msgstr ""
+
+#: src/gui/auxiliary/window_builder/tree_view.cpp:90
+msgid "No node defined."
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:274
+msgid "#(Invalid)"
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:294
+msgid "Campaign: $campaign_name"
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:305
+msgid "Test scenario"
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:313
+#, fuzzy
+#| msgid "Save Replay"
+msgid "Replay"
+msgstr "리플레이 저장"
+
+#: src/gui/dialogs/game_load.cpp:315
+msgid "Turn"
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:317
+#, fuzzy
+#| msgid "Scenario Objectives"
+msgid "Scenario start"
+msgstr "시나리오 목표"
+
+#: src/gui/dialogs/game_load.cpp:320
+msgid "Difficulty: "
+msgstr ""
+
+#: src/gui/dialogs/game_load.cpp:324
+msgid "Version: "
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:230
+msgid "whisper to $receiver"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:662
+msgid "Games: showing $num_shown out of $num_total"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:705
+msgid "Observers allowed"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:708
+msgid "Observers not allowed"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1107
+msgid ""
+"Whisper session with $name started. If you don’t want to receive messages "
+"from this user, type /ignore $name\n"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1113
+msgid "Room $name joined"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1420
+msgid "$player has entered the room"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1458
+msgid "$player has left the room"
+msgstr ""
+
+#: src/gui/dialogs/lobby_main.cpp:1571
+msgid "Password Required"
+msgstr "비밀방"
+
+#: src/gui/dialogs/lobby_main.cpp:1572
+msgid "Joining this game requires a password."
+msgstr "이 방에 들어가려면 암호를 입력하세요."
+
+#: src/gui/dialogs/lobby_main.cpp:1573
+msgid "Password: "
+msgstr "암호:"
+
+#: src/gui/dialogs/message.cpp:190 src/gui/dialogs/transient_message.cpp:62
+msgid "Error"
+msgstr "에러"
+
+#: src/gui/dialogs/mp_change_control.cpp:244
+msgid "Side $side"
+msgstr ""
+
+#: src/gui/dialogs/mp_create_game.cpp:96
+msgid "Load Game..."
+msgstr ""
+
+#: src/gui/dialogs/network_transmission.cpp:55
+#: src/gui/dialogs/network_transmission.cpp:57 src/hotkeys.cpp:1178
+msgid "unit_byte^B"
+msgstr ""
+
+#: src/gui/dialogs/title_screen.cpp:296
+msgid "Version "
+msgstr ""
+
+#: src/gui/dialogs/title_screen.cpp:299
+msgid "Version"
+msgstr ""
+
+#: src/gui/widgets/helper.cpp:137
+msgid "Mandatory widget '$id' hasn't been defined."
+msgstr ""
+
+#: src/gui/widgets/settings.cpp:440
+msgid ""
+"Widget definition '$definition' doesn't contain the definition for '$id'."
+msgstr ""
+
+#: src/gui/widgets/settings.cpp:506
+msgid "No default gui defined."
+msgstr ""
+
+#: src/gui/widgets/settings.cpp:536
+msgid "No state or draw section defined."
+msgstr ""
+
+#: src/gui/widgets/tree_view_node.cpp:103
+msgid "Unknown builder id for tree view node."
+msgstr ""
+
+#: src/gui/widgets/window.cpp:924
+msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
+msgstr ""
+
+#: src/gui/widgets/window.cpp:949 src/gui/widgets/window.cpp:989
+#: src/tests/gui/test_gui2.cpp:432
+msgid "Failed to show a dialog, which doesn't fit on the screen."
+msgstr ""
+
+#: src/hotkeys.cpp:53
+msgid "Left Mouse Click"
+msgstr "마우스 왼쪽클릭"
+
+#: src/hotkeys.cpp:54
+msgid "Right Mouse Click"
+msgstr "마우스 오른클릭"
+
+#: src/hotkeys.cpp:55
+msgid "Animate Map"
+msgstr "맵의 움직임 보기"
+
+#: src/hotkeys.cpp:56
+msgid "Next Unit"
+msgstr "다음 유닛"
+
+#: src/hotkeys.cpp:57
+msgid "Previous Unit"
+msgstr "이전 유닛"
+
+#: src/hotkeys.cpp:58
+msgid "Hold Position"
+msgstr "위치 고수"
+
+#: src/hotkeys.cpp:59
+msgid "End Unit Turn"
+msgstr "유닛 행동 완료"
+
+#: src/hotkeys.cpp:60
+msgid "Leader"
+msgstr "리더"
+
+#: src/hotkeys.cpp:61
+msgid "Undo"
+msgstr "무르기"
+
+#: src/hotkeys.cpp:62
+msgid "Redo"
+msgstr "다시 놓기"
+
+#: src/hotkeys.cpp:63
+msgid "Zoom In"
+msgstr "화면 확대"
+
+#: src/hotkeys.cpp:64
+msgid "Zoom Out"
+msgstr "화면 축소"
+
+#: src/hotkeys.cpp:65
+msgid "Default Zoom"
+msgstr "기본 화면"
+
+#: src/hotkeys.cpp:66
+msgid "Toggle Full Screen"
+msgstr "전체 화면 전환"
+
+#: src/hotkeys.cpp:67 src/hotkeys.cpp:1172
+msgid "Screenshot"
+msgstr "스크린 샷"
+
+#: src/hotkeys.cpp:68
+msgid "Map Screenshot"
+msgstr "맵 스크린샷"
+
+#: src/hotkeys.cpp:69
+msgid "Accelerated"
+msgstr "가속 켜기/끄기"
+
+#: src/hotkeys.cpp:70
+msgid "Unit Description"
+msgstr "유닛 설명"
+
+#: src/hotkeys.cpp:71
+msgid "Rename Unit"
+msgstr "이름 붙이기"
+
+#: src/hotkeys.cpp:73
+msgid "Save Replay"
+msgstr "리플레이 저장"
+
+#: src/hotkeys.cpp:74 src/hotkeys.cpp:128
+msgid "Save Map"
+msgstr "맵 저장"
+
+#: src/hotkeys.cpp:76
+msgid "Recruit"
+msgstr "소집"
+
+#: src/hotkeys.cpp:77
+msgid "Repeat Recruit"
+msgstr "소집 반복"
+
+#: src/hotkeys.cpp:78
+msgid "Recall"
+msgstr "재소집"
+
+#: src/hotkeys.cpp:79
+msgid "End Turn"
+msgstr "턴 끝내기"
+
+#: src/hotkeys.cpp:80
+msgid "Toggle Ellipses"
+msgstr "토글 키 무시"
+
+#: src/hotkeys.cpp:81
+msgid "Toggle Grid"
+msgstr "격자 표시"
+
+#: src/hotkeys.cpp:82
+msgid "Mouse Scrolling"
+msgstr "마우스 화면이동"
+
+#: src/hotkeys.cpp:83
+msgid "Status Table"
+msgstr "상태 창"
+
+#: src/hotkeys.cpp:84
+msgid "Mute"
+msgstr "음소거"
+
+#: src/hotkeys.cpp:85
+msgid "Speak"
+msgstr "말하기"
+
+#: src/hotkeys.cpp:87
+msgid "Change Side (Debug!)"
+msgstr "진영 변경 (디버그!)"
+
+#: src/hotkeys.cpp:89
+msgid "Scenario Objectives"
+msgstr "시나리오 목표"
+
+#: src/hotkeys.cpp:90
+msgid "Unit List"
+msgstr "유닛 목록"
+
+#: src/hotkeys.cpp:91
+msgid "Statistics"
+msgstr "통계"
+
+#: src/hotkeys.cpp:92
+msgid "Pause Network Game"
+msgstr "게임 일시정지"
+
+#: src/hotkeys.cpp:93
+msgid "Continue Network Game"
+msgstr "게임 계속 플레이"
+
+#: src/hotkeys.cpp:95
+msgid "Set Team Label"
+msgstr "팀 딱지 붙이기"
+
+#: src/hotkeys.cpp:96
+msgid "Set Label"
+msgstr "딱지 붙이기"
+
+#: src/hotkeys.cpp:97
+msgid "Clear Labels"
+msgstr "딱지 삭제"
+
+#: src/hotkeys.cpp:98
+msgid "Show Enemy Moves"
+msgstr "적의 움직임 표시"
+
+#: src/hotkeys.cpp:99
+msgid "Best Possible Enemy Moves"
+msgstr "최선의 적의 움직임"
+
+#: src/hotkeys.cpp:100
+msgid "Play Replay"
+msgstr "리플레이 재생"
+
+#: src/hotkeys.cpp:101
+#, fuzzy
+#| msgid "Save Replay"
+msgid "Reset Replay"
+msgstr "리플레이 저장"
+
+#: src/hotkeys.cpp:102
+msgid "Stop Replay"
+msgstr "리플레이 중단"
+
+#: src/hotkeys.cpp:103
+msgid "Next Turn"
+msgstr "다음 턴"
+
+#: src/hotkeys.cpp:104
+msgid "Next Side"
+msgstr "다음 진영"
+
+#: src/hotkeys.cpp:106
+msgid "Full Map"
+msgstr "모든 맵 밝히기"
+
+#: src/hotkeys.cpp:108
+msgid "Each Team"
+msgstr "각 팀 시야로 보기"
+
+#: src/hotkeys.cpp:110
+msgid "Team 1"
+msgstr "팀 1 시야로 보기"
+
+#: src/hotkeys.cpp:111
+msgid "Skip Animation"
+msgstr "애니메이션 생략"
+
+#: src/hotkeys.cpp:113
+#, fuzzy
+#| msgid "Enable Planning Mode on Start"
+msgid "Toggle Planning Mode"
+msgstr "처음부터 계획 모드 활성화"
+
+#: src/hotkeys.cpp:114
+msgid "Execute Planned Action"
+msgstr "계획된 행동 실행"
+
+#: src/hotkeys.cpp:115
+msgid "Execute All Actions"
+msgstr "모든 행동을 실행"
+
+#: src/hotkeys.cpp:116
+msgid "Delete Planned Action"
+msgstr "계획된 행동 삭제"
+
+#: src/hotkeys.cpp:117
+msgid "Move Action Up Queue"
+msgstr "해당 행동의 순위를 올림"
+
+#: src/hotkeys.cpp:118
+msgid "Move Action Down Queue"
+msgstr "해당 행동의 순위를 내림"
+
+#: src/hotkeys.cpp:119
+msgid "Suppose Dead"
+msgstr "죽은 걸로 친다"
+
+#: src/hotkeys.cpp:121
+msgid "Quit to Desktop"
+msgstr "프로그램 종료"
+
+#: src/hotkeys.cpp:122
+msgid "Close Map"
+msgstr "맵 닫기"
+
+#: src/hotkeys.cpp:123
+msgid "Switch Map"
+msgstr ""
+
+#: src/hotkeys.cpp:125
+msgid "Partial Undo"
+msgstr ""
+
+#: src/hotkeys.cpp:127
+msgid "Load Map"
+msgstr "맵 불러오기"
+
+#: src/hotkeys.cpp:129
+msgid "Save Map As"
+msgstr "다른 이름으로 맵 저장"
+
+#: src/hotkeys.cpp:130
+msgid "Save All Maps"
+msgstr "모든 맵을 저장"
+
+#: src/hotkeys.cpp:131
+msgid "Revert All Changes"
+msgstr ""
+
+#: src/hotkeys.cpp:132
+msgid "Map Information"
+msgstr ""
+
+#: src/hotkeys.cpp:134
+msgid "Swap Foreground/Background Terrains"
+msgstr ""
+
+#: src/hotkeys.cpp:135
+msgid "Next Tool"
+msgstr ""
+
+#: src/hotkeys.cpp:136
+msgid "Paint Tool"
+msgstr "칠하기 도구"
+
+#: src/hotkeys.cpp:137
+msgid "Fill Tool"
+msgstr "채우기 도구"
+
+#: src/hotkeys.cpp:138
+msgid "Selection Tool"
+msgstr "선택 도구"
+
+#: src/hotkeys.cpp:140
+msgid "Set Starting Positions Tool"
+msgstr "시작 지점 설정 도구"
+
+#: src/hotkeys.cpp:141
+msgid "Next Brush"
+msgstr ""
+
+#: src/hotkeys.cpp:142
+msgid "Default Brush"
+msgstr ""
+
+#: src/hotkeys.cpp:143
+msgid "Cut"
+msgstr "잘라내기"
+
+#: src/hotkeys.cpp:144
+msgid "Copy"
+msgstr "복사"
+
+#: src/hotkeys.cpp:145
+msgid "Paste"
+msgstr "붙여넣기"
+
+#: src/hotkeys.cpp:146
+msgid "Export Selected Coordinates to System Clipboard"
+msgstr ""
+
+#: src/hotkeys.cpp:148
+msgid "Select All"
+msgstr "모두 선택"
+
+#: src/hotkeys.cpp:150
+msgid "Select Inverse"
+msgstr ""
+
+#: src/hotkeys.cpp:152
+msgid "Select None"
+msgstr ""
+
+#: src/hotkeys.cpp:154
+msgid "Rotate Clipboard Clockwise"
+msgstr ""
+
+#: src/hotkeys.cpp:156
+msgid "Rotate Clipboard Counter-Clockwise"
+msgstr ""
+
+#: src/hotkeys.cpp:158
+msgid "Flip Clipboard Horizontally"
+msgstr ""
+
+#: src/hotkeys.cpp:160
+msgid "Flip Clipboard Vertically"
+msgstr ""
+
+#: src/hotkeys.cpp:162
+msgid "Rotate Selection"
+msgstr ""
+
+#: src/hotkeys.cpp:164
+msgid "Flip Selection"
+msgstr ""
+
+#: src/hotkeys.cpp:166
+msgid "Fill Selection"
+msgstr ""
+
+#: src/hotkeys.cpp:168
+msgid "Generate Tiles In Selection"
+msgstr ""
+
+#: src/hotkeys.cpp:170
+msgid "Randomize Tiles In Selection"
+msgstr ""
+
+#: src/hotkeys.cpp:174
+msgid "Rotate Map"
+msgstr ""
+
+#: src/hotkeys.cpp:176
+msgid "Generate Map"
+msgstr ""
+
+#: src/hotkeys.cpp:178
+msgid "Apply a Mask"
+msgstr ""
+
+#: src/hotkeys.cpp:180
+msgid "Create Mask"
+msgstr ""
+
+#: src/hotkeys.cpp:182
+msgid "Refresh Display"
+msgstr ""
+
+#: src/hotkeys.cpp:184
+msgid "Update Terrain Transitions"
+msgstr ""
+
+#: src/hotkeys.cpp:186
+msgid "Auto-update Terrain Transitions"
+msgstr ""
+
+#: src/hotkeys.cpp:188
+msgid "Refresh Image Cache"
+msgstr "이미지 파일 갱신"
+
+#: src/hotkeys.cpp:190
+msgid "Draw Hex Coordinates"
+msgstr ""
+
+#: src/hotkeys.cpp:192
+msgid "Draw Terrain Codes"
+msgstr ""
+
+#: src/hotkeys.cpp:196
+msgid "Delay Shroud Updates"
+msgstr "안개/장막 상태 갱신을 미룬다"
+
+#: src/hotkeys.cpp:197
+msgid "Update Shroud Now"
+msgstr "지금 안개/장막 상태를 갱신한다"
+
+#: src/hotkeys.cpp:198
+msgid "Continue Move"
+msgstr ""
+
+#: src/hotkeys.cpp:199
+msgid "Find Label or Unit"
+msgstr ""
+
+#: src/hotkeys.cpp:200
+msgid "Speak to Ally"
+msgstr "동맹에게만"
+
+#: src/hotkeys.cpp:201
+msgid "Speak to All"
+msgstr "모두에게"
+
+#: src/hotkeys.cpp:203
+msgid "View Chat Log"
+msgstr "채팅 기록 보기"
+
+#: src/hotkeys.cpp:206
+msgid "Enter User Command"
+msgstr ""
+
+#: src/hotkeys.cpp:207
+#, fuzzy
+#| msgid "Custom"
+msgid "Custom Command"
+msgstr "임의 설정"
+
+#: src/hotkeys.cpp:208
+msgid "Run Formula"
+msgstr ""
+
+#: src/hotkeys.cpp:209
+#, fuzzy
+#| msgid "Clear Labels"
+msgid "Clear Messages"
+msgstr "딱지 삭제"
+
+#: src/hotkeys.cpp:213
+msgid "Refresh WML"
+msgstr ""
+
+#: src/hotkeys.cpp:220
+msgid "Next Tip of the Day"
+msgstr "오늘의 팁 다음으로 넘기기"
+
+#: src/hotkeys.cpp:227
+msgid "Previous Tip of the Day"
+msgstr "오늘의 팁 이전으로 넘기기"
+
+#: src/hotkeys.cpp:234
+msgid "Start Tutorial"
+msgstr "연습 게임 시작하기"
+
+#: src/hotkeys.cpp:241
+msgid "Start Campaign"
+msgstr "캠페인 시작하기"
+
+#: src/hotkeys.cpp:248
+msgid "Start Multiplayer Game"
+msgstr "멀티플레이 시작하기"
+
+#: src/hotkeys.cpp:255
+msgid "Manage Add-ons"
+msgstr "추가 기능 메뉴 열기"
+
+#: src/hotkeys.cpp:262
+msgid "Start Editor"
+msgstr "맵 에디터 열기"
+
+#: src/hotkeys.cpp:269
+msgid "Show Credits"
+msgstr "만든 이들 보기"
+
+#: src/hotkeys.cpp:277
+msgid "Show Helptip"
+msgstr ""
+
+#: src/hotkeys.cpp:875 src/hotkeys.cpp:1220
+msgid "Do you really want to quit?"
+msgstr "정말로 종료하시겠습니까?"
+
+#: src/hotkeys.cpp:1172
+msgid "Map-Screenshot"
+msgstr ""
+
+#: src/hotkeys.cpp:1179 src/hotkeys.cpp:1181
+msgid "Screenshot done"
+msgstr ""
+
+#. TRANSLATORS: This is the language code which will be used
+#. to store and fetch localized non-textual resources, such as images,
+#. when they exist. Normally it is just the code of the PO file itself,
+#. e.g. "de" of de.po for German. But it can also be a comma-separated
+#. list of language codes by priority, when the localized resource
+#. found for first of those languages will be used. This is useful when
+#. two languages share sufficient commonality, that they can use each
+#. other's resources rather than duplicating them. For example,
+#. Swedish (sv) and Danish (da) are such, so Swedish translator could
+#. translate this message as "sv,da", while Danish as "da,sv".
+#: src/image.cpp:421
+msgid "language code for localized resources^en_US"
+msgstr ""
+
+#: src/mapgen_dialog.cpp:113
+msgid "Map Generator"
+msgstr "맵 생성기"
+
+#: src/mapgen_dialog.cpp:120
+msgid "Players:"
+msgstr "플레이어 수:"
+
+#: src/mapgen_dialog.cpp:123
+msgid "Number of hills:"
+msgstr "언덕의 숫자:"
+
+#: src/mapgen_dialog.cpp:124
+msgid "Max hill size:"
+msgstr "최대 언덕 크기:"
+
+#: src/mapgen_dialog.cpp:125
+msgid "Villages:"
+msgstr "마을 수:"
+
+#: src/mapgen_dialog.cpp:126
+msgid "Castle size:"
+msgstr "성 크기:"
+
+#: src/mapgen_dialog.cpp:127
+msgid "Landform:"
+msgstr "지형:"
+
+#: src/mapgen_dialog.cpp:249
+msgid "Roads between castles"
+msgstr "성 사이에 도로를 둔다"
+
+#: src/mapgen_dialog.cpp:306
+msgid "/1000 tiles"
+msgstr "/1000 칸"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Coastal"
+msgstr "해안"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Inland"
+msgstr "내륙"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Island"
+msgstr "섬"
+
+#: src/marked-up_text.cpp:439
+msgid "The maximum text width is less than 1."
+msgstr ""
+
+#: src/preferences_display.cpp:123 src/preferences_display.cpp:179
+msgid ""
+"The video mode could not be changed. Your window manager must be set to 16 "
+"bits per pixel to run the game in windowed mode. Your display must support "
+"1024x768x16 to run the game full screen."
+msgstr ""
+
+#: src/preferences_display.cpp:276
+msgid "Hotkey Settings"
+msgstr "단축키 설정"
+
+#: src/preferences_display.cpp:282 src/preferences_display.cpp:351
+msgid "Press desired hotkey (Esc cancels)"
+msgstr "원하는 단축키를 누르세요 (Esc는 취소)"
+
+#: src/preferences_display.cpp:301
+msgid "Action"
+msgstr "행동"
+
+#: src/preferences_display.cpp:301
+msgid "Binding"
+msgstr "단축키"
+
+#: src/preferences_display.cpp:313
+msgid "Change Hotkey"
+msgstr "단축키 바꾸기"
+
+#: src/preferences_display.cpp:316
+msgid "Clear Hotkey"
+msgstr "단축키 제거"
+
+#: src/preferences_display.cpp:394 src/preferences_display.cpp:402
+#: src/preferences_display.cpp:414
+msgid "This hotkey is already in use."
+msgstr "이 단축키는 이미 사용되고 있습니다."
+
+#: src/preferences_display.cpp:429
+msgid ""
+"Screenshot hotkeys should be combined with the Control, Alt or Meta "
+"modifiers to avoid problems."
+msgstr ""
+"문제 발생 방지를 위해 스크린샷 단축키는 컨트롤, 알트 및 메타 키와 이어져 있어"
+"야 합니다."
+
+#: src/preferences_display.cpp:429
+msgid "Warning"
+msgstr ""
+
+#: src/preferences_display.cpp:530
+msgid "There are no alternative video modes available"
+msgstr ""
+
+#: src/preferences_display.cpp:561
+msgid " (widescreen)"
+msgstr " (와이드스크린)"
+
+#: src/preferences_display.cpp:565
+msgid "Choose Resolution"
+msgstr "해상도를 선택하십시오"
+
+#: src/terrain_translation.cpp:715
+msgid ""
+"A terrain with a string with more than 4 characters has been found, the "
+"affected terrain is :"
+msgstr ""
+
+#: src/text.cpp:719
+msgid "The text contains invalid markup: "
+msgstr ""
+
+#: src/wml_exception.cpp:60
+msgid ""
+"An error due to possibly invalid WML occurred\n"
+"The error message is :"
+msgstr ""
+
+#: src/wml_exception.cpp:62
+msgid "When reporting the bug please include the following error message :"
+msgstr ""
+
+#: src/wml_exception.cpp:92
+msgid ""
+"In section '[$section|]' where '$primary_key| = $primary_value' the "
+"mandatory key '$key|' isn't set."
+msgstr ""
+
+#: src/wml_exception.cpp:95
+msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
+msgstr ""
+
+#: src/wml_exception.cpp:111
+msgid ""
+"The key '$key' is deprecated and support will be removed in version "
+"$removal_version."
+msgstr ""
+
+#: src/wml_exception.cpp:130
+msgid ""
+"The key '$deprecated_key' has been renamed to '$key'. Support for "
+"'$deprecated_key' will be removed in version $removal_version."
+msgstr ""
+
+#~ msgid "Saved preference:"
+#~ msgstr "설정된 테마:"
+
+#~ msgid "Add waypoint"
+#~ msgstr "중간 지점 추가"
+
+#~ msgid "Stop"
+#~ msgstr "정지"
+
+#~ msgid "Play"
+#~ msgstr "재생"
+
+#~ msgid "Reset"
+#~ msgstr "처음부터"
+
+#~ msgid "Close Window"
+#~ msgstr "창 닫기"
+
+#, fuzzy
+#~ msgid "Aquatic Village"
+#~ msgstr "마을"
+
+#, fuzzy
+#~ msgid "Sunken Keep"
+#~ msgstr "수중 성 본영"
+
+#, fuzzy
+#~ msgid "Swamp Keep"
+#~ msgstr "늪"
+
+#~ msgid "Reverse Time Graphics"
+#~ msgstr "시간 그래픽 반전"
+
+#~ msgid "Music Volume:"
+#~ msgstr "음악 볼륨:"
+
+#, fuzzy
+#~ msgid "Select unit:"
+#~ msgstr "모두 선택"
+
+#~ msgid "Fort"
+#~ msgstr "요새"
+
+#~ msgid "Ruin"
+#~ msgstr "잔해"
+
+#~ msgid "Elven Keep"
+#~ msgstr "엘프 본성"
+
+#~ msgid "Snow Forest"
+#~ msgstr "눈밭 숲"
+
+#~ msgid "Savanna"
+#~ msgstr "열대 초원"
+
+#~ msgid "Mushroom Grove Lit"
+#~ msgstr "빛나는 버섯 수풀"
+
+#~ msgid "River Ford"
+#~ msgstr "시내"
+
+#~ msgid "Impassable Desert Mountains"
+#~ msgstr "정복불능 사막 산맥"
+
+#~ msgid "Wall"
+#~ msgstr "벽"
+
+#, fuzzy
+#~ msgid "Save The Map"
+#~ msgstr "맵 저장"
+
+#~ msgid "Adjust Gamma"
+#~ msgstr "밝기 조절"
+
+#~ msgid "Gamma:"
+#~ msgstr "밝기:"
+
+#, fuzzy
+#~ msgid "Change username"
+#~ msgstr "언어 설정"
+
+#~ msgid "Your modifications to the map will be lost. Continue?"
+#~ msgstr "당신의 수정된 맵을 잃을 것입니다. 계속 하시겠습니까?"
+
+#~ msgid "Generate New Map"
+#~ msgstr "새로운 맵 생성"
+
+#~ msgid "Random Generator Settings"
+#~ msgstr "랜덤 생성기 설정"
+
+#~ msgid "Video Mode"
+#~ msgstr "비디오 모드"
+
+#~ msgid "X-Axis"
+#~ msgstr "X-축"
+
+#~ msgid "Y-Axis"
+#~ msgstr "Y-축"
+
+#~ msgid "Flip around (this may change the dimensions of the map):"
+#~ msgstr "회전하기 (이 옵션은 맵의 넓이를 변화 시킬 수 있습니다):"
+
+#~ msgid "Save As"
+#~ msgstr "다른 이름으로 저장"
+
+#~ msgid "Flip Map"
+#~ msgstr "맵 뒤집기"
+
+#~ msgid "Draw Terrain"
+#~ msgstr "지형 그리기"
+
+#~ msgid "Save Hotkeys"
+#~ msgstr "단축키 저장"
+
+#, fuzzy
+#~ msgid "Advanced Mode"
+#~ msgstr "고급"
