@@ -14,6 +14,10 @@ else(MSVC)
 	include_directories( ${FONTCONFIG_INCLUDE_DIRS} )
 endif(MSVC)
 
+if(QNX)
+	include_directories( ${Boost_INCLUDE_DIR} )
+endif(QNX)
+
 
 include_directories( ${SDL_INCLUDE_DIR} )
 include_directories( ${PANGOCAIRO_INCLUDE_DIRS} )
