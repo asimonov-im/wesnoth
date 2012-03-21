@@ -84,12 +84,21 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>icons</name>
+			<type>2</type>
+			<locationURI>WESNOTH_ICON</locationURI>
+		</link>
+		<link>
 			<name>src</name>
 			<type>2</type>
 			<locationURI>WESNOTH_SRC</locationURI>
 		</link>
 	</linkedResources>
 	<variableList>
+		<variable>
+			<name>WESNOTH_ICON</name>
+			<value>$%7BPARENT-2-PROJECT_LOC%7D/icons</value>
+		</variable>
 		<variable>
 			<name>WESNOTH_SRC</name>
 			<value>$%7BPARENT-2-PROJECT_LOC%7D/src</value>

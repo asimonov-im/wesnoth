@@ -50,6 +50,7 @@
     <!--  The category where the application appears. Either core.games or core.media. -->
     <category>core.games</category>
     <asset path="icon.png">icon.png</asset>
+    <asset path="/home/asimonov/Redman/wesnoth/icons/wesnoth-icon-Mac.png">wesnoth-icon-Mac.png</asset>
     <configuration id="com.qnx.qcc.toolChain.1354431692" name="Default">
        <platformArchitecture>armle-v7</platformArchitecture>
        <asset path="arm/o.le-v7/build/wesnoth" entry="true" type="Qnx/Elf">wesnoth</asset>
@@ -91,7 +92,7 @@
     
     <!--  The icon for the application, which should be 86x86. -->
     <icon>
-        <image>icon.png</image>
+        <image>wesnoth-icon-Mac.png</image>
     </icon>
     
     <!--  The splash screen that will appear when your application is launching. Should be 1024x600. -->
