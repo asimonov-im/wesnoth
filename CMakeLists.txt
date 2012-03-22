@@ -27,9 +27,11 @@ find_package(Gettext)
 # src/gettext.cpp since it includes libintl.h)
 find_package(Libintl REQUIRED)
 
+if (NOT CMAKE_CROSSCOMPILING OR NOT QNXNTO)
 find_package(X11)
+endif (NOT CMAKE_CROSSCOMPILING OR NOT QNXNTO)
 
-if(NOT MSVC AND NOT QNX)
+if(NOT MSVC AND NOT QNXNTO)
 	#needed to get some SDL defines in... (as of rev31694 -D_GNU_SOURCE=1 is required!)
 	set(SDL_CONFIG "sdl-config" CACHE STRING "Path to sdl-config script")
 	exec_program(${SDL_CONFIG} ARGS "--cflags" OUTPUT_VARIABLE SDL_CFLAGS)
@@ -37,17 +39,17 @@ if(NOT MSVC AND NOT QNX)
 
 	# Use the safer `mkstemp' instead of `tmpnam' on POSIX systems.
 	add_definitions(-DLUA_USE_POSIX)
-endif(NOT MSVC AND NOT QNX)
+endif(NOT MSVC AND NOT QNXNTO)
 
 if(MSVC)
 	add_definitions(-D_SCL_SECURE_NO_WARNINGS)
 	add_definitions(-D_CRT_SECURE_NO_WARNINGS)
 endif(MSVC)
 
-if (QNX)
+if (QNXNTO)
 	add_definitions(-D__PLAYBOOK__)
 	add_definitions(-D__LITTLE_ENDIAN__)
-endif(QNX)
+endif(QNXNTO)
 
 #check for some compiler/arch specific things and export defines accordingly...
 include(SearchForStuff)
@@ -124,13 +126,13 @@ if(CMAKE_COMPILER_IS_GNUCXX)
 			set(STRICT_FLAGS "")
 		endif(ENABLE_STRICT_COMPILATION)
 
-		if(QNX)
+		if(QNXNTO)
 			set(PLATFORM_FLAGS "-V4.4.2,gcc_ntoarmv7le_gpp")
 			set(CXX_STDLIB "-Wc,-std=gnu++98")
-		else(QNX)
+		else(QNXNTO)
 			set(PLATFORM_FLAGS "")
 			set(CXX_STDLIB "-std=c++98")
-		endif(QNX)
+		endif(QNXNTO)
 
 		# Strict compilation for C files is disabled until somebody wants to clean them.
 		set(CMAKE_C_FLAGS "${PLATFORM_FLAGS} -O2 -W -Wall -ansi $ENV{CFLAGS}"

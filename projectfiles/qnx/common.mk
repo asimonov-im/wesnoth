@@ -4,9 +4,9 @@ all: build/wesnoth
 
 build/wesnoth:
 ifeq ($(OPTIMIZE_TYPE),)
-	$(WESNOTH_ROOT)/build_for_playbook.sh
+	$(WESNOTH_ROOT)/build_for_playbook.sh --root $(WESNOTH_ROOT) -p $(WESNOTH_ROOT)/.. --pkg-config $(WESNOTH_ROOT)/../install/lib/pkgconfig
 else
-	$(WESNOTH_ROOT)/build_for_playbook.sh debug
+	$(WESNOTH_ROOT)/build_for_playbook.sh --debug --root $(WESNOTH_ROOT) -p $(WESNOTH_ROOT)/.. --pkg-config $(WESNOTH_ROOT)/../install/lib/pkgconfig
 endif
 
 clean:
