@@ -10,13 +10,13 @@
 
 BUILD_TYPE=Release
 if [ -z "$WESNOTH_ROOT" ]; then
-  WESNOTH_ROOT=$(PWD)
+  WESNOTH_ROOT=${PWD}
 fi
 if [ -z "$PROJECT_ROOT" ]; then
-  PROJECT_ROOT=$(PWD)/..
+  PROJECT_ROOT=${PWD}/..
 fi
-PKG_CONFIG_PATH=$(PWD)/../install/lib/pkgconfig
-PKG_CONFIG_LIBDIR=$(PWD)/../install/lib/pkgconfig
+PKG_CONFIG_PATH=${PWD}/../install/lib/pkgconfig
+PKG_CONFIG_LIBDIR=${PWD}/../install/lib/pkgconfig
 while true; do
   case "$1" in
     -h | --help ) 
