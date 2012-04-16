@@ -500,6 +500,7 @@ set(wesnoth-main_SRC
 	gui/dialogs/simple_item_selector.cpp
 	gui/dialogs/tip.cpp
 	gui/dialogs/title_screen.cpp
+	gui/dialogs/touch_game_menu.cpp
 	gui/dialogs/transient_message.cpp
 	gui/dialogs/unit_attack.cpp
 	gui/dialogs/unit_create.cpp

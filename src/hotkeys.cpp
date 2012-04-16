@@ -26,6 +26,7 @@
 #include "gettext.hpp"
 #include "gui/dialogs/message.hpp"
 #include "gui/dialogs/transient_message.hpp"
+#include "gui/dialogs/touch_game_menu.hpp"
 #include "gui/widgets/window.hpp"
 #include "filesystem.hpp"
 #include "log.hpp"
@@ -881,6 +882,65 @@ void key_event(display& disp, const SDL_KeyboardEvent& event, command_executor* 
 	}
 
 	key_event_execute(disp,event,executor);
+}
+
+void swipe_menu_event(display& disp, command_executor* executor)
+{
+	gui2::ttouch_game_menu dlg;
+
+	try {
+		dlg.show(disp.video());
+	} catch(twml_exception& e) {
+		e.show(disp);
+	}
+
+	switch (dlg.get_retval()) {
+		case gui2::ttouch_game_menu::SAVE_GAME:
+			executor->save_game();
+			break;
+		case gui2::ttouch_game_menu::LOAD_GAME:
+			executor->load_game();
+			break;
+		case gui2::ttouch_game_menu::QUIT_GAME:
+		{
+			const int res = gui::dialog(disp,_("Quit"),_("Do you really want to quit?"),gui::YES_NO).show(); 
+			if(res == 0)
+			throw end_level_exception(QUIT);
+			break;   
+		}
+		case gui2::ttouch_game_menu::OBJECTIVES:
+			executor->objectives();
+			break;
+		case gui2::ttouch_game_menu::RECALL:
+			executor->recall();
+			break;
+		case gui2::ttouch_game_menu::RECRUIT:
+			executor->recruit();
+			break;
+		case gui2::ttouch_game_menu::UNDO:
+			executor->undo();
+			break;
+		case gui2::ttouch_game_menu::REDO:
+			executor->redo();
+			break;
+		case gui2::ttouch_game_menu::PREFERENCES:
+			executor->preferences();
+			break;
+		case gui2::ttouch_game_menu::UNIT_LIST:
+			executor->unit_list();
+			break;
+		case gui2::ttouch_game_menu::ENEMY_MOVES:
+			executor->show_enemy_moves(false);
+			break;
+		case gui2::ttouch_game_menu::STATISTICS:
+			executor->show_statistics();
+			break;
+		case gui2::ttouch_game_menu::NOTHING:
+		default:
+			break;
+	}
+	return;
+	//execute_command(disp,HOTKEY_SCREENSHOT,executor);
 }
 
 void button_event_execute(display& disp, const SDL_JoyButtonEvent& event, command_executor* executor)
