@@ -27,9 +27,11 @@ find_package(Gettext)
 # src/gettext.cpp since it includes libintl.h)
 find_package(Libintl REQUIRED)
 
+if (NOT CMAKE_CROSSCOMPILING OR NOT QNXNTO)
 find_package(X11)
+endif (NOT CMAKE_CROSSCOMPILING OR NOT QNXNTO)
 
-if(NOT MSVC)
+if(NOT MSVC AND NOT QNXNTO)
 	#needed to get some SDL defines in... (as of rev31694 -D_GNU_SOURCE=1 is required!)
 	set(SDL_CONFIG "sdl-config" CACHE STRING "Path to sdl-config script")
 	exec_program(${SDL_CONFIG} ARGS "--cflags" OUTPUT_VARIABLE SDL_CFLAGS)
@@ -37,12 +39,17 @@ if(NOT MSVC)
 
 	# Use the safer `mkstemp' instead of `tmpnam' on POSIX systems.
 	add_definitions(-DLUA_USE_POSIX)
-endif(NOT MSVC)
+endif(NOT MSVC AND NOT QNXNTO)
 
 if(MSVC)
 	add_definitions(-D_SCL_SECURE_NO_WARNINGS)
 	add_definitions(-D_CRT_SECURE_NO_WARNINGS)
 endif(MSVC)
+
+if (QNXNTO)
+	add_definitions(-D__PLAYBOOK__)
+	add_definitions(-D__LITTLE_ENDIAN__)
+endif(QNXNTO)
 
 #check for some compiler/arch specific things and export defines accordingly...
 include(SearchForStuff)
@@ -119,19 +126,27 @@ if(CMAKE_COMPILER_IS_GNUCXX)
 			set(STRICT_FLAGS "")
 		endif(ENABLE_STRICT_COMPILATION)
 
+		if(QNXNTO)
+			set(PLATFORM_FLAGS "-V4.4.2,gcc_ntoarmv7le_gpp")
+			set(CXX_STDLIB "-Wc,-std=gnu++98")
+		else(QNXNTO)
+			set(PLATFORM_FLAGS "")
+			set(CXX_STDLIB "-std=c++98")
+		endif(QNXNTO)
+
 		# Strict compilation for C files is disabled until somebody wants to clean them.
-		set(CMAKE_C_FLAGS "-O2 -W -Wall -ansi $ENV{CFLAGS}"
+		set(CMAKE_C_FLAGS "${PLATFORM_FLAGS} -O2 -W -Wall -ansi $ENV{CFLAGS}"
 				CACHE STRING "Flags used by the C compiler during normal builds." FORCE)
-		set(CMAKE_C_FLAGS_DEBUG "-O0 -DDEBUG -ggdb3 -W -Wall -ansi $ENV{CFLAGS}"
+		set(CMAKE_C_FLAGS_DEBUG "${PLATFORM_FLAGS} -O0 -DDEBUG -ggdb3 -W -Wall -ansi $ENV{CFLAGS}"
 				CACHE STRING "Flags used by the C compiler during debug builds." FORCE)
-		set(CMAKE_C_FLAGS_RELEASE "-O3 -DNDEBUG -W -Wall -ansi $ENV{CFLAGS} -Wno-unused"
+		set(CMAKE_C_FLAGS_RELEASE "${PLATFORM_FLAGS} -O3 -DNDEBUG -W -Wall -ansi $ENV{CFLAGS} -Wno-unused"
 				CACHE STRING "Flags used by the C compiler during release builds." FORCE)
 
-		set(CMAKE_CXX_FLAGS "-O2 -W -Wall -std=c++98 ${STRICT_FLAGS} $ENV{CXXFLAGS}"
+		set(CMAKE_CXX_FLAGS "${PLATFORM_FLAGS} -O2 -W -Wall ${CXX_STDLIB} ${STRICT_FLAGS} $ENV{CXXFLAGS}"
 				CACHE STRING "Flags used by the CXX compiler during normal builds." FORCE)
-		set(CMAKE_CXX_FLAGS_DEBUG "-O0 -DDEBUG -ggdb3 -W -Wall -std=c++98 ${STRICT_FLAGS} $ENV{CXXFLAGS}"
+		set(CMAKE_CXX_FLAGS_DEBUG "${PLATFORM_FLAGS} -O0 -DDEBUG -ggdb3 -W -Wall ${CXX_STDLIB} ${STRICT_FLAGS} $ENV{CXXFLAGS}"
 				CACHE STRING "Flags used by the CXX compiler during debug builds." FORCE)
-		set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG -W -Wall -std=c++98 ${STRICT_FLAGS} $ENV{CXXFLAGS} -Wno-unused"
+		set(CMAKE_CXX_FLAGS_RELEASE "${PLATFORM_FLAGS} -O3 -DNDEBUG -W -Wall ${CXX_STDLIB} ${STRICT_FLAGS} $ENV{CXXFLAGS} -Wno-unused"
 				CACHE STRING "Flags used by the CXX compiler during release builds." FORCE)
 
 	endif(NOT CONFIGURED)

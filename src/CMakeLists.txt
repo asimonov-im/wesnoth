@@ -14,6 +14,10 @@ else(MSVC)
 	include_directories( ${FONTCONFIG_INCLUDE_DIRS} )
 endif(MSVC)
 
+if(QNXNTO)
+	include_directories( ${Boost_INCLUDE_DIR} )
+endif(QNXNTO)
+
 
 include_directories( ${SDL_INCLUDE_DIR} )
 include_directories( ${PANGOCAIRO_INCLUDE_DIRS} )
@@ -496,6 +500,7 @@ set(wesnoth-main_SRC
 	gui/dialogs/simple_item_selector.cpp
 	gui/dialogs/tip.cpp
 	gui/dialogs/title_screen.cpp
+	gui/dialogs/touch_game_menu.cpp
 	gui/dialogs/transient_message.cpp
 	gui/dialogs/unit_attack.cpp
 	gui/dialogs/unit_create.cpp
