@@ -109,6 +109,9 @@ void controller_base::handle_event(const SDL_Event& event)
 			}
 		}
 		break;
+	case SDL_USEREVENT:
+		hotkey::swipe_menu_event(get_display(),this);
+		break;
 	default:
 		break;
 	}

@@ -367,6 +367,7 @@ public:
 void key_event(display& disp, const SDL_KeyboardEvent& event, command_executor* executor);
 void button_event(display& disp, const SDL_JoyButtonEvent& event, command_executor* executor);
 void hat_event(display& disp, const SDL_JoyHatEvent& event, command_executor* executor);
+void swipe_menu_event(display& disp, command_executor* executor);
 
 void execute_command(display& disp, HOTKEY_COMMAND command, command_executor* executor, int index=-1);
 
