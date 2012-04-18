@@ -110,7 +110,6 @@ void controller_base::handle_event(const SDL_Event& event)
 		}
 		break;
 	case SDL_USEREVENT:
-		ERR_DP << "controller_base swipe event!!!!!!\n";
 		hotkey::swipe_menu_event(get_display(),this);
 		break;
 	default:
